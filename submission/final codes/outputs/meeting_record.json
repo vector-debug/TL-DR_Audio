@@ -1,0 +1,114 @@
+{
+  "meeting_info": {
+    "title": "RM Springfield meeting",
+    "date": "Unspecified",
+    "duration": "0:10:03",
+    "attendees": [
+      "Christy Groenheide",
+      "Deputy Mayor",
+      "Glenn Fuel",
+      "Kaczynski",
+      "Miller",
+      "Warren"
+    ],
+    "purpose": "Council meeting to approve the agenda, minutes, consent agenda and address new business items such as the Board of Revision, ward appropriations, and delegation to external forums."
+  },
+  "executive_summary": "The council convened on September 15, 2026, approved the meeting agenda and minutes unanimously. A consent agenda covering several items was also approved without opposition. New business included establishing the 2027 Board of Revision, allocating ward appropriations, and delegating council members to attend regional recycling and agricultural conventions. All decisions were carried unanimously and the meeting was adjourned at 6:10 pm.",
+  "discussion_points": [
+    {
+      "topic": "Agenda and minutes approval",
+      "points": [
+        "Agenda was moved and seconded by Miller and Warren and approved unanimously.",
+        "Minutes for September 1st, 2026 were moved and seconded by Fuel and Kaczynski and approved unanimously."
+      ],
+      "outcome": "Both agenda and minutes were approved."
+    },
+    {
+      "topic": "Consent agenda",
+      "points": [
+        "Items 9.1‑9.4 were grouped into a consent agenda.",
+        "Mover and seconder were Kaczynski and Warren."
+      ],
+      "outcome": "Consent agenda approved unanimously."
+    },
+    {
+      "topic": "Board of Revision 2027",
+      "points": [
+        "Resolution set the Board meeting for November 12, 2026 and listed members: Doug Shaver (Chair), Councillor Melinda Warren, Councillor Glenn Fuel, Christy Groenheide (Secretary).",
+        "Mover and seconder were Darian and Warren."
+      ],
+      "outcome": "Resolution adopted unanimously."
+    },
+    {
+      "topic": "Ward appropriations",
+      "points": [
+        "Appropriation of $110 each for wards 2, 3, 4, and mayor; $150 for ward 1.",
+        "Mover and seconder were Miller and Warren."
+      ],
+      "outcome": "Appropriations approved unanimously."
+    },
+    {
+      "topic": "Delegations to external forums",
+      "points": [
+        "Council delegated to attend Manitoba Association of Regional Recyclers forum on October 14‑15 in Winnipeg.",
+        "Council delegated to attend AMM Fall Convention in Brandon, November 23‑26."
+      ],
+      "outcome": "Both delegations approved unanimously."
+    },
+    {
+      "topic": "Adjournment",
+      "points": [
+        "Meeting adjourned at 6:10 pm after a unanimous vote."
+      ],
+      "outcome": "Meeting adjourned."
+    }
+  ],
+  "decisions": [
+    {
+      "decision": "Approved the agenda unanimously.",
+      "context": "",
+      "evidence": "approval of the agenda is hereby done. If I can get a show of hands of those in approval first, that is unanimous, so carried."
+    },
+    {
+      "decision": "Adopted the minutes for September 1st, 2026 unanimously.",
+      "context": "",
+      "evidence": "Then I'll pose the question first to those in support with a show of hands. That is unanimous. Again, so carried."
+    },
+    {
+      "decision": "Approved the consent agenda (items 9.1‑9.4) unanimously.",
+      "context": "",
+      "evidence": "If I can get a show of first of the question of those in support for the consent agenda, please. That is unanimous and so carried."
+    },
+    {
+      "decision": "Resolved that the RMS Springfield 2027 Board of Revision be held on November 12, 2026 and composed of Doug Shaver (Chair), Councillor Melinda Warren, Councillor Glenn Fuel, and Christy Groenheide (Secretary), unanimously.",
+      "context": "",
+      "evidence": "I'll pose the question first to those in support. The show of hands. That is unanimous and so carried."
+    },
+    {
+      "decision": "Approved the 2026 ward appropriations (Tristan Fandage wards 2‑4 and mayor $110 each; Ward 1 $150) unanimously.",
+      "context": "",
+      "evidence": "With that being explained, I'll pose a question for those in support. That is unanimous and so carried."
+    },
+    {
+      "decision": "Delegated all of Council to attend the Manitoba Association of Regional Recyclers forum on October 14‑15, 2026, unanimously.",
+      "context": "",
+      "evidence": "Bill is in support. Unanimous and so carried."
+    },
+    {
+      "decision": "Delegated all of Council to attend the AMM Fall Convention and Pre‑Convention Seminar in Brandon, November 23‑26, 2026, unanimously.",
+      "context": "",
+      "evidence": "It's unanimous."
+    },
+    {
+      "decision": "Adjourned the meeting at 6:10 pm unanimously.",
+      "context": "",
+      "evidence": "Show of hands are those in support of adjourning the meeting. It's unanimous. At 610, we're going to adjourn the meeting."
+    }
+  ],
+  "action_items": [],
+  "open_questions": [],
+  "next_steps": [
+    "Another meeting is planned in the next week (exact date unspecified).",
+    "Council to consider appointing a citizen to the Board of Revision in future council sessions."
+  ]
+}

@@ -1,0 +1,22 @@
+Below are records extracted from {total} consecutive parts of ONE meeting, in
+chronological order (part 1 was spoken first). Combine them into one final,
+professional, information-rich meeting record, following every rule in the
+system message. Do not reduce detailed topic discussion to decisions only.
+Retain substantive context, reasoning, alternatives, questions, concerns,
+motions, participants, numbers and follow-up discussion while merging
+duplicates.
+
+1. Use only the content of these records. Do not add anything.
+2. Later parts override earlier parts. If a later part changes, reverses or cancels a decision or task, keep only the final version. A proposal from an earlier part becomes a decision only if a later part shows it was agreed. A question answered in a later part is removed from open_questions.
+3. Merge duplicates (the same decision, task or topic in several parts) into one item. Keep an owner or deadline if any part states it.
+4. Copy every "evidence" quote exactly as it appears in the records. Never rewrite it.
+5. meeting_info: use values stated in any part.
+6. discussion_points: group by major topic or agenda item across parts, in the
+order topics were first raised. Combine all substantive points under the
+appropriate topic and preserve the chronology within it. Keep context,
+people_involved, proposals, questions_concerns, motions, outcome and decision
+when supported by the records; leave optional fields empty when not stated.
+7. executive_summary: 3-5 concise sentences about the whole meeting and what came out of it.
+
+RECORDS:
+{notes}

@@ -1,0 +1,15 @@
+## Key Decisions
+
+{% for item in decisions %}
+{{ loop.index }}. **{{ item.decision }}**
+{% if item.context %}
+   - {{ item.context }}
+{% endif %}
+{% if item.evidence %}
+   - **Evidence:** "{{ item.evidence }}"
+{% endif %}
+
+{% else %}
+**No decisions were reached during this meeting.**
+
+{% endfor %}

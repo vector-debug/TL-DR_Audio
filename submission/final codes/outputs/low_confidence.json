@@ -1,0 +1,290 @@
+[
+  {
+    "segment_index": 1,
+    "word": " RM",
+    "start": 4.2,
+    "end": 4.4,
+    "prob": 0.354,
+    "context": "This is the Springfield meeting agenda for September"
+  },
+  {
+    "segment_index": 2,
+    "word": " p",
+    "start": 12.68,
+    "end": 13.04,
+    "prob": 0.403,
+    "context": "to order at exactly 6.m."
+  },
+  {
+    "segment_index": 6,
+    "word": " in",
+    "start": 27.78,
+    "end": 27.9,
+    "prob": 0.41,
+    "context": "order here to my right descending"
+  },
+  {
+    "segment_index": 8,
+    "word": " Councillors",
+    "start": 32.64,
+    "end": 33.08,
+    "prob": 0.316,
+    "context": "Kaczynski, Miller, and Warren."
+  },
+  {
+    "segment_index": 9,
+    "word": " land",
+    "start": 36.18,
+    "end": 36.6,
+    "prob": 0.437,
+    "context": "Then we'll go to acknowledgement, please."
+  },
+  {
+    "segment_index": 12,
+    "word": " RM",
+    "start": 42.14,
+    "end": 42.32,
+    "prob": 0.004,
+    "context": "The Springfield acknowledges that we are"
+  },
+  {
+    "segment_index": 22,
+    "word": " the",
+    "start": 82.84,
+    "end": 83.02,
+    "prob": 0.279,
+    "context": "a letter of concurrence for Bell MTS Tower near Lincrest"
+  },
+  {
+    "segment_index": 22,
+    "word": " Tower",
+    "start": 83.58,
+    "end": 84.12,
+    "prob": 0.462,
+    "context": "concurrence for the Bell MTS near Lincrest Airport there."
+  },
+  {
+    "segment_index": 25,
+    "word": " of",
+    "start": 97.06,
+    "end": 97.26,
+    "prob": 0.436,
+    "context": "get a show of hands those in approval first, that"
+  },
+  {
+    "segment_index": 30,
+    "word": " Put",
+    "start": 114.24,
+    "end": 114.76,
+    "prob": 0.381,
+    "context": "it out to Council."
+  },
+  {
+    "segment_index": 33,
+    "word": " Then",
+    "start": 119.18,
+    "end": 119.82,
+    "prob": 0.304,
+    "context": "I'll pose the question first"
+  },
+  {
+    "segment_index": 39,
+    "word": " Council's",
+    "start": 143.28,
+    "end": 143.84,
+    "prob": 0.4,
+    "context": "If good to prepare to put"
+  },
+  {
+    "segment_index": 39,
+    "word": " to",
+    "start": 144.22,
+    "end": 144.52,
+    "prob": 0.441,
+    "context": "If Council's good prepare to put all those"
+  },
+  {
+    "segment_index": 48,
+    "word": " of",
+    "start": 195.96,
+    "end": 196.18,
+    "prob": 0.371,
+    "context": "really high on the scale things to be done for"
+  },
+  {
+    "segment_index": 49,
+    "word": " And",
+    "start": 201.34,
+    "end": 201.68,
+    "prob": 0.31,
+    "context": "we have another meeting, I"
+  },
+  {
+    "segment_index": 50,
+    "word": " of",
+    "start": 211.58,
+    "end": 211.78,
+    "prob": 0.199,
+    "context": "get a show of first the question of those in"
+  },
+  {
+    "segment_index": 52,
+    "word": " New",
+    "start": 219.22,
+    "end": 219.36,
+    "prob": 0.455,
+    "context": "We'll go to Business."
+  },
+  {
+    "segment_index": 53,
+    "word": " Item",
+    "start": 220.08,
+    "end": 220.9,
+    "prob": 0.438,
+    "context": "That's 10.1, Board of Revision."
+  },
+  {
+    "segment_index": 54,
+    "word": " mover",
+    "start": 224.38,
+    "end": 224.52,
+    "prob": 0.445,
+    "context": "So can I get a or a seconder, please?"
+  },
+  {
+    "segment_index": 55,
+    "word": " Darian",
+    "start": 225.92,
+    "end": 226.36,
+    "prob": 0.451,
+    "context": "and Warren."
+  },
+  {
+    "segment_index": 58,
+    "word": " And",
+    "start": 243.46,
+    "end": 244.4,
+    "prob": 0.423,
+    "context": "I guess the option is"
+  },
+  {
+    "segment_index": 58,
+    "word": " –",
+    "start": 251.86,
+    "end": 252.06,
+    "prob": 0.256,
+    "context": "is out there if we this is an election year,"
+  },
+  {
+    "segment_index": 68,
+    "word": " –",
+    "start": 300.02,
+    "end": 300.12,
+    "prob": 0.025,
+    "context": "Then we'll have we have Councillor Fuel that's"
+  },
+  {
+    "segment_index": 73,
+    "word": " And",
+    "start": 318.38,
+    "end": 318.86,
+    "prob": 0.354,
+    "context": "be it further resolved that"
+  },
+  {
+    "segment_index": 83,
+    "word": " council,",
+    "start": 344.16,
+    "end": 345.3,
+    "prob": 0.497,
+    "context": "But I think the next council coming in"
+  },
+  {
+    "segment_index": 83,
+    "word": " –",
+    "start": 348.26,
+    "end": 348.88,
+    "prob": 0.127,
+    "context": "coming in should seriously think well, it's not."
+  },
+  {
+    "segment_index": 110,
+    "word": " if",
+    "start": 469.3,
+    "end": 469.42,
+    "prob": 0.337,
+    "context": "condition, but if Tristan's listening, he's able to do something"
+  },
+  {
+    "segment_index": 112,
+    "word": " it",
+    "start": 475.34,
+    "end": 475.48,
+    "prob": 0.418,
+    "context": "Be resolved that the following 2026"
+  },
+  {
+    "segment_index": 121,
+    "word": " forum",
+    "start": 523.04,
+    "end": 523.36,
+    "prob": 0.077,
+    "context": "Manitoba Association of Regional Recyclers on October 14th and 15th"
+  },
+  {
+    "segment_index": 125,
+    "word": " and",
+    "start": 533.58,
+    "end": 533.7,
+    "prob": 0.007,
+    "context": "Unanimous so carried."
+  },
+  {
+    "segment_index": 129,
+    "word": " Tarian",
+    "start": 542.34,
+    "end": 544.28,
+    "prob": 0.482,
+    "context": "and Kaczynski."
+  },
+  {
+    "segment_index": 131,
+    "word": " Thank",
+    "start": 558.56,
+    "end": 559.58,
+    "prob": 0.396,
+    "context": "you."
+  },
+  {
+    "segment_index": 136,
+    "word": " If",
+    "start": 576.99,
+    "end": 578.07,
+    "prob": 0.494,
+    "context": "I get a mover and"
+  },
+  {
+    "segment_index": 140,
+    "word": " At",
+    "start": 590.45,
+    "end": 590.67,
+    "prob": 0.245,
+    "context": "610, we're going to adjourn"
+  },
+  {
+    "segment_index": 141,
+    "word": " Council",
+    "start": 592.67,
+    "end": 592.97,
+    "prob": 0.408,
+    "context": "If can remain behind for our"
+  },
+  {
+    "segment_index": 142,
+    "word": " Although",
+    "start": 597.41,
+    "end": 597.99,
+    "prob": 0.274,
+    "context": "it's over with now, but"
+  }
+]

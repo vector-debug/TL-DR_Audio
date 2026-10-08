@@ -1,0 +1,18 @@
+Below is part {part} of {total} of a meeting transcript. Parts are in the order they were spoken.
+
+Write the meeting record for THIS PART, following every rule in the system
+message. Act as a professional minutes writer, not a decision-only extractor.
+Capture the substantive discussion in topic-based sections, including context,
+reasoning, alternatives, questions, concerns, proposals, motions and outcomes
+when stated. Preserve names, dates, amounts, locations, item numbers and
+chronology. The executive summary remains concise; the detailed topic records
+should be as complete as the transcript warrants without filler.
+- Read the whole part before deciding anything: a later sentence in this part may confirm, change or cancel an earlier one.
+- If this is not the last part, a later part may still change things. Record only what this part says; the parts will be combined later.
+- executive_summary: 3-5 concise sentences on what this part was about and what
+  came out of it. Do not let this brevity limit the detailed topic records.
+
+TRANSCRIPT PART {part}:
+"""
+{text}
+"""

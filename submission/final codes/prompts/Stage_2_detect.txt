@@ -1,0 +1,23 @@
+Inspect the transcript chunk below for likely speech-recognition errors.
+
+This is a detection gate, not a correction task. Return has_error=false when
+the text is plausible, even if it could be stylistically improved. Return
+has_error=true only when there is a likely ASR error, especially in a marked
+low-confidence word. Do not rewrite or summarize the transcript.
+
+Return strict JSON only:
+{
+  "has_error": false,
+  "suspect_phrases": [],
+  "reason": ""
+}
+
+DOMAIN AND CONTEXT:
+{domain}
+{context}
+
+GLOSSARY TERMS:
+{glossary}
+
+TRANSCRIPT CHUNK:
+{text}

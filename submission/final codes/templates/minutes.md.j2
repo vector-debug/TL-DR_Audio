@@ -1,0 +1,78 @@
+# Meeting Summary
+
+## Meeting Information
+- **Title:** {{ meeting_info.title }}
+- **Date:** {{ meeting_info.date }}
+- **Duration:** {{ meeting_info.duration }}
+- **Attendees:** {{ meeting_info.attendees | join(", ") or "Unspecified" }}
+- **Purpose:** {{ meeting_info.purpose }}
+
+## Executive Summary
+{{ executive_summary }}
+
+## Detailed Meeting Minutes
+
+{% for topic in discussion_points %}
+### {{ loop.index }}. {{ topic.topic }}
+{% for point in topic.points %}
+- {{ point }}
+{% endfor %}
+{% if topic.context %}
+**Context**
+{% for item in topic.context %}
+- {{ item }}
+{% endfor %}
+{% endif %}
+{% if topic.people_involved %}
+**People involved:** {{ topic.people_involved | join(", ") }}
+{% endif %}
+{% if topic.proposals %}
+**Proposals / alternatives**
+{% for proposal in topic.proposals %}
+- {{ proposal }}
+{% endfor %}
+{% endif %}
+{% if topic.questions_concerns %}
+**Questions / concerns**
+{% for item in topic.questions_concerns %}
+- {{ item }}
+{% endfor %}
+{% endif %}
+{% if topic.motions %}
+**Motions**
+{% for motion in topic.motions %}
+- **Motion:** {{ motion.motion }}
+  - **Moved by:** {{ motion.moved_by }}
+  - **Seconded by:** {{ motion.seconded_by }}
+  - **Outcome:** {{ motion.outcome }}
+{% if motion.evidence %}  - **Evidence:** "{{ motion.evidence }}"
+{% endif %}
+{% endfor %}
+{% endif %}
+{% if topic.outcome %}
+- **Outcome:** {{ topic.outcome }}
+{% endif %}
+{% if topic.decision %}
+- **Decision:** {{ topic.decision }}
+{% endif %}
+
+{% else %}
+No detailed discussion points were recorded.
+
+{% endfor %}
+{% include "key_decisions.md.j2" %}
+{% include "action_items.md.j2" %}
+
+## Open Questions / Unresolved Issues
+{% for question in open_questions %}
+- {{ question }}
+{% else %}
+- None recorded.
+{% endfor %}
+
+## Next Steps
+{% for step in next_steps %}
+- {{ step }}
+{% else %}
+- None stated.
+{% endfor %}

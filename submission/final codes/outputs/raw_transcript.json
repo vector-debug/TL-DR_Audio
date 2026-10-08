@@ -1,0 +1,8870 @@
+[
+  {
+    "start": 1.9,
+    "end": 3.06,
+    "text": "Thank you very much.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 1.9,
+        "end": 2.4,
+        "prob": 0.72
+      },
+      {
+        "word": " you",
+        "start": 2.4,
+        "end": 2.56,
+        "prob": 0.999
+      },
+      {
+        "word": " very",
+        "start": 2.56,
+        "end": 2.76,
+        "prob": 0.989
+      },
+      {
+        "word": " much.",
+        "start": 2.76,
+        "end": 3.06,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 3.38,
+    "end": 8.54,
+    "text": "This is the RM Springfield meeting agenda for September the 15th of 2026.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " This",
+        "start": 3.38,
+        "end": 3.98,
+        "prob": 0.985
+      },
+      {
+        "word": " is",
+        "start": 3.98,
+        "end": 4.08,
+        "prob": 0.996
+      },
+      {
+        "word": " the",
+        "start": 4.08,
+        "end": 4.2,
+        "prob": 0.996
+      },
+      {
+        "word": " RM",
+        "start": 4.2,
+        "end": 4.4,
+        "prob": 0.354
+      },
+      {
+        "word": " Springfield",
+        "start": 4.4,
+        "end": 4.96,
+        "prob": 0.869
+      },
+      {
+        "word": " meeting",
+        "start": 4.96,
+        "end": 5.18,
+        "prob": 0.957
+      },
+      {
+        "word": " agenda",
+        "start": 5.18,
+        "end": 5.6,
+        "prob": 0.983
+      },
+      {
+        "word": " for",
+        "start": 5.6,
+        "end": 5.9,
+        "prob": 0.988
+      },
+      {
+        "word": " September",
+        "start": 5.9,
+        "end": 6.42,
+        "prob": 0.971
+      },
+      {
+        "word": " the",
+        "start": 6.42,
+        "end": 6.6,
+        "prob": 0.793
+      },
+      {
+        "word": " 15th",
+        "start": 6.6,
+        "end": 7.1,
+        "prob": 0.996
+      },
+      {
+        "word": " of",
+        "start": 7.1,
+        "end": 7.3,
+        "prob": 0.987
+      },
+      {
+        "word": " 2026.",
+        "start": 7.3,
+        "end": 8.54,
+        "prob": 0.982
+      }
+    ]
+  },
+  {
+    "start": 8.96,
+    "end": 13.2,
+    "text": "We are calling the meeting to order at exactly 6 p.m.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We",
+        "start": 8.96,
+        "end": 9.56,
+        "prob": 0.988
+      },
+      {
+        "word": " are",
+        "start": 9.56,
+        "end": 9.68,
+        "prob": 0.799
+      },
+      {
+        "word": " calling",
+        "start": 9.68,
+        "end": 9.96,
+        "prob": 0.991
+      },
+      {
+        "word": " the",
+        "start": 9.96,
+        "end": 10.14,
+        "prob": 0.917
+      },
+      {
+        "word": " meeting",
+        "start": 10.14,
+        "end": 10.32,
+        "prob": 0.995
+      },
+      {
+        "word": " to",
+        "start": 10.32,
+        "end": 10.48,
+        "prob": 0.996
+      },
+      {
+        "word": " order",
+        "start": 10.48,
+        "end": 10.66,
+        "prob": 0.999
+      },
+      {
+        "word": " at",
+        "start": 10.66,
+        "end": 10.88,
+        "prob": 0.874
+      },
+      {
+        "word": " exactly",
+        "start": 10.88,
+        "end": 11.28,
+        "prob": 0.997
+      },
+      {
+        "word": " 6",
+        "start": 11.28,
+        "end": 12.68,
+        "prob": 0.919
+      },
+      {
+        "word": " p",
+        "start": 12.68,
+        "end": 13.04,
+        "prob": 0.403
+      },
+      {
+        "word": ".m.",
+        "start": 13.04,
+        "end": 13.2,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 15.14,
+    "text": "All of Council is present here.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " All",
+        "start": 13.44,
+        "end": 13.64,
+        "prob": 0.986
+      },
+      {
+        "word": " of",
+        "start": 13.64,
+        "end": 13.76,
+        "prob": 0.989
+      },
+      {
+        "word": " Council",
+        "start": 13.76,
+        "end": 14.06,
+        "prob": 0.54
+      },
+      {
+        "word": " is",
+        "start": 14.06,
+        "end": 14.42,
+        "prob": 0.988
+      },
+      {
+        "word": " present",
+        "start": 14.42,
+        "end": 14.86,
+        "prob": 0.954
+      },
+      {
+        "word": " here.",
+        "start": 14.86,
+        "end": 15.14,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 18.44,
+    "text": "Our CEO is on a course.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Our",
+        "start": 15.9,
+        "end": 16.5,
+        "prob": 0.999
+      },
+      {
+        "word": " CEO",
+        "start": 16.5,
+        "end": 17.06,
+        "prob": 0.989
+      },
+      {
+        "word": " is",
+        "start": 17.06,
+        "end": 17.54,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 17.54,
+        "end": 18.04,
+        "prob": 0.953
+      },
+      {
+        "word": " a",
+        "start": 18.04,
+        "end": 18.2,
+        "prob": 0.996
+      },
+      {
+        "word": " course.",
+        "start": 18.2,
+        "end": 18.44,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 18.68,
+    "end": 23.02,
+    "text": "Our Assistant CEO, Christy Groenheide, is in position here.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Our",
+        "start": 18.68,
+        "end": 18.82,
+        "prob": 0.998
+      },
+      {
+        "word": " Assistant",
+        "start": 18.82,
+        "end": 19.14,
+        "prob": 0.764
+      },
+      {
+        "word": " CEO,",
+        "start": 19.14,
+        "end": 19.7,
+        "prob": 0.996
+      },
+      {
+        "word": " Christy",
+        "start": 19.96,
+        "end": 20.5,
+        "prob": 0.725
+      },
+      {
+        "word": " Groenheide,",
+        "start": 20.5,
+        "end": 21.0,
+        "prob": 0.663
+      },
+      {
+        "word": " is",
+        "start": 21.08,
+        "end": 21.24,
+        "prob": 0.999
+      },
+      {
+        "word": " in",
+        "start": 21.24,
+        "end": 22.14,
+        "prob": 0.999
+      },
+      {
+        "word": " position",
+        "start": 22.14,
+        "end": 22.66,
+        "prob": 0.623
+      },
+      {
+        "word": " here.",
+        "start": 22.66,
+        "end": 23.02,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 23.52,
+    "end": 28.3,
+    "text": "I'll present Council in descending order here to my right in descending",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I'll",
+        "start": 23.52,
+        "end": 24.06,
+        "prob": 0.924
+      },
+      {
+        "word": " present",
+        "start": 24.06,
+        "end": 24.46,
+        "prob": 0.999
+      },
+      {
+        "word": " Council",
+        "start": 24.46,
+        "end": 25.1,
+        "prob": 0.702
+      },
+      {
+        "word": " in",
+        "start": 25.1,
+        "end": 26.28,
+        "prob": 0.787
+      },
+      {
+        "word": " descending",
+        "start": 26.28,
+        "end": 26.58,
+        "prob": 0.989
+      },
+      {
+        "word": " order",
+        "start": 26.58,
+        "end": 26.96,
+        "prob": 1.0
+      },
+      {
+        "word": " here",
+        "start": 26.96,
+        "end": 27.2,
+        "prob": 0.993
+      },
+      {
+        "word": " to",
+        "start": 27.2,
+        "end": 27.38,
+        "prob": 0.945
+      },
+      {
+        "word": " my",
+        "start": 27.38,
+        "end": 27.52,
+        "prob": 1.0
+      },
+      {
+        "word": " right",
+        "start": 27.52,
+        "end": 27.78,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 27.78,
+        "end": 27.9,
+        "prob": 0.41
+      },
+      {
+        "word": " descending",
+        "start": 27.9,
+        "end": 28.3,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 28.3,
+    "end": 30.94,
+    "text": "as Deputy Mayor and Council Glenn Fuel.",
+    "avg_logprob": -0.28303571655636744,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " as",
+        "start": 28.3,
+        "end": 28.96,
+        "prob": 0.755
+      },
+      {
+        "word": " Deputy",
+        "start": 28.96,
+        "end": 29.18,
+        "prob": 0.996
+      },
+      {
+        "word": " Mayor",
+        "start": 29.18,
+        "end": 29.44,
+        "prob": 0.998
+      },
+      {
+        "word": " and",
+        "start": 29.44,
+        "end": 29.6,
+        "prob": 0.98
+      },
+      {
+        "word": " Council",
+        "start": 29.6,
+        "end": 29.88,
+        "prob": 0.96
+      },
+      {
+        "word": " Glenn",
+        "start": 29.88,
+        "end": 30.2,
+        "prob": 0.685
+      },
+      {
+        "word": " Fuel.",
+        "start": 30.2,
+        "end": 30.94,
+        "prob": 0.791
+      }
+    ]
+  },
+  {
+    "start": 32.64,
+    "end": 34.5,
+    "text": "Councillors Kaczynski, Miller, and Warren.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Councillors",
+        "start": 32.64,
+        "end": 33.08,
+        "prob": 0.316
+      },
+      {
+        "word": " Kaczynski,",
+        "start": 33.08,
+        "end": 33.52,
+        "prob": 0.93
+      },
+      {
+        "word": " Miller,",
+        "start": 33.7,
+        "end": 33.96,
+        "prob": 0.984
+      },
+      {
+        "word": " and",
+        "start": 34.12,
+        "end": 34.2,
+        "prob": 0.991
+      },
+      {
+        "word": " Warren.",
+        "start": 34.2,
+        "end": 34.5,
+        "prob": 0.938
+      }
+    ]
+  },
+  {
+    "start": 35.12,
+    "end": 37.78,
+    "text": "Then we'll go to land acknowledgement, please.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 35.12,
+        "end": 35.56,
+        "prob": 0.979
+      },
+      {
+        "word": " we'll",
+        "start": 35.56,
+        "end": 35.78,
+        "prob": 0.967
+      },
+      {
+        "word": " go",
+        "start": 35.78,
+        "end": 35.92,
+        "prob": 0.998
+      },
+      {
+        "word": " to",
+        "start": 35.92,
+        "end": 36.18,
+        "prob": 0.999
+      },
+      {
+        "word": " land",
+        "start": 36.18,
+        "end": 36.6,
+        "prob": 0.437
+      },
+      {
+        "word": " acknowledgement,",
+        "start": 36.6,
+        "end": 37.08,
+        "prob": 0.843
+      },
+      {
+        "word": " please.",
+        "start": 37.36,
+        "end": 37.78,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 38.68,
+    "end": 39.96,
+    "text": "That's item number three on the agenda.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 38.68,
+        "end": 38.86,
+        "prob": 0.999
+      },
+      {
+        "word": " item",
+        "start": 38.86,
+        "end": 39.1,
+        "prob": 0.941
+      },
+      {
+        "word": " number",
+        "start": 39.1,
+        "end": 39.3,
+        "prob": 0.99
+      },
+      {
+        "word": " three",
+        "start": 39.3,
+        "end": 39.48,
+        "prob": 0.972
+      },
+      {
+        "word": " on",
+        "start": 39.48,
+        "end": 39.64,
+        "prob": 0.994
+      },
+      {
+        "word": " the",
+        "start": 39.64,
+        "end": 39.72,
+        "prob": 1.0
+      },
+      {
+        "word": " agenda.",
+        "start": 39.72,
+        "end": 39.96,
+        "prob": 0.997
+      }
+    ]
+  },
+  {
+    "start": 40.08,
+    "end": 40.8,
+    "text": "People are following.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " People",
+        "start": 40.08,
+        "end": 40.24,
+        "prob": 0.523
+      },
+      {
+        "word": " are",
+        "start": 40.24,
+        "end": 40.42,
+        "prob": 0.99
+      },
+      {
+        "word": " following.",
+        "start": 40.42,
+        "end": 40.8,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 41.92,
+    "end": 45.48,
+    "text": "The RM Springfield acknowledges that we are gathered on ancestral lands,",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " The",
+        "start": 41.92,
+        "end": 42.14,
+        "prob": 0.988
+      },
+      {
+        "word": " RM",
+        "start": 42.14,
+        "end": 42.32,
+        "prob": 0.004
+      },
+      {
+        "word": " Springfield",
+        "start": 42.32,
+        "end": 42.82,
+        "prob": 0.588
+      },
+      {
+        "word": " acknowledges",
+        "start": 42.82,
+        "end": 43.4,
+        "prob": 0.998
+      },
+      {
+        "word": " that",
+        "start": 43.4,
+        "end": 43.58,
+        "prob": 0.999
+      },
+      {
+        "word": " we",
+        "start": 43.58,
+        "end": 43.72,
+        "prob": 0.999
+      },
+      {
+        "word": " are",
+        "start": 43.72,
+        "end": 43.86,
+        "prob": 0.999
+      },
+      {
+        "word": " gathered",
+        "start": 43.86,
+        "end": 44.2,
+        "prob": 1.0
+      },
+      {
+        "word": " on",
+        "start": 44.2,
+        "end": 44.42,
+        "prob": 1.0
+      },
+      {
+        "word": " ancestral",
+        "start": 44.42,
+        "end": 44.98,
+        "prob": 0.999
+      },
+      {
+        "word": " lands,",
+        "start": 44.98,
+        "end": 45.48,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 45.82,
+    "end": 49.88,
+    "text": "Treaty 1 territory, traditional territory, Anishinaabe, Cree, Oji-Cree,",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Treaty",
+        "start": 45.82,
+        "end": 45.96,
+        "prob": 0.966
+      },
+      {
+        "word": " 1",
+        "start": 45.96,
+        "end": 46.16,
+        "prob": 0.758
+      },
+      {
+        "word": " territory,",
+        "start": 46.16,
+        "end": 46.56,
+        "prob": 0.881
+      },
+      {
+        "word": " traditional",
+        "start": 46.9,
+        "end": 47.2,
+        "prob": 0.862
+      },
+      {
+        "word": " territory,",
+        "start": 47.2,
+        "end": 47.74,
+        "prob": 0.997
+      },
+      {
+        "word": " Anishinaabe,",
+        "start": 47.9,
+        "end": 48.4,
+        "prob": 0.884
+      },
+      {
+        "word": " Cree,",
+        "start": 48.96,
+        "end": 49.14,
+        "prob": 0.969
+      },
+      {
+        "word": " Oji",
+        "start": 49.28,
+        "end": 49.52,
+        "prob": 0.776
+      },
+      {
+        "word": "-Cree,",
+        "start": 49.52,
+        "end": 49.88,
+        "prob": 0.819
+      }
+    ]
+  },
+  {
+    "start": 50.08,
+    "end": 53.9,
+    "text": "Dakota, Dene's people, and on the national homeland of the Red River, Métis.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Dakota,",
+        "start": 50.08,
+        "end": 50.48,
+        "prob": 0.997
+      },
+      {
+        "word": " Dene's",
+        "start": 50.76,
+        "end": 51.1,
+        "prob": 0.753
+      },
+      {
+        "word": " people,",
+        "start": 51.1,
+        "end": 51.4,
+        "prob": 0.959
+      },
+      {
+        "word": " and",
+        "start": 51.56,
+        "end": 51.64,
+        "prob": 1.0
+      },
+      {
+        "word": " on",
+        "start": 51.64,
+        "end": 51.76,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 51.76,
+        "end": 51.84,
+        "prob": 1.0
+      },
+      {
+        "word": " national",
+        "start": 51.84,
+        "end": 52.16,
+        "prob": 0.977
+      },
+      {
+        "word": " homeland",
+        "start": 52.16,
+        "end": 52.58,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 52.58,
+        "end": 52.9,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 52.9,
+        "end": 53.02,
+        "prob": 1.0
+      },
+      {
+        "word": " Red",
+        "start": 53.02,
+        "end": 53.18,
+        "prob": 0.971
+      },
+      {
+        "word": " River,",
+        "start": 53.18,
+        "end": 53.46,
+        "prob": 1.0
+      },
+      {
+        "word": " Métis.",
+        "start": 53.54,
+        "end": 53.9,
+        "prob": 0.929
+      }
+    ]
+  },
+  {
+    "start": 54.72,
+    "end": 59.0,
+    "text": "We are on item four right now, and that's approval of the agenda.",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We",
+        "start": 54.72,
+        "end": 55.16,
+        "prob": 1.0
+      },
+      {
+        "word": " are",
+        "start": 55.16,
+        "end": 55.26,
+        "prob": 0.686
+      },
+      {
+        "word": " on",
+        "start": 55.26,
+        "end": 55.4,
+        "prob": 1.0
+      },
+      {
+        "word": " item",
+        "start": 55.4,
+        "end": 55.9,
+        "prob": 0.999
+      },
+      {
+        "word": " four",
+        "start": 55.9,
+        "end": 56.52,
+        "prob": 0.993
+      },
+      {
+        "word": " right",
+        "start": 56.52,
+        "end": 56.82,
+        "prob": 1.0
+      },
+      {
+        "word": " now,",
+        "start": 56.82,
+        "end": 57.06,
+        "prob": 1.0
+      },
+      {
+        "word": " and",
+        "start": 57.18,
+        "end": 57.26,
+        "prob": 0.995
+      },
+      {
+        "word": " that's",
+        "start": 57.26,
+        "end": 57.62,
+        "prob": 1.0
+      },
+      {
+        "word": " approval",
+        "start": 57.62,
+        "end": 58.42,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 58.42,
+        "end": 58.58,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 58.58,
+        "end": 58.68,
+        "prob": 1.0
+      },
+      {
+        "word": " agenda.",
+        "start": 58.68,
+        "end": 59.0,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 59.22,
+    "end": 60.82,
+    "text": "Could I get a mover and a seconder for that, please?",
+    "avg_logprob": -0.19986510834247945,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Could",
+        "start": 59.22,
+        "end": 59.32,
+        "prob": 0.96
+      },
+      {
+        "word": " I",
+        "start": 59.32,
+        "end": 59.4,
+        "prob": 1.0
+      },
+      {
+        "word": " get",
+        "start": 59.4,
+        "end": 59.5,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 59.5,
+        "end": 59.58,
+        "prob": 1.0
+      },
+      {
+        "word": " mover",
+        "start": 59.58,
+        "end": 59.78,
+        "prob": 0.998
+      },
+      {
+        "word": " and",
+        "start": 59.78,
+        "end": 60.0,
+        "prob": 0.991
+      },
+      {
+        "word": " a",
+        "start": 60.0,
+        "end": 60.08,
+        "prob": 0.999
+      },
+      {
+        "word": " seconder",
+        "start": 60.08,
+        "end": 60.36,
+        "prob": 0.977
+      },
+      {
+        "word": " for",
+        "start": 60.36,
+        "end": 60.44,
+        "prob": 1.0
+      },
+      {
+        "word": " that,",
+        "start": 60.44,
+        "end": 60.6,
+        "prob": 1.0
+      },
+      {
+        "word": " please?",
+        "start": 60.7,
+        "end": 60.82,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 60.94,
+    "end": 62.74,
+    "text": "That's Miller and Warren.",
+    "avg_logprob": -0.21472168201580644,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 60.94,
+        "end": 61.66,
+        "prob": 0.679
+      },
+      {
+        "word": " Miller",
+        "start": 61.66,
+        "end": 61.96,
+        "prob": 0.746
+      },
+      {
+        "word": " and",
+        "start": 61.96,
+        "end": 62.38,
+        "prob": 0.989
+      },
+      {
+        "word": " Warren.",
+        "start": 62.38,
+        "end": 62.74,
+        "prob": 0.917
+      }
+    ]
+  },
+  {
+    "start": 64.2,
+    "end": 69.02,
+    "text": "Any comments, questions with regards to the agenda as it exists here?",
+    "avg_logprob": -0.21472168201580644,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Any",
+        "start": 64.2,
+        "end": 64.84,
+        "prob": 0.98
+      },
+      {
+        "word": " comments,",
+        "start": 64.84,
+        "end": 65.48,
+        "prob": 0.986
+      },
+      {
+        "word": " questions",
+        "start": 65.72,
+        "end": 66.28,
+        "prob": 0.987
+      },
+      {
+        "word": " with",
+        "start": 66.28,
+        "end": 66.7,
+        "prob": 0.794
+      },
+      {
+        "word": " regards",
+        "start": 66.7,
+        "end": 67.04,
+        "prob": 0.781
+      },
+      {
+        "word": " to",
+        "start": 67.04,
+        "end": 67.34,
+        "prob": 0.998
+      },
+      {
+        "word": " the",
+        "start": 67.34,
+        "end": 67.62,
+        "prob": 0.997
+      },
+      {
+        "word": " agenda",
+        "start": 67.62,
+        "end": 67.94,
+        "prob": 0.976
+      },
+      {
+        "word": " as",
+        "start": 67.94,
+        "end": 68.18,
+        "prob": 0.886
+      },
+      {
+        "word": " it",
+        "start": 68.18,
+        "end": 68.32,
+        "prob": 0.996
+      },
+      {
+        "word": " exists",
+        "start": 68.32,
+        "end": 68.8,
+        "prob": 0.991
+      },
+      {
+        "word": " here?",
+        "start": 68.8,
+        "end": 69.02,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 69.5,
+    "end": 70.5,
+    "text": "I see none.",
+    "avg_logprob": -0.21472168201580644,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 69.5,
+        "end": 70.14,
+        "prob": 0.648
+      },
+      {
+        "word": " see",
+        "start": 70.14,
+        "end": 70.3,
+        "prob": 0.996
+      },
+      {
+        "word": " none.",
+        "start": 70.3,
+        "end": 70.5,
+        "prob": 0.995
+      }
+    ]
+  },
+  {
+    "start": 70.76,
+    "end": 73.52,
+    "text": "I guess just for clarity for people that are listening here,",
+    "avg_logprob": -0.21472168201580644,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 70.76,
+        "end": 70.76,
+        "prob": 0.851
+      },
+      {
+        "word": " guess",
+        "start": 70.76,
+        "end": 70.96,
+        "prob": 0.993
+      },
+      {
+        "word": " just",
+        "start": 70.96,
+        "end": 71.54,
+        "prob": 0.574
+      },
+      {
+        "word": " for",
+        "start": 71.54,
+        "end": 71.7,
+        "prob": 0.997
+      },
+      {
+        "word": " clarity",
+        "start": 71.7,
+        "end": 72.04,
+        "prob": 0.998
+      },
+      {
+        "word": " for",
+        "start": 72.04,
+        "end": 72.26,
+        "prob": 0.9
+      },
+      {
+        "word": " people",
+        "start": 72.26,
+        "end": 72.62,
+        "prob": 0.975
+      },
+      {
+        "word": " that",
+        "start": 72.62,
+        "end": 72.8,
+        "prob": 0.978
+      },
+      {
+        "word": " are",
+        "start": 72.8,
+        "end": 72.9,
+        "prob": 1.0
+      },
+      {
+        "word": " listening",
+        "start": 72.9,
+        "end": 73.22,
+        "prob": 0.999
+      },
+      {
+        "word": " here,",
+        "start": 73.22,
+        "end": 73.52,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 75.88,
+    "end": 80.08,
+    "text": "item number 8.1, it's deferred to October the 6th,",
+    "avg_logprob": -0.21472168201580644,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " item",
+        "start": 75.88,
+        "end": 76.52,
+        "prob": 0.564
+      },
+      {
+        "word": " number",
+        "start": 76.52,
+        "end": 76.9,
+        "prob": 0.949
+      },
+      {
+        "word": " 8",
+        "start": 76.9,
+        "end": 77.62,
+        "prob": 0.963
+      },
+      {
+        "word": ".1,",
+        "start": 77.62,
+        "end": 78.18,
+        "prob": 0.998
+      },
+      {
+        "word": " it's",
+        "start": 78.34,
+        "end": 78.68,
+        "prob": 0.996
+      },
+      {
+        "word": " deferred",
+        "start": 78.68,
+        "end": 79.16,
+        "prob": 0.998
+      },
+      {
+        "word": " to",
+        "start": 79.16,
+        "end": 79.28,
+        "prob": 0.998
+      },
+      {
+        "word": " October",
+        "start": 79.28,
+        "end": 79.62,
+        "prob": 0.997
+      },
+      {
+        "word": " the",
+        "start": 79.62,
+        "end": 79.78,
+        "prob": 0.742
+      },
+      {
+        "word": " 6th,",
+        "start": 79.78,
+        "end": 80.08,
+        "prob": 0.968
+      }
+    ]
+  },
+  {
+    "start": 80.08,
+    "end": 86.24,
+    "text": "and that's a letter of concurrence for the Bell MTS Tower near Lincrest Airport there.",
+    "avg_logprob": -0.23832615627639595,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " and",
+        "start": 80.08,
+        "end": 80.2,
+        "prob": 0.545
+      },
+      {
+        "word": " that's",
+        "start": 80.2,
+        "end": 80.46,
+        "prob": 0.991
+      },
+      {
+        "word": " a",
+        "start": 80.46,
+        "end": 80.56,
+        "prob": 0.984
+      },
+      {
+        "word": " letter",
+        "start": 80.56,
+        "end": 80.78,
+        "prob": 0.993
+      },
+      {
+        "word": " of",
+        "start": 80.78,
+        "end": 81.08,
+        "prob": 0.998
+      },
+      {
+        "word": " concurrence",
+        "start": 81.08,
+        "end": 82.36,
+        "prob": 0.978
+      },
+      {
+        "word": " for",
+        "start": 82.36,
+        "end": 82.84,
+        "prob": 0.976
+      },
+      {
+        "word": " the",
+        "start": 82.84,
+        "end": 83.02,
+        "prob": 0.279
+      },
+      {
+        "word": " Bell",
+        "start": 83.02,
+        "end": 83.16,
+        "prob": 0.569
+      },
+      {
+        "word": " MTS",
+        "start": 83.16,
+        "end": 83.58,
+        "prob": 0.974
+      },
+      {
+        "word": " Tower",
+        "start": 83.58,
+        "end": 84.12,
+        "prob": 0.462
+      },
+      {
+        "word": " near",
+        "start": 84.12,
+        "end": 84.62,
+        "prob": 0.824
+      },
+      {
+        "word": " Lincrest",
+        "start": 84.62,
+        "end": 85.24,
+        "prob": 0.714
+      },
+      {
+        "word": " Airport",
+        "start": 85.24,
+        "end": 85.7,
+        "prob": 0.912
+      },
+      {
+        "word": " there.",
+        "start": 85.7,
+        "end": 86.24,
+        "prob": 0.92
+      }
+    ]
+  },
+  {
+    "start": 86.78,
+    "end": 91.4,
+    "text": "So we're going to go past 8.1, and then we're going to be going to the consent agenda.",
+    "avg_logprob": -0.23832615627639595,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 86.78,
+        "end": 87.22,
+        "prob": 0.926
+      },
+      {
+        "word": " we're",
+        "start": 87.22,
+        "end": 87.38,
+        "prob": 0.92
+      },
+      {
+        "word": " going",
+        "start": 87.38,
+        "end": 87.5,
+        "prob": 0.614
+      },
+      {
+        "word": " to",
+        "start": 87.5,
+        "end": 87.62,
+        "prob": 0.997
+      },
+      {
+        "word": " go",
+        "start": 87.62,
+        "end": 88.04,
+        "prob": 0.991
+      },
+      {
+        "word": " past",
+        "start": 88.04,
+        "end": 88.48,
+        "prob": 0.883
+      },
+      {
+        "word": " 8",
+        "start": 88.48,
+        "end": 88.9,
+        "prob": 0.907
+      },
+      {
+        "word": ".1,",
+        "start": 88.9,
+        "end": 89.36,
+        "prob": 0.997
+      },
+      {
+        "word": " and",
+        "start": 89.46,
+        "end": 89.6,
+        "prob": 0.989
+      },
+      {
+        "word": " then",
+        "start": 89.6,
+        "end": 89.7,
+        "prob": 0.997
+      },
+      {
+        "word": " we're",
+        "start": 89.7,
+        "end": 89.86,
+        "prob": 0.991
+      },
+      {
+        "word": " going",
+        "start": 89.86,
+        "end": 89.96,
+        "prob": 0.94
+      },
+      {
+        "word": " to",
+        "start": 89.96,
+        "end": 90.02,
+        "prob": 0.998
+      },
+      {
+        "word": " be",
+        "start": 90.02,
+        "end": 90.1,
+        "prob": 0.987
+      },
+      {
+        "word": " going",
+        "start": 90.1,
+        "end": 90.32,
+        "prob": 0.999
+      },
+      {
+        "word": " to",
+        "start": 90.32,
+        "end": 90.5,
+        "prob": 0.995
+      },
+      {
+        "word": " the",
+        "start": 90.5,
+        "end": 90.66,
+        "prob": 0.994
+      },
+      {
+        "word": " consent",
+        "start": 90.66,
+        "end": 90.94,
+        "prob": 0.656
+      },
+      {
+        "word": " agenda.",
+        "start": 90.94,
+        "end": 91.4,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 92.58,
+    "end": 95.22,
+    "text": "So approval of the agenda is hereby done.",
+    "avg_logprob": -0.23832615627639595,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 92.58,
+        "end": 93.02,
+        "prob": 0.895
+      },
+      {
+        "word": " approval",
+        "start": 93.02,
+        "end": 93.46,
+        "prob": 0.926
+      },
+      {
+        "word": " of",
+        "start": 93.46,
+        "end": 93.66,
+        "prob": 0.989
+      },
+      {
+        "word": " the",
+        "start": 93.66,
+        "end": 93.74,
+        "prob": 0.999
+      },
+      {
+        "word": " agenda",
+        "start": 93.74,
+        "end": 94.02,
+        "prob": 0.996
+      },
+      {
+        "word": " is",
+        "start": 94.02,
+        "end": 94.46,
+        "prob": 0.997
+      },
+      {
+        "word": " hereby",
+        "start": 94.46,
+        "end": 94.84,
+        "prob": 0.96
+      },
+      {
+        "word": " done.",
+        "start": 94.84,
+        "end": 95.22,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 95.54,
+    "end": 100.2,
+    "text": "If I can get a show of hands of those in approval first, that is unanimous, so carried.",
+    "avg_logprob": -0.23832615627639595,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 95.54,
+        "end": 95.58,
+        "prob": 0.983
+      },
+      {
+        "word": " I",
+        "start": 95.58,
+        "end": 95.68,
+        "prob": 0.997
+      },
+      {
+        "word": " can",
+        "start": 95.68,
+        "end": 95.76,
+        "prob": 0.854
+      },
+      {
+        "word": " get",
+        "start": 95.76,
+        "end": 95.86,
+        "prob": 0.992
+      },
+      {
+        "word": " a",
+        "start": 95.86,
+        "end": 96.0,
+        "prob": 0.995
+      },
+      {
+        "word": " show",
+        "start": 96.0,
+        "end": 96.72,
+        "prob": 0.994
+      },
+      {
+        "word": " of",
+        "start": 96.72,
+        "end": 96.86,
+        "prob": 0.996
+      },
+      {
+        "word": " hands",
+        "start": 96.86,
+        "end": 97.06,
+        "prob": 0.998
+      },
+      {
+        "word": " of",
+        "start": 97.06,
+        "end": 97.26,
+        "prob": 0.436
+      },
+      {
+        "word": " those",
+        "start": 97.26,
+        "end": 97.44,
+        "prob": 0.997
+      },
+      {
+        "word": " in",
+        "start": 97.44,
+        "end": 97.58,
+        "prob": 0.951
+      },
+      {
+        "word": " approval",
+        "start": 97.58,
+        "end": 97.86,
+        "prob": 0.996
+      },
+      {
+        "word": " first,",
+        "start": 97.86,
+        "end": 98.16,
+        "prob": 0.974
+      },
+      {
+        "word": " that",
+        "start": 99.0,
+        "end": 99.18,
+        "prob": 0.985
+      },
+      {
+        "word": " is",
+        "start": 99.18,
+        "end": 99.3,
+        "prob": 0.992
+      },
+      {
+        "word": " unanimous,",
+        "start": 99.3,
+        "end": 99.7,
+        "prob": 0.976
+      },
+      {
+        "word": " so",
+        "start": 99.78,
+        "end": 99.88,
+        "prob": 0.992
+      },
+      {
+        "word": " carried.",
+        "start": 99.88,
+        "end": 100.2,
+        "prob": 0.986
+      }
+    ]
+  },
+  {
+    "start": 101.78,
+    "end": 103.76,
+    "text": "Then we'll go to adoption of the minutes, please.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 101.78,
+        "end": 102.3,
+        "prob": 0.575
+      },
+      {
+        "word": " we'll",
+        "start": 102.3,
+        "end": 102.42,
+        "prob": 0.962
+      },
+      {
+        "word": " go",
+        "start": 102.42,
+        "end": 102.52,
+        "prob": 0.995
+      },
+      {
+        "word": " to",
+        "start": 102.52,
+        "end": 102.64,
+        "prob": 0.991
+      },
+      {
+        "word": " adoption",
+        "start": 102.64,
+        "end": 102.96,
+        "prob": 0.956
+      },
+      {
+        "word": " of",
+        "start": 102.96,
+        "end": 103.1,
+        "prob": 0.99
+      },
+      {
+        "word": " the",
+        "start": 103.1,
+        "end": 103.16,
+        "prob": 0.995
+      },
+      {
+        "word": " minutes,",
+        "start": 103.16,
+        "end": 103.38,
+        "prob": 0.898
+      },
+      {
+        "word": " please.",
+        "start": 103.44,
+        "end": 103.76,
+        "prob": 0.847
+      }
+    ]
+  },
+  {
+    "start": 104.14,
+    "end": 105.42,
+    "text": "Mover and a seconder for that, please.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Mover",
+        "start": 104.14,
+        "end": 104.38,
+        "prob": 0.741
+      },
+      {
+        "word": " and",
+        "start": 104.38,
+        "end": 104.58,
+        "prob": 0.899
+      },
+      {
+        "word": " a",
+        "start": 104.58,
+        "end": 104.64,
+        "prob": 0.975
+      },
+      {
+        "word": " seconder",
+        "start": 104.64,
+        "end": 104.9,
+        "prob": 0.942
+      },
+      {
+        "word": " for",
+        "start": 104.9,
+        "end": 105.0,
+        "prob": 0.975
+      },
+      {
+        "word": " that,",
+        "start": 105.0,
+        "end": 105.14,
+        "prob": 0.998
+      },
+      {
+        "word": " please.",
+        "start": 105.42,
+        "end": 105.42,
+        "prob": 0.992
+      }
+    ]
+  },
+  {
+    "start": 106.26,
+    "end": 107.66,
+    "text": "Fuel and Kaczynski.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Fuel",
+        "start": 106.26,
+        "end": 106.62,
+        "prob": 0.836
+      },
+      {
+        "word": " and",
+        "start": 106.62,
+        "end": 106.88,
+        "prob": 0.75
+      },
+      {
+        "word": " Kaczynski.",
+        "start": 106.88,
+        "end": 107.66,
+        "prob": 0.885
+      }
+    ]
+  },
+  {
+    "start": 109.84,
+    "end": 113.34,
+    "text": "And this is the minutes for September 1st of 2026.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 109.84,
+        "end": 110.36,
+        "prob": 0.893
+      },
+      {
+        "word": " this",
+        "start": 110.36,
+        "end": 110.5,
+        "prob": 0.994
+      },
+      {
+        "word": " is",
+        "start": 110.5,
+        "end": 110.62,
+        "prob": 0.998
+      },
+      {
+        "word": " the",
+        "start": 110.62,
+        "end": 110.72,
+        "prob": 0.999
+      },
+      {
+        "word": " minutes",
+        "start": 110.72,
+        "end": 111.0,
+        "prob": 0.981
+      },
+      {
+        "word": " for",
+        "start": 111.0,
+        "end": 111.28,
+        "prob": 0.997
+      },
+      {
+        "word": " September",
+        "start": 111.28,
+        "end": 111.78,
+        "prob": 0.978
+      },
+      {
+        "word": " 1st",
+        "start": 111.78,
+        "end": 112.26,
+        "prob": 0.569
+      },
+      {
+        "word": " of",
+        "start": 112.26,
+        "end": 112.4,
+        "prob": 0.774
+      },
+      {
+        "word": " 2026.",
+        "start": 112.4,
+        "end": 113.34,
+        "prob": 0.989
+      }
+    ]
+  },
+  {
+    "start": 114.24,
+    "end": 115.24,
+    "text": "Put it out to Council.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Put",
+        "start": 114.24,
+        "end": 114.76,
+        "prob": 0.381
+      },
+      {
+        "word": " it",
+        "start": 114.76,
+        "end": 114.88,
+        "prob": 0.694
+      },
+      {
+        "word": " out",
+        "start": 114.88,
+        "end": 114.92,
+        "prob": 0.605
+      },
+      {
+        "word": " to",
+        "start": 114.92,
+        "end": 115.02,
+        "prob": 0.788
+      },
+      {
+        "word": " Council.",
+        "start": 115.02,
+        "end": 115.24,
+        "prob": 0.544
+      }
+    ]
+  },
+  {
+    "start": 115.44,
+    "end": 117.52,
+    "text": "Any additions or comments with regards to this?",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Any",
+        "start": 115.44,
+        "end": 115.54,
+        "prob": 0.992
+      },
+      {
+        "word": " additions",
+        "start": 115.54,
+        "end": 115.94,
+        "prob": 0.989
+      },
+      {
+        "word": " or",
+        "start": 115.94,
+        "end": 116.18,
+        "prob": 0.995
+      },
+      {
+        "word": " comments",
+        "start": 116.18,
+        "end": 116.56,
+        "prob": 0.999
+      },
+      {
+        "word": " with",
+        "start": 116.56,
+        "end": 116.68,
+        "prob": 0.994
+      },
+      {
+        "word": " regards",
+        "start": 116.68,
+        "end": 117.0,
+        "prob": 0.939
+      },
+      {
+        "word": " to",
+        "start": 117.0,
+        "end": 117.26,
+        "prob": 0.999
+      },
+      {
+        "word": " this?",
+        "start": 117.26,
+        "end": 117.52,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 118.24,
+    "end": 119.18,
+    "text": "I see none.",
+    "avg_logprob": -0.33433494697778654,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 118.24,
+        "end": 118.76,
+        "prob": 0.99
+      },
+      {
+        "word": " see",
+        "start": 118.76,
+        "end": 118.96,
+        "prob": 0.998
+      },
+      {
+        "word": " none.",
+        "start": 118.96,
+        "end": 119.18,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 119.18,
+    "end": 124.06,
+    "text": "Then I'll pose the question first to those in support with a show of hands.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 119.18,
+        "end": 119.82,
+        "prob": 0.304
+      },
+      {
+        "word": " I'll",
+        "start": 119.82,
+        "end": 120.18,
+        "prob": 0.968
+      },
+      {
+        "word": " pose",
+        "start": 120.18,
+        "end": 121.62,
+        "prob": 0.966
+      },
+      {
+        "word": " the",
+        "start": 121.62,
+        "end": 121.76,
+        "prob": 0.954
+      },
+      {
+        "word": " question",
+        "start": 121.76,
+        "end": 122.04,
+        "prob": 0.962
+      },
+      {
+        "word": " first",
+        "start": 122.04,
+        "end": 122.38,
+        "prob": 0.934
+      },
+      {
+        "word": " to",
+        "start": 122.38,
+        "end": 122.54,
+        "prob": 0.884
+      },
+      {
+        "word": " those",
+        "start": 122.54,
+        "end": 122.72,
+        "prob": 0.996
+      },
+      {
+        "word": " in",
+        "start": 122.72,
+        "end": 122.92,
+        "prob": 0.993
+      },
+      {
+        "word": " support",
+        "start": 122.92,
+        "end": 123.24,
+        "prob": 0.998
+      },
+      {
+        "word": " with",
+        "start": 123.24,
+        "end": 123.44,
+        "prob": 0.659
+      },
+      {
+        "word": " a",
+        "start": 123.44,
+        "end": 123.5,
+        "prob": 0.889
+      },
+      {
+        "word": " show",
+        "start": 123.5,
+        "end": 123.66,
+        "prob": 0.997
+      },
+      {
+        "word": " of",
+        "start": 123.66,
+        "end": 123.8,
+        "prob": 0.996
+      },
+      {
+        "word": " hands.",
+        "start": 123.8,
+        "end": 124.06,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 124.54,
+    "end": 125.82,
+    "text": "That is unanimous.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That",
+        "start": 124.54,
+        "end": 125.1,
+        "prob": 0.994
+      },
+      {
+        "word": " is",
+        "start": 125.1,
+        "end": 125.24,
+        "prob": 0.993
+      },
+      {
+        "word": " unanimous.",
+        "start": 125.24,
+        "end": 125.82,
+        "prob": 0.995
+      }
+    ]
+  },
+  {
+    "start": 126.06,
+    "end": 126.84,
+    "text": "Again, so carried.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Again,",
+        "start": 126.06,
+        "end": 126.2,
+        "prob": 0.99
+      },
+      {
+        "word": " so",
+        "start": 126.4,
+        "end": 126.48,
+        "prob": 0.995
+      },
+      {
+        "word": " carried.",
+        "start": 126.48,
+        "end": 126.84,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 129.5,
+    "end": 134.86,
+    "text": "I guess we'll go straight by 8.1, which I said just previously.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 129.5,
+        "end": 130.06,
+        "prob": 0.986
+      },
+      {
+        "word": " guess",
+        "start": 130.06,
+        "end": 130.28,
+        "prob": 0.999
+      },
+      {
+        "word": " we'll",
+        "start": 130.28,
+        "end": 130.76,
+        "prob": 0.997
+      },
+      {
+        "word": " go",
+        "start": 130.76,
+        "end": 131.52,
+        "prob": 0.998
+      },
+      {
+        "word": " straight",
+        "start": 131.52,
+        "end": 131.82,
+        "prob": 0.998
+      },
+      {
+        "word": " by",
+        "start": 131.82,
+        "end": 132.04,
+        "prob": 0.994
+      },
+      {
+        "word": " 8",
+        "start": 132.04,
+        "end": 132.58,
+        "prob": 0.974
+      },
+      {
+        "word": ".1,",
+        "start": 132.58,
+        "end": 132.98,
+        "prob": 0.999
+      },
+      {
+        "word": " which",
+        "start": 133.18,
+        "end": 133.26,
+        "prob": 0.999
+      },
+      {
+        "word": " I",
+        "start": 133.26,
+        "end": 133.44,
+        "prob": 0.999
+      },
+      {
+        "word": " said",
+        "start": 133.44,
+        "end": 134.28,
+        "prob": 0.925
+      },
+      {
+        "word": " just",
+        "start": 134.28,
+        "end": 134.48,
+        "prob": 0.986
+      },
+      {
+        "word": " previously.",
+        "start": 134.48,
+        "end": 134.86,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 135.2,
+    "end": 137.0,
+    "text": "We have the consent agenda there.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We",
+        "start": 135.2,
+        "end": 135.76,
+        "prob": 0.999
+      },
+      {
+        "word": " have",
+        "start": 135.76,
+        "end": 135.9,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 135.9,
+        "end": 136.02,
+        "prob": 1.0
+      },
+      {
+        "word": " consent",
+        "start": 136.02,
+        "end": 136.32,
+        "prob": 0.857
+      },
+      {
+        "word": " agenda",
+        "start": 136.32,
+        "end": 136.8,
+        "prob": 1.0
+      },
+      {
+        "word": " there.",
+        "start": 136.8,
+        "end": 137.0,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 137.12,
+    "end": 141.72,
+    "text": "That's items 9.1, 9.2, 9.3, 9.4.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 137.12,
+        "end": 137.44,
+        "prob": 1.0
+      },
+      {
+        "word": " items",
+        "start": 137.44,
+        "end": 138.3,
+        "prob": 0.986
+      },
+      {
+        "word": " 9",
+        "start": 138.3,
+        "end": 138.92,
+        "prob": 0.996
+      },
+      {
+        "word": ".1,",
+        "start": 138.92,
+        "end": 139.42,
+        "prob": 1.0
+      },
+      {
+        "word": " 9",
+        "start": 139.56,
+        "end": 139.72,
+        "prob": 1.0
+      },
+      {
+        "word": ".2,",
+        "start": 139.72,
+        "end": 140.22,
+        "prob": 1.0
+      },
+      {
+        "word": " 9",
+        "start": 140.38,
+        "end": 140.5,
+        "prob": 1.0
+      },
+      {
+        "word": ".3,",
+        "start": 140.5,
+        "end": 140.92,
+        "prob": 1.0
+      },
+      {
+        "word": " 9",
+        "start": 141.02,
+        "end": 141.16,
+        "prob": 0.987
+      },
+      {
+        "word": ".4.",
+        "start": 141.16,
+        "end": 141.72,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 142.72,
+    "end": 147.9,
+    "text": "If Council's good to prepare to put all those together in one consent agenda.",
+    "avg_logprob": -0.18811274436759015,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 142.72,
+        "end": 143.28,
+        "prob": 0.999
+      },
+      {
+        "word": " Council's",
+        "start": 143.28,
+        "end": 143.84,
+        "prob": 0.4
+      },
+      {
+        "word": " good",
+        "start": 143.84,
+        "end": 144.22,
+        "prob": 0.572
+      },
+      {
+        "word": " to",
+        "start": 144.22,
+        "end": 144.52,
+        "prob": 0.441
+      },
+      {
+        "word": " prepare",
+        "start": 144.52,
+        "end": 145.1,
+        "prob": 0.887
+      },
+      {
+        "word": " to",
+        "start": 145.1,
+        "end": 145.4,
+        "prob": 0.985
+      },
+      {
+        "word": " put",
+        "start": 145.4,
+        "end": 145.62,
+        "prob": 1.0
+      },
+      {
+        "word": " all",
+        "start": 145.62,
+        "end": 145.82,
+        "prob": 1.0
+      },
+      {
+        "word": " those",
+        "start": 145.82,
+        "end": 146.18,
+        "prob": 0.959
+      },
+      {
+        "word": " together",
+        "start": 146.18,
+        "end": 146.66,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 146.66,
+        "end": 146.88,
+        "prob": 0.999
+      },
+      {
+        "word": " one",
+        "start": 146.88,
+        "end": 147.06,
+        "prob": 1.0
+      },
+      {
+        "word": " consent",
+        "start": 147.06,
+        "end": 147.48,
+        "prob": 1.0
+      },
+      {
+        "word": " agenda.",
+        "start": 147.48,
+        "end": 147.9,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 148.52,
+    "end": 151.82,
+    "text": "I see no opposition to that.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 148.52,
+        "end": 149.0,
+        "prob": 0.853
+      },
+      {
+        "word": " see",
+        "start": 149.0,
+        "end": 149.18,
+        "prob": 0.996
+      },
+      {
+        "word": " no",
+        "start": 149.18,
+        "end": 149.46,
+        "prob": 0.999
+      },
+      {
+        "word": " opposition",
+        "start": 149.46,
+        "end": 151.1,
+        "prob": 0.985
+      },
+      {
+        "word": " to",
+        "start": 151.1,
+        "end": 151.54,
+        "prob": 0.998
+      },
+      {
+        "word": " that.",
+        "start": 151.54,
+        "end": 151.82,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 152.0,
+    "end": 153.48,
+    "text": "If I can get a mover and a seconder for that, please.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 152.0,
+        "end": 152.1,
+        "prob": 0.976
+      },
+      {
+        "word": " I",
+        "start": 152.1,
+        "end": 152.16,
+        "prob": 0.998
+      },
+      {
+        "word": " can",
+        "start": 152.16,
+        "end": 152.26,
+        "prob": 0.881
+      },
+      {
+        "word": " get",
+        "start": 152.26,
+        "end": 152.34,
+        "prob": 0.979
+      },
+      {
+        "word": " a",
+        "start": 152.34,
+        "end": 152.4,
+        "prob": 0.995
+      },
+      {
+        "word": " mover",
+        "start": 152.4,
+        "end": 152.54,
+        "prob": 0.991
+      },
+      {
+        "word": " and",
+        "start": 152.54,
+        "end": 152.68,
+        "prob": 0.985
+      },
+      {
+        "word": " a",
+        "start": 152.68,
+        "end": 152.74,
+        "prob": 0.988
+      },
+      {
+        "word": " seconder",
+        "start": 152.74,
+        "end": 153.02,
+        "prob": 0.95
+      },
+      {
+        "word": " for",
+        "start": 153.02,
+        "end": 153.1,
+        "prob": 0.996
+      },
+      {
+        "word": " that,",
+        "start": 153.1,
+        "end": 153.24,
+        "prob": 1.0
+      },
+      {
+        "word": " please.",
+        "start": 153.34,
+        "end": 153.48,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 154.6,
+    "end": 156.48,
+    "text": "That's Kaczynski and Warren.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 154.6,
+        "end": 155.08,
+        "prob": 0.998
+      },
+      {
+        "word": " Kaczynski",
+        "start": 155.08,
+        "end": 155.56,
+        "prob": 0.971
+      },
+      {
+        "word": " and",
+        "start": 155.56,
+        "end": 155.9,
+        "prob": 0.994
+      },
+      {
+        "word": " Warren.",
+        "start": 155.9,
+        "end": 156.48,
+        "prob": 0.98
+      }
+    ]
+  },
+  {
+    "start": 158.26,
+    "end": 166.68,
+    "text": "Before we do vote on that there, I just want to congratulate Darian Vassas for her come trial rugby event.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Before",
+        "start": 158.26,
+        "end": 158.74,
+        "prob": 0.995
+      },
+      {
+        "word": " we",
+        "start": 158.74,
+        "end": 159.02,
+        "prob": 1.0
+      },
+      {
+        "word": " do",
+        "start": 159.02,
+        "end": 159.32,
+        "prob": 0.988
+      },
+      {
+        "word": " vote",
+        "start": 159.32,
+        "end": 159.64,
+        "prob": 0.986
+      },
+      {
+        "word": " on",
+        "start": 159.64,
+        "end": 159.82,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 159.82,
+        "end": 160.1,
+        "prob": 1.0
+      },
+      {
+        "word": " there,",
+        "start": 160.1,
+        "end": 160.46,
+        "prob": 0.745
+      },
+      {
+        "word": " I",
+        "start": 160.58,
+        "end": 160.58,
+        "prob": 0.989
+      },
+      {
+        "word": " just",
+        "start": 160.58,
+        "end": 160.68,
+        "prob": 1.0
+      },
+      {
+        "word": " want",
+        "start": 160.68,
+        "end": 160.84,
+        "prob": 0.965
+      },
+      {
+        "word": " to",
+        "start": 160.84,
+        "end": 160.98,
+        "prob": 1.0
+      },
+      {
+        "word": " congratulate",
+        "start": 160.98,
+        "end": 161.82,
+        "prob": 1.0
+      },
+      {
+        "word": " Darian",
+        "start": 161.82,
+        "end": 162.46,
+        "prob": 0.656
+      },
+      {
+        "word": " Vassas",
+        "start": 162.46,
+        "end": 163.0,
+        "prob": 0.527
+      },
+      {
+        "word": " for",
+        "start": 163.0,
+        "end": 163.56,
+        "prob": 0.998
+      },
+      {
+        "word": " her",
+        "start": 163.56,
+        "end": 164.14,
+        "prob": 0.998
+      },
+      {
+        "word": " come",
+        "start": 164.14,
+        "end": 165.7,
+        "prob": 0.639
+      },
+      {
+        "word": " trial",
+        "start": 165.7,
+        "end": 165.94,
+        "prob": 0.651
+      },
+      {
+        "word": " rugby",
+        "start": 165.94,
+        "end": 166.32,
+        "prob": 0.988
+      },
+      {
+        "word": " event.",
+        "start": 166.32,
+        "end": 166.68,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 166.68,
+    "end": 170.06,
+    "text": "It was very successful.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It",
+        "start": 166.68,
+        "end": 167.12,
+        "prob": 0.999
+      },
+      {
+        "word": " was",
+        "start": 167.12,
+        "end": 167.24,
+        "prob": 1.0
+      },
+      {
+        "word": " very",
+        "start": 167.24,
+        "end": 167.52,
+        "prob": 0.978
+      },
+      {
+        "word": " successful.",
+        "start": 167.52,
+        "end": 170.06,
+        "prob": 0.927
+      }
+    ]
+  },
+  {
+    "start": 170.76,
+    "end": 176.54,
+    "text": "It's good to introduce this new sport, or not a new sport, but a sport into the community there.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It's",
+        "start": 170.76,
+        "end": 171.24,
+        "prob": 1.0
+      },
+      {
+        "word": " good",
+        "start": 171.24,
+        "end": 171.38,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 171.38,
+        "end": 171.5,
+        "prob": 1.0
+      },
+      {
+        "word": " introduce",
+        "start": 171.5,
+        "end": 171.9,
+        "prob": 1.0
+      },
+      {
+        "word": " this",
+        "start": 171.9,
+        "end": 172.34,
+        "prob": 0.999
+      },
+      {
+        "word": " new",
+        "start": 172.34,
+        "end": 172.78,
+        "prob": 0.996
+      },
+      {
+        "word": " sport,",
+        "start": 172.78,
+        "end": 173.64,
+        "prob": 1.0
+      },
+      {
+        "word": " or",
+        "start": 173.84,
+        "end": 174.12,
+        "prob": 0.987
+      },
+      {
+        "word": " not",
+        "start": 174.12,
+        "end": 174.28,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 174.28,
+        "end": 174.4,
+        "prob": 0.607
+      },
+      {
+        "word": " new",
+        "start": 174.4,
+        "end": 174.48,
+        "prob": 0.999
+      },
+      {
+        "word": " sport,",
+        "start": 174.48,
+        "end": 174.74,
+        "prob": 1.0
+      },
+      {
+        "word": " but",
+        "start": 174.84,
+        "end": 174.9,
+        "prob": 0.999
+      },
+      {
+        "word": " a",
+        "start": 174.9,
+        "end": 175.04,
+        "prob": 0.996
+      },
+      {
+        "word": " sport",
+        "start": 175.04,
+        "end": 175.4,
+        "prob": 0.999
+      },
+      {
+        "word": " into",
+        "start": 175.4,
+        "end": 175.84,
+        "prob": 0.996
+      },
+      {
+        "word": " the",
+        "start": 175.84,
+        "end": 176.0,
+        "prob": 1.0
+      },
+      {
+        "word": " community",
+        "start": 176.0,
+        "end": 176.36,
+        "prob": 1.0
+      },
+      {
+        "word": " there.",
+        "start": 176.36,
+        "end": 176.54,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 176.62,
+    "end": 177.64,
+    "text": "So I think that's really well done.",
+    "avg_logprob": -0.17361111345666427,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 176.62,
+        "end": 176.7,
+        "prob": 0.95
+      },
+      {
+        "word": " I",
+        "start": 176.7,
+        "end": 176.78,
+        "prob": 0.965
+      },
+      {
+        "word": " think",
+        "start": 176.78,
+        "end": 176.9,
+        "prob": 1.0
+      },
+      {
+        "word": " that's",
+        "start": 176.9,
+        "end": 177.1,
+        "prob": 1.0
+      },
+      {
+        "word": " really",
+        "start": 177.1,
+        "end": 177.26,
+        "prob": 1.0
+      },
+      {
+        "word": " well",
+        "start": 177.26,
+        "end": 177.46,
+        "prob": 1.0
+      },
+      {
+        "word": " done.",
+        "start": 177.46,
+        "end": 177.64,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 179.7,
+    "end": 186.08,
+    "text": "And the Eastman Regional Municipal Committee there, I'm part of that, and it's an exceptional committee there.",
+    "avg_logprob": -0.17956543411128223,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 179.7,
+        "end": 180.24,
+        "prob": 0.504
+      },
+      {
+        "word": " the",
+        "start": 180.24,
+        "end": 180.78,
+        "prob": 0.961
+      },
+      {
+        "word": " Eastman",
+        "start": 180.78,
+        "end": 181.26,
+        "prob": 0.921
+      },
+      {
+        "word": " Regional",
+        "start": 181.26,
+        "end": 181.78,
+        "prob": 0.785
+      },
+      {
+        "word": " Municipal",
+        "start": 181.78,
+        "end": 182.42,
+        "prob": 0.98
+      },
+      {
+        "word": " Committee",
+        "start": 182.42,
+        "end": 182.76,
+        "prob": 0.985
+      },
+      {
+        "word": " there,",
+        "start": 182.76,
+        "end": 183.4,
+        "prob": 0.939
+      },
+      {
+        "word": " I'm",
+        "start": 183.68,
+        "end": 183.76,
+        "prob": 0.995
+      },
+      {
+        "word": " part",
+        "start": 183.76,
+        "end": 183.98,
+        "prob": 0.996
+      },
+      {
+        "word": " of",
+        "start": 183.98,
+        "end": 184.06,
+        "prob": 1.0
+      },
+      {
+        "word": " that,",
+        "start": 184.06,
+        "end": 184.28,
+        "prob": 0.999
+      },
+      {
+        "word": " and",
+        "start": 184.4,
+        "end": 184.44,
+        "prob": 0.981
+      },
+      {
+        "word": " it's",
+        "start": 184.44,
+        "end": 184.62,
+        "prob": 0.974
+      },
+      {
+        "word": " an",
+        "start": 184.62,
+        "end": 184.72,
+        "prob": 0.952
+      },
+      {
+        "word": " exceptional",
+        "start": 184.72,
+        "end": 185.08,
+        "prob": 0.991
+      },
+      {
+        "word": " committee",
+        "start": 185.08,
+        "end": 185.46,
+        "prob": 0.986
+      },
+      {
+        "word": " there.",
+        "start": 185.46,
+        "end": 186.08,
+        "prob": 0.986
+      }
+    ]
+  },
+  {
+    "start": 188.22,
+    "end": 201.34,
+    "text": "The topic is a small modular reactors, which are really high on the scale of things to be done for energy and so on like that, environment, plus seniors housing.",
+    "avg_logprob": -0.17956543411128223,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " The",
+        "start": 188.22,
+        "end": 188.76,
+        "prob": 0.994
+      },
+      {
+        "word": " topic",
+        "start": 188.76,
+        "end": 189.12,
+        "prob": 0.977
+      },
+      {
+        "word": " is",
+        "start": 189.12,
+        "end": 189.34,
+        "prob": 0.99
+      },
+      {
+        "word": " a",
+        "start": 189.34,
+        "end": 189.44,
+        "prob": 0.793
+      },
+      {
+        "word": " small",
+        "start": 189.44,
+        "end": 189.74,
+        "prob": 0.983
+      },
+      {
+        "word": " modular",
+        "start": 189.74,
+        "end": 190.22,
+        "prob": 0.923
+      },
+      {
+        "word": " reactors,",
+        "start": 190.22,
+        "end": 190.64,
+        "prob": 0.994
+      },
+      {
+        "word": " which",
+        "start": 190.78,
+        "end": 190.9,
+        "prob": 1.0
+      },
+      {
+        "word": " are",
+        "start": 190.9,
+        "end": 191.1,
+        "prob": 0.999
+      },
+      {
+        "word": " really",
+        "start": 191.1,
+        "end": 191.58,
+        "prob": 0.998
+      },
+      {
+        "word": " high",
+        "start": 191.58,
+        "end": 192.02,
+        "prob": 1.0
+      },
+      {
+        "word": " on",
+        "start": 192.02,
+        "end": 192.26,
+        "prob": 0.985
+      },
+      {
+        "word": " the",
+        "start": 192.26,
+        "end": 192.5,
+        "prob": 0.997
+      },
+      {
+        "word": " scale",
+        "start": 192.5,
+        "end": 195.96,
+        "prob": 0.806
+      },
+      {
+        "word": " of",
+        "start": 195.96,
+        "end": 196.18,
+        "prob": 0.371
+      },
+      {
+        "word": " things",
+        "start": 196.18,
+        "end": 196.36,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 196.36,
+        "end": 197.18,
+        "prob": 0.981
+      },
+      {
+        "word": " be",
+        "start": 197.18,
+        "end": 197.28,
+        "prob": 1.0
+      },
+      {
+        "word": " done",
+        "start": 197.28,
+        "end": 197.44,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 197.44,
+        "end": 197.64,
+        "prob": 0.997
+      },
+      {
+        "word": " energy",
+        "start": 197.64,
+        "end": 198.02,
+        "prob": 0.999
+      },
+      {
+        "word": " and",
+        "start": 198.02,
+        "end": 198.22,
+        "prob": 0.907
+      },
+      {
+        "word": " so",
+        "start": 198.22,
+        "end": 198.38,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 198.38,
+        "end": 198.54,
+        "prob": 0.99
+      },
+      {
+        "word": " like",
+        "start": 198.54,
+        "end": 198.66,
+        "prob": 0.917
+      },
+      {
+        "word": " that,",
+        "start": 198.66,
+        "end": 198.92,
+        "prob": 0.997
+      },
+      {
+        "word": " environment,",
+        "start": 198.98,
+        "end": 199.66,
+        "prob": 0.79
+      },
+      {
+        "word": " plus",
+        "start": 199.96,
+        "end": 200.64,
+        "prob": 0.997
+      },
+      {
+        "word": " seniors",
+        "start": 200.64,
+        "end": 200.96,
+        "prob": 0.869
+      },
+      {
+        "word": " housing.",
+        "start": 200.96,
+        "end": 201.34,
+        "prob": 0.96
+      }
+    ]
+  },
+  {
+    "start": 201.34,
+    "end": 206.56,
+    "text": "And we have another meeting, I believe, I'm not sure, in the next week there.",
+    "avg_logprob": -0.1722722427319672,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 201.34,
+        "end": 201.68,
+        "prob": 0.31
+      },
+      {
+        "word": " we",
+        "start": 201.68,
+        "end": 201.9,
+        "prob": 0.977
+      },
+      {
+        "word": " have",
+        "start": 201.9,
+        "end": 202.04,
+        "prob": 0.999
+      },
+      {
+        "word": " another",
+        "start": 202.04,
+        "end": 202.26,
+        "prob": 0.999
+      },
+      {
+        "word": " meeting,",
+        "start": 202.26,
+        "end": 202.56,
+        "prob": 0.999
+      },
+      {
+        "word": " I",
+        "start": 202.8,
+        "end": 202.84,
+        "prob": 0.996
+      },
+      {
+        "word": " believe,",
+        "start": 202.84,
+        "end": 203.12,
+        "prob": 0.995
+      },
+      {
+        "word": " I'm",
+        "start": 203.5,
+        "end": 204.86,
+        "prob": 0.971
+      },
+      {
+        "word": " not",
+        "start": 204.86,
+        "end": 205.0,
+        "prob": 0.999
+      },
+      {
+        "word": " sure,",
+        "start": 205.0,
+        "end": 205.18,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 205.32,
+        "end": 205.44,
+        "prob": 0.998
+      },
+      {
+        "word": " the",
+        "start": 205.44,
+        "end": 205.52,
+        "prob": 1.0
+      },
+      {
+        "word": " next",
+        "start": 205.52,
+        "end": 206.08,
+        "prob": 1.0
+      },
+      {
+        "word": " week",
+        "start": 206.08,
+        "end": 206.32,
+        "prob": 0.98
+      },
+      {
+        "word": " there.",
+        "start": 206.32,
+        "end": 206.56,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 207.9,
+    "end": 214.58,
+    "text": "So if I can get a show of first of the question of those in support for the consent agenda, please.",
+    "avg_logprob": -0.1722722427319672,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 207.9,
+        "end": 208.34,
+        "prob": 0.99
+      },
+      {
+        "word": " if",
+        "start": 208.34,
+        "end": 208.78,
+        "prob": 0.808
+      },
+      {
+        "word": " I",
+        "start": 208.78,
+        "end": 208.9,
+        "prob": 1.0
+      },
+      {
+        "word": " can",
+        "start": 208.9,
+        "end": 209.04,
+        "prob": 1.0
+      },
+      {
+        "word": " get",
+        "start": 209.04,
+        "end": 209.2,
+        "prob": 0.999
+      },
+      {
+        "word": " a",
+        "start": 209.2,
+        "end": 209.36,
+        "prob": 0.999
+      },
+      {
+        "word": " show",
+        "start": 209.36,
+        "end": 210.14,
+        "prob": 0.993
+      },
+      {
+        "word": " of",
+        "start": 210.14,
+        "end": 210.4,
+        "prob": 0.917
+      },
+      {
+        "word": " first",
+        "start": 210.4,
+        "end": 211.58,
+        "prob": 0.769
+      },
+      {
+        "word": " of",
+        "start": 211.58,
+        "end": 211.78,
+        "prob": 0.199
+      },
+      {
+        "word": " the",
+        "start": 211.78,
+        "end": 211.82,
+        "prob": 0.996
+      },
+      {
+        "word": " question",
+        "start": 211.82,
+        "end": 212.12,
+        "prob": 0.581
+      },
+      {
+        "word": " of",
+        "start": 212.12,
+        "end": 212.34,
+        "prob": 0.695
+      },
+      {
+        "word": " those",
+        "start": 212.34,
+        "end": 212.52,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 212.52,
+        "end": 212.68,
+        "prob": 0.999
+      },
+      {
+        "word": " support",
+        "start": 212.68,
+        "end": 212.98,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 212.98,
+        "end": 213.18,
+        "prob": 0.998
+      },
+      {
+        "word": " the",
+        "start": 213.18,
+        "end": 213.38,
+        "prob": 0.999
+      },
+      {
+        "word": " consent",
+        "start": 213.38,
+        "end": 213.92,
+        "prob": 0.864
+      },
+      {
+        "word": " agenda,",
+        "start": 213.92,
+        "end": 214.32,
+        "prob": 1.0
+      },
+      {
+        "word": " please.",
+        "start": 214.44,
+        "end": 214.58,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 215.22,
+    "end": 216.66,
+    "text": "That is unanimous and so carried.",
+    "avg_logprob": -0.1722722427319672,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That",
+        "start": 215.22,
+        "end": 215.5,
+        "prob": 0.999
+      },
+      {
+        "word": " is",
+        "start": 215.5,
+        "end": 215.6,
+        "prob": 0.995
+      },
+      {
+        "word": " unanimous",
+        "start": 215.6,
+        "end": 216.06,
+        "prob": 0.999
+      },
+      {
+        "word": " and",
+        "start": 216.06,
+        "end": 216.18,
+        "prob": 0.981
+      },
+      {
+        "word": " so",
+        "start": 216.18,
+        "end": 216.34,
+        "prob": 0.989
+      },
+      {
+        "word": " carried.",
+        "start": 216.34,
+        "end": 216.66,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 218.6,
+    "end": 219.64,
+    "text": "We'll go to New Business.",
+    "avg_logprob": -0.24479166517655054,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We'll",
+        "start": 218.6,
+        "end": 219.04,
+        "prob": 0.961
+      },
+      {
+        "word": " go",
+        "start": 219.04,
+        "end": 219.12,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 219.12,
+        "end": 219.22,
+        "prob": 1.0
+      },
+      {
+        "word": " New",
+        "start": 219.22,
+        "end": 219.36,
+        "prob": 0.455
+      },
+      {
+        "word": " Business.",
+        "start": 219.36,
+        "end": 219.64,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 219.82,
+    "end": 223.64,
+    "text": "That's Item 10.1, Board of Revision.",
+    "avg_logprob": -0.24479166517655054,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 219.82,
+        "end": 220.08,
+        "prob": 0.999
+      },
+      {
+        "word": " Item",
+        "start": 220.08,
+        "end": 220.9,
+        "prob": 0.438
+      },
+      {
+        "word": " 10",
+        "start": 220.9,
+        "end": 221.36,
+        "prob": 0.999
+      },
+      {
+        "word": ".1,",
+        "start": 221.36,
+        "end": 222.26,
+        "prob": 1.0
+      },
+      {
+        "word": " Board",
+        "start": 222.78,
+        "end": 223.2,
+        "prob": 0.985
+      },
+      {
+        "word": " of",
+        "start": 223.2,
+        "end": 223.3,
+        "prob": 0.998
+      },
+      {
+        "word": " Revision.",
+        "start": 223.3,
+        "end": 223.64,
+        "prob": 0.892
+      }
+    ]
+  },
+  {
+    "start": 223.9,
+    "end": 225.22,
+    "text": "So can I get a mover or a seconder, please?",
+    "avg_logprob": -0.24479166517655054,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 223.9,
+        "end": 223.94,
+        "prob": 0.59
+      },
+      {
+        "word": " can",
+        "start": 223.94,
+        "end": 224.1,
+        "prob": 0.938
+      },
+      {
+        "word": " I",
+        "start": 224.1,
+        "end": 224.18,
+        "prob": 1.0
+      },
+      {
+        "word": " get",
+        "start": 224.18,
+        "end": 224.28,
+        "prob": 0.992
+      },
+      {
+        "word": " a",
+        "start": 224.28,
+        "end": 224.38,
+        "prob": 0.978
+      },
+      {
+        "word": " mover",
+        "start": 224.38,
+        "end": 224.52,
+        "prob": 0.445
+      },
+      {
+        "word": " or",
+        "start": 224.52,
+        "end": 224.72,
+        "prob": 0.592
+      },
+      {
+        "word": " a",
+        "start": 224.72,
+        "end": 224.74,
+        "prob": 0.883
+      },
+      {
+        "word": " seconder,",
+        "start": 224.74,
+        "end": 224.98,
+        "prob": 0.877
+      },
+      {
+        "word": " please?",
+        "start": 225.08,
+        "end": 225.22,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 225.92,
+    "end": 226.72,
+    "text": "Darian and Warren.",
+    "avg_logprob": -0.24479166517655054,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Darian",
+        "start": 225.92,
+        "end": 226.36,
+        "prob": 0.451
+      },
+      {
+        "word": " and",
+        "start": 226.36,
+        "end": 226.5,
+        "prob": 0.992
+      },
+      {
+        "word": " Warren.",
+        "start": 226.5,
+        "end": 226.72,
+        "prob": 0.995
+      }
+    ]
+  },
+  {
+    "start": 229.84,
+    "end": 232.52,
+    "text": "And I'll pass it off to our Assistant CEO.",
+    "avg_logprob": -0.24479166517655054,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 229.84,
+        "end": 230.28,
+        "prob": 0.988
+      },
+      {
+        "word": " I'll",
+        "start": 230.28,
+        "end": 230.56,
+        "prob": 1.0
+      },
+      {
+        "word": " pass",
+        "start": 230.56,
+        "end": 231.26,
+        "prob": 1.0
+      },
+      {
+        "word": " it",
+        "start": 231.26,
+        "end": 231.36,
+        "prob": 1.0
+      },
+      {
+        "word": " off",
+        "start": 231.36,
+        "end": 231.5,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 231.5,
+        "end": 231.72,
+        "prob": 1.0
+      },
+      {
+        "word": " our",
+        "start": 231.72,
+        "end": 231.94,
+        "prob": 0.926
+      },
+      {
+        "word": " Assistant",
+        "start": 231.94,
+        "end": 232.24,
+        "prob": 0.934
+      },
+      {
+        "word": " CEO.",
+        "start": 232.24,
+        "end": 232.52,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 234.18,
+    "end": 243.46,
+    "text": "Okay, so we are still looking for one councillor to sit on this order provision for 2027.",
+    "avg_logprob": -0.25540865384615385,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 234.18,
+        "end": 235.44,
+        "prob": 0.854
+      },
+      {
+        "word": " so",
+        "start": 235.84,
+        "end": 235.94,
+        "prob": 0.999
+      },
+      {
+        "word": " we",
+        "start": 235.94,
+        "end": 236.14,
+        "prob": 0.998
+      },
+      {
+        "word": " are",
+        "start": 236.14,
+        "end": 236.28,
+        "prob": 0.984
+      },
+      {
+        "word": " still",
+        "start": 236.28,
+        "end": 236.7,
+        "prob": 1.0
+      },
+      {
+        "word": " looking",
+        "start": 236.7,
+        "end": 237.14,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 237.14,
+        "end": 237.88,
+        "prob": 1.0
+      },
+      {
+        "word": " one",
+        "start": 237.88,
+        "end": 238.94,
+        "prob": 0.999
+      },
+      {
+        "word": " councillor",
+        "start": 238.94,
+        "end": 239.46,
+        "prob": 0.802
+      },
+      {
+        "word": " to",
+        "start": 239.46,
+        "end": 239.9,
+        "prob": 0.999
+      },
+      {
+        "word": " sit",
+        "start": 239.9,
+        "end": 240.84,
+        "prob": 1.0
+      },
+      {
+        "word": " on",
+        "start": 240.84,
+        "end": 241.14,
+        "prob": 1.0
+      },
+      {
+        "word": " this",
+        "start": 241.14,
+        "end": 241.52,
+        "prob": 1.0
+      },
+      {
+        "word": " order",
+        "start": 241.52,
+        "end": 242.02,
+        "prob": 0.91
+      },
+      {
+        "word": " provision",
+        "start": 242.02,
+        "end": 242.44,
+        "prob": 0.674
+      },
+      {
+        "word": " for",
+        "start": 242.44,
+        "end": 242.66,
+        "prob": 1.0
+      },
+      {
+        "word": " 2027.",
+        "start": 242.66,
+        "end": 243.46,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 243.46,
+    "end": 258.98,
+    "text": "And I guess the option is out there if we – this is an election year, so it's really presumptive who's going to be here at the election there.",
+    "avg_logprob": -0.10386618895408435,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 243.46,
+        "end": 244.4,
+        "prob": 0.423
+      },
+      {
+        "word": " I",
+        "start": 249.36,
+        "end": 249.5,
+        "prob": 0.968
+      },
+      {
+        "word": " guess",
+        "start": 249.5,
+        "end": 249.74,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 249.74,
+        "end": 250.62,
+        "prob": 0.961
+      },
+      {
+        "word": " option",
+        "start": 250.62,
+        "end": 250.96,
+        "prob": 0.998
+      },
+      {
+        "word": " is",
+        "start": 250.96,
+        "end": 251.18,
+        "prob": 0.997
+      },
+      {
+        "word": " out",
+        "start": 251.18,
+        "end": 251.32,
+        "prob": 0.996
+      },
+      {
+        "word": " there",
+        "start": 251.32,
+        "end": 251.52,
+        "prob": 0.999
+      },
+      {
+        "word": " if",
+        "start": 251.52,
+        "end": 251.72,
+        "prob": 0.803
+      },
+      {
+        "word": " we",
+        "start": 251.72,
+        "end": 251.86,
+        "prob": 0.989
+      },
+      {
+        "word": " –",
+        "start": 251.86,
+        "end": 252.06,
+        "prob": 0.256
+      },
+      {
+        "word": " this",
+        "start": 252.06,
+        "end": 252.38,
+        "prob": 0.967
+      },
+      {
+        "word": " is",
+        "start": 252.38,
+        "end": 252.46,
+        "prob": 0.998
+      },
+      {
+        "word": " an",
+        "start": 252.46,
+        "end": 252.56,
+        "prob": 0.909
+      },
+      {
+        "word": " election",
+        "start": 252.56,
+        "end": 252.84,
+        "prob": 1.0
+      },
+      {
+        "word": " year,",
+        "start": 252.84,
+        "end": 253.1,
+        "prob": 0.999
+      },
+      {
+        "word": " so",
+        "start": 253.12,
+        "end": 253.32,
+        "prob": 1.0
+      },
+      {
+        "word": " it's",
+        "start": 253.32,
+        "end": 254.1,
+        "prob": 0.998
+      },
+      {
+        "word": " really",
+        "start": 254.1,
+        "end": 255.02,
+        "prob": 0.998
+      },
+      {
+        "word": " presumptive",
+        "start": 255.02,
+        "end": 255.74,
+        "prob": 0.999
+      },
+      {
+        "word": " who's",
+        "start": 255.74,
+        "end": 257.06,
+        "prob": 0.975
+      },
+      {
+        "word": " going",
+        "start": 257.06,
+        "end": 257.16,
+        "prob": 0.995
+      },
+      {
+        "word": " to",
+        "start": 257.16,
+        "end": 257.24,
+        "prob": 1.0
+      },
+      {
+        "word": " be",
+        "start": 257.24,
+        "end": 257.36,
+        "prob": 1.0
+      },
+      {
+        "word": " here",
+        "start": 257.36,
+        "end": 257.56,
+        "prob": 0.999
+      },
+      {
+        "word": " at",
+        "start": 257.56,
+        "end": 257.8,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 257.8,
+        "end": 258.14,
+        "prob": 1.0
+      },
+      {
+        "word": " election",
+        "start": 258.14,
+        "end": 258.5,
+        "prob": 0.998
+      },
+      {
+        "word": " there.",
+        "start": 258.5,
+        "end": 258.98,
+        "prob": 0.978
+      }
+    ]
+  },
+  {
+    "start": 260.1,
+    "end": 265.5,
+    "text": "We do have the option of appointing a citizen if we want to go that way.",
+    "avg_logprob": -0.16280864491874789,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We",
+        "start": 260.1,
+        "end": 260.62,
+        "prob": 0.705
+      },
+      {
+        "word": " do",
+        "start": 260.62,
+        "end": 260.78,
+        "prob": 0.996
+      },
+      {
+        "word": " have",
+        "start": 260.78,
+        "end": 260.98,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 260.98,
+        "end": 261.12,
+        "prob": 0.999
+      },
+      {
+        "word": " option",
+        "start": 261.12,
+        "end": 261.48,
+        "prob": 0.999
+      },
+      {
+        "word": " of",
+        "start": 261.48,
+        "end": 261.7,
+        "prob": 0.997
+      },
+      {
+        "word": " appointing",
+        "start": 261.7,
+        "end": 262.28,
+        "prob": 0.997
+      },
+      {
+        "word": " a",
+        "start": 262.28,
+        "end": 262.7,
+        "prob": 0.997
+      },
+      {
+        "word": " citizen",
+        "start": 262.7,
+        "end": 263.04,
+        "prob": 0.992
+      },
+      {
+        "word": " if",
+        "start": 263.04,
+        "end": 263.38,
+        "prob": 0.889
+      },
+      {
+        "word": " we",
+        "start": 263.38,
+        "end": 263.66,
+        "prob": 0.999
+      },
+      {
+        "word": " want",
+        "start": 263.66,
+        "end": 264.64,
+        "prob": 0.996
+      },
+      {
+        "word": " to",
+        "start": 264.64,
+        "end": 264.82,
+        "prob": 0.999
+      },
+      {
+        "word": " go",
+        "start": 264.82,
+        "end": 264.98,
+        "prob": 0.999
+      },
+      {
+        "word": " that",
+        "start": 264.98,
+        "end": 265.22,
+        "prob": 0.999
+      },
+      {
+        "word": " way.",
+        "start": 265.22,
+        "end": 265.5,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 265.74,
+    "end": 270.32,
+    "text": "I believe Councillor Warren has stepped up as one of the councillors.",
+    "avg_logprob": -0.16280864491874789,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 265.74,
+        "end": 265.74,
+        "prob": 0.99
+      },
+      {
+        "word": " believe",
+        "start": 265.74,
+        "end": 266.12,
+        "prob": 0.997
+      },
+      {
+        "word": " Councillor",
+        "start": 266.12,
+        "end": 267.04,
+        "prob": 0.843
+      },
+      {
+        "word": " Warren",
+        "start": 267.04,
+        "end": 267.76,
+        "prob": 0.975
+      },
+      {
+        "word": " has",
+        "start": 267.76,
+        "end": 268.02,
+        "prob": 0.989
+      },
+      {
+        "word": " stepped",
+        "start": 268.02,
+        "end": 268.28,
+        "prob": 0.999
+      },
+      {
+        "word": " up",
+        "start": 268.28,
+        "end": 268.54,
+        "prob": 0.998
+      },
+      {
+        "word": " as",
+        "start": 268.54,
+        "end": 269.06,
+        "prob": 0.996
+      },
+      {
+        "word": " one",
+        "start": 269.06,
+        "end": 269.3,
+        "prob": 0.999
+      },
+      {
+        "word": " of",
+        "start": 269.3,
+        "end": 269.42,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 269.42,
+        "end": 269.76,
+        "prob": 0.999
+      },
+      {
+        "word": " councillors.",
+        "start": 269.76,
+        "end": 270.32,
+        "prob": 0.847
+      }
+    ]
+  },
+  {
+    "start": 272.34,
+    "end": 275.14,
+    "text": "I think it would be prudent just for us to get it done today.",
+    "avg_logprob": -0.16280864491874789,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 272.34,
+        "end": 272.86,
+        "prob": 0.998
+      },
+      {
+        "word": " think",
+        "start": 272.86,
+        "end": 273.04,
+        "prob": 0.997
+      },
+      {
+        "word": " it",
+        "start": 273.04,
+        "end": 273.16,
+        "prob": 0.997
+      },
+      {
+        "word": " would",
+        "start": 273.16,
+        "end": 273.22,
+        "prob": 0.636
+      },
+      {
+        "word": " be",
+        "start": 273.22,
+        "end": 273.32,
+        "prob": 0.998
+      },
+      {
+        "word": " prudent",
+        "start": 273.32,
+        "end": 273.64,
+        "prob": 0.998
+      },
+      {
+        "word": " just",
+        "start": 273.64,
+        "end": 273.84,
+        "prob": 0.954
+      },
+      {
+        "word": " for",
+        "start": 273.84,
+        "end": 274.0,
+        "prob": 0.997
+      },
+      {
+        "word": " us",
+        "start": 274.0,
+        "end": 274.14,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 274.14,
+        "end": 274.3,
+        "prob": 0.999
+      },
+      {
+        "word": " get",
+        "start": 274.3,
+        "end": 274.48,
+        "prob": 0.999
+      },
+      {
+        "word": " it",
+        "start": 274.48,
+        "end": 274.6,
+        "prob": 0.997
+      },
+      {
+        "word": " done",
+        "start": 274.6,
+        "end": 274.76,
+        "prob": 1.0
+      },
+      {
+        "word": " today.",
+        "start": 274.76,
+        "end": 275.14,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 275.88,
+    "end": 285.14,
+    "text": "And let's look for a citizen in the community that we think that might be good for the position there.",
+    "avg_logprob": -0.16280864491874789,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 275.88,
+        "end": 276.04,
+        "prob": 0.659
+      },
+      {
+        "word": " let's",
+        "start": 276.04,
+        "end": 276.84,
+        "prob": 0.985
+      },
+      {
+        "word": " look",
+        "start": 276.84,
+        "end": 277.3,
+        "prob": 0.951
+      },
+      {
+        "word": " for",
+        "start": 277.3,
+        "end": 277.64,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 277.64,
+        "end": 279.4,
+        "prob": 0.996
+      },
+      {
+        "word": " citizen",
+        "start": 279.4,
+        "end": 279.68,
+        "prob": 0.997
+      },
+      {
+        "word": " in",
+        "start": 279.68,
+        "end": 280.04,
+        "prob": 0.994
+      },
+      {
+        "word": " the",
+        "start": 280.04,
+        "end": 280.18,
+        "prob": 0.998
+      },
+      {
+        "word": " community",
+        "start": 280.18,
+        "end": 280.54,
+        "prob": 0.998
+      },
+      {
+        "word": " that",
+        "start": 280.54,
+        "end": 280.78,
+        "prob": 0.992
+      },
+      {
+        "word": " we",
+        "start": 280.78,
+        "end": 280.9,
+        "prob": 0.983
+      },
+      {
+        "word": " think",
+        "start": 280.9,
+        "end": 281.2,
+        "prob": 0.999
+      },
+      {
+        "word": " that",
+        "start": 281.2,
+        "end": 283.08,
+        "prob": 0.819
+      },
+      {
+        "word": " might",
+        "start": 283.08,
+        "end": 283.44,
+        "prob": 0.917
+      },
+      {
+        "word": " be",
+        "start": 283.44,
+        "end": 283.58,
+        "prob": 1.0
+      },
+      {
+        "word": " good",
+        "start": 283.58,
+        "end": 283.72,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 283.72,
+        "end": 283.86,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 283.86,
+        "end": 283.98,
+        "prob": 0.99
+      },
+      {
+        "word": " position",
+        "start": 283.98,
+        "end": 284.38,
+        "prob": 0.997
+      },
+      {
+        "word": " there.",
+        "start": 284.38,
+        "end": 285.14,
+        "prob": 0.986
+      }
+    ]
+  },
+  {
+    "start": 286.56,
+    "end": 288.78,
+    "text": "Or we could defer it until October.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Or",
+        "start": 286.56,
+        "end": 287.16,
+        "prob": 0.521
+      },
+      {
+        "word": " we",
+        "start": 287.16,
+        "end": 287.36,
+        "prob": 0.989
+      },
+      {
+        "word": " could",
+        "start": 287.36,
+        "end": 287.5,
+        "prob": 0.998
+      },
+      {
+        "word": " defer",
+        "start": 287.5,
+        "end": 287.74,
+        "prob": 0.998
+      },
+      {
+        "word": " it",
+        "start": 287.74,
+        "end": 287.94,
+        "prob": 0.684
+      },
+      {
+        "word": " until",
+        "start": 287.94,
+        "end": 288.24,
+        "prob": 0.667
+      },
+      {
+        "word": " October.",
+        "start": 288.24,
+        "end": 288.78,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 291.91,
+    "end": 292.69,
+    "text": "It's up.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It's",
+        "start": 291.91,
+        "end": 292.51,
+        "prob": 0.647
+      },
+      {
+        "word": " up.",
+        "start": 292.51,
+        "end": 292.69,
+        "prob": 0.953
+      }
+    ]
+  },
+  {
+    "start": 295.42,
+    "end": 296.88,
+    "text": "You good to step up then?",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " You",
+        "start": 295.42,
+        "end": 295.62,
+        "prob": 0.768
+      },
+      {
+        "word": " good",
+        "start": 295.62,
+        "end": 295.8,
+        "prob": 0.845
+      },
+      {
+        "word": " to",
+        "start": 295.8,
+        "end": 295.98,
+        "prob": 1.0
+      },
+      {
+        "word": " step",
+        "start": 295.98,
+        "end": 296.28,
+        "prob": 1.0
+      },
+      {
+        "word": " up",
+        "start": 296.28,
+        "end": 296.52,
+        "prob": 1.0
+      },
+      {
+        "word": " then?",
+        "start": 296.52,
+        "end": 296.88,
+        "prob": 0.969
+      }
+    ]
+  },
+  {
+    "start": 297.74,
+    "end": 298.04,
+    "text": "Okay.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 297.74,
+        "end": 298.04,
+        "prob": 0.694
+      }
+    ]
+  },
+  {
+    "start": 298.74,
+    "end": 299.04,
+    "text": "All right.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " All",
+        "start": 298.74,
+        "end": 298.92,
+        "prob": 0.972
+      },
+      {
+        "word": " right.",
+        "start": 298.92,
+        "end": 299.04,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 299.18,
+    "end": 306.02,
+    "text": "Then we'll have – we have Councillor Fuel that's stepping up for that position there.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 299.18,
+        "end": 299.26,
+        "prob": 0.739
+      },
+      {
+        "word": " we'll",
+        "start": 299.26,
+        "end": 299.76,
+        "prob": 0.901
+      },
+      {
+        "word": " have",
+        "start": 299.76,
+        "end": 300.02,
+        "prob": 0.999
+      },
+      {
+        "word": " –",
+        "start": 300.02,
+        "end": 300.12,
+        "prob": 0.025
+      },
+      {
+        "word": " we",
+        "start": 300.12,
+        "end": 300.18,
+        "prob": 0.991
+      },
+      {
+        "word": " have",
+        "start": 300.18,
+        "end": 300.48,
+        "prob": 0.992
+      },
+      {
+        "word": " Councillor",
+        "start": 300.48,
+        "end": 301.46,
+        "prob": 0.946
+      },
+      {
+        "word": " Fuel",
+        "start": 301.46,
+        "end": 302.1,
+        "prob": 0.726
+      },
+      {
+        "word": " that's",
+        "start": 302.1,
+        "end": 302.5,
+        "prob": 0.993
+      },
+      {
+        "word": " stepping",
+        "start": 302.5,
+        "end": 302.88,
+        "prob": 1.0
+      },
+      {
+        "word": " up",
+        "start": 302.88,
+        "end": 303.1,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 303.1,
+        "end": 303.6,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 303.6,
+        "end": 303.92,
+        "prob": 1.0
+      },
+      {
+        "word": " position",
+        "start": 303.92,
+        "end": 305.36,
+        "prob": 0.987
+      },
+      {
+        "word": " there.",
+        "start": 305.36,
+        "end": 306.02,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 307.74,
+    "end": 309.18,
+    "text": "Can I read the resolution?",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Can",
+        "start": 307.74,
+        "end": 308.34,
+        "prob": 0.991
+      },
+      {
+        "word": " I",
+        "start": 308.34,
+        "end": 308.44,
+        "prob": 0.998
+      },
+      {
+        "word": " read",
+        "start": 308.44,
+        "end": 308.6,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 308.6,
+        "end": 308.72,
+        "prob": 1.0
+      },
+      {
+        "word": " resolution?",
+        "start": 308.72,
+        "end": 309.18,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 309.36,
+    "end": 309.48,
+    "text": "Yeah.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Yeah.",
+        "start": 309.36,
+        "end": 309.48,
+        "prob": 0.947
+      }
+    ]
+  },
+  {
+    "start": 309.86,
+    "end": 310.04,
+    "text": "Okay.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 309.86,
+        "end": 310.04,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 310.66,
+    "end": 317.88,
+    "text": "Be it resolved that the RMS Springfield 2027, Board of Revision, be held November 12, 2026.",
+    "avg_logprob": -0.30883291090021325,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Be",
+        "start": 310.66,
+        "end": 311.14,
+        "prob": 0.966
+      },
+      {
+        "word": " it",
+        "start": 311.14,
+        "end": 311.3,
+        "prob": 0.984
+      },
+      {
+        "word": " resolved",
+        "start": 311.3,
+        "end": 311.7,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 311.7,
+        "end": 311.94,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 311.94,
+        "end": 312.06,
+        "prob": 1.0
+      },
+      {
+        "word": " RMS",
+        "start": 312.06,
+        "end": 312.38,
+        "prob": 0.675
+      },
+      {
+        "word": " Springfield",
+        "start": 312.38,
+        "end": 312.98,
+        "prob": 0.998
+      },
+      {
+        "word": " 2027,",
+        "start": 312.98,
+        "end": 314.02,
+        "prob": 0.967
+      },
+      {
+        "word": " Board",
+        "start": 314.04,
+        "end": 314.5,
+        "prob": 0.786
+      },
+      {
+        "word": " of",
+        "start": 314.5,
+        "end": 314.6,
+        "prob": 0.997
+      },
+      {
+        "word": " Revision,",
+        "start": 314.6,
+        "end": 315.06,
+        "prob": 0.994
+      },
+      {
+        "word": " be",
+        "start": 315.22,
+        "end": 315.66,
+        "prob": 0.956
+      },
+      {
+        "word": " held",
+        "start": 315.66,
+        "end": 315.94,
+        "prob": 1.0
+      },
+      {
+        "word": " November",
+        "start": 315.94,
+        "end": 316.3,
+        "prob": 0.997
+      },
+      {
+        "word": " 12,",
+        "start": 316.3,
+        "end": 316.7,
+        "prob": 1.0
+      },
+      {
+        "word": " 2026.",
+        "start": 316.88,
+        "end": 317.88,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 318.38,
+    "end": 322.4,
+    "text": "And be it further resolved that the board be composed of the following people.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " And",
+        "start": 318.38,
+        "end": 318.86,
+        "prob": 0.354
+      },
+      {
+        "word": " be",
+        "start": 318.86,
+        "end": 319.02,
+        "prob": 0.985
+      },
+      {
+        "word": " it",
+        "start": 319.02,
+        "end": 319.14,
+        "prob": 1.0
+      },
+      {
+        "word": " further",
+        "start": 319.14,
+        "end": 319.4,
+        "prob": 1.0
+      },
+      {
+        "word": " resolved",
+        "start": 319.4,
+        "end": 319.9,
+        "prob": 0.929
+      },
+      {
+        "word": " that",
+        "start": 319.9,
+        "end": 320.08,
+        "prob": 0.993
+      },
+      {
+        "word": " the",
+        "start": 320.08,
+        "end": 320.2,
+        "prob": 1.0
+      },
+      {
+        "word": " board",
+        "start": 320.2,
+        "end": 320.46,
+        "prob": 0.95
+      },
+      {
+        "word": " be",
+        "start": 320.46,
+        "end": 320.78,
+        "prob": 0.954
+      },
+      {
+        "word": " composed",
+        "start": 320.78,
+        "end": 321.26,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 321.26,
+        "end": 321.48,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 321.48,
+        "end": 321.6,
+        "prob": 1.0
+      },
+      {
+        "word": " following",
+        "start": 321.6,
+        "end": 321.94,
+        "prob": 1.0
+      },
+      {
+        "word": " people.",
+        "start": 321.94,
+        "end": 322.4,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 322.98,
+    "end": 324.94,
+    "text": "Doug Shaver, Chair.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Doug",
+        "start": 322.98,
+        "end": 323.62,
+        "prob": 0.984
+      },
+      {
+        "word": " Shaver,",
+        "start": 323.62,
+        "end": 324.22,
+        "prob": 0.967
+      },
+      {
+        "word": " Chair.",
+        "start": 324.58,
+        "end": 324.94,
+        "prob": 0.907
+      }
+    ]
+  },
+  {
+    "start": 325.5,
+    "end": 326.82,
+    "text": "Councillor Melinda Warren.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Councillor",
+        "start": 325.5,
+        "end": 325.98,
+        "prob": 0.857
+      },
+      {
+        "word": " Melinda",
+        "start": 325.98,
+        "end": 326.48,
+        "prob": 0.991
+      },
+      {
+        "word": " Warren.",
+        "start": 326.48,
+        "end": 326.82,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 327.42,
+    "end": 328.72,
+    "text": "Councillor Glenn Fuel.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Councillor",
+        "start": 327.42,
+        "end": 328.06,
+        "prob": 0.995
+      },
+      {
+        "word": " Glenn",
+        "start": 328.06,
+        "end": 328.4,
+        "prob": 0.979
+      },
+      {
+        "word": " Fuel.",
+        "start": 328.4,
+        "end": 328.72,
+        "prob": 0.794
+      }
+    ]
+  },
+  {
+    "start": 329.16,
+    "end": 331.28,
+    "text": "Christy Gronheide, Board Secretary.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Christy",
+        "start": 329.16,
+        "end": 329.74,
+        "prob": 0.954
+      },
+      {
+        "word": " Gronheide,",
+        "start": 329.74,
+        "end": 330.3,
+        "prob": 0.708
+      },
+      {
+        "word": " Board",
+        "start": 330.52,
+        "end": 330.7,
+        "prob": 0.97
+      },
+      {
+        "word": " Secretary.",
+        "start": 330.7,
+        "end": 331.28,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 332.16,
+    "end": 332.8,
+    "text": "Thank you.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 332.16,
+        "end": 332.56,
+        "prob": 0.998
+      },
+      {
+        "word": " you.",
+        "start": 332.56,
+        "end": 332.8,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 332.98,
+    "end": 335.22,
+    "text": "I'll pose the question first to those in support.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I'll",
+        "start": 332.98,
+        "end": 333.28,
+        "prob": 0.998
+      },
+      {
+        "word": " pose",
+        "start": 333.28,
+        "end": 333.58,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 333.58,
+        "end": 333.72,
+        "prob": 1.0
+      },
+      {
+        "word": " question",
+        "start": 333.72,
+        "end": 334.0,
+        "prob": 1.0
+      },
+      {
+        "word": " first",
+        "start": 334.0,
+        "end": 334.32,
+        "prob": 0.861
+      },
+      {
+        "word": " to",
+        "start": 334.32,
+        "end": 334.56,
+        "prob": 0.905
+      },
+      {
+        "word": " those",
+        "start": 334.56,
+        "end": 334.74,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 334.74,
+        "end": 334.9,
+        "prob": 0.999
+      },
+      {
+        "word": " support.",
+        "start": 334.9,
+        "end": 335.22,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 335.36,
+    "end": 335.98,
+    "text": "The show of hands.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " The",
+        "start": 335.36,
+        "end": 335.42,
+        "prob": 0.973
+      },
+      {
+        "word": " show",
+        "start": 335.42,
+        "end": 335.58,
+        "prob": 0.998
+      },
+      {
+        "word": " of",
+        "start": 335.58,
+        "end": 335.7,
+        "prob": 1.0
+      },
+      {
+        "word": " hands.",
+        "start": 335.7,
+        "end": 335.98,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 336.22,
+    "end": 338.08,
+    "text": "That is unanimous and so carried.",
+    "avg_logprob": -0.27514367679069784,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That",
+        "start": 336.22,
+        "end": 336.86,
+        "prob": 0.997
+      },
+      {
+        "word": " is",
+        "start": 336.86,
+        "end": 336.96,
+        "prob": 1.0
+      },
+      {
+        "word": " unanimous",
+        "start": 336.96,
+        "end": 337.42,
+        "prob": 1.0
+      },
+      {
+        "word": " and",
+        "start": 337.42,
+        "end": 337.56,
+        "prob": 0.878
+      },
+      {
+        "word": " so",
+        "start": 337.56,
+        "end": 337.74,
+        "prob": 0.988
+      },
+      {
+        "word": " carried.",
+        "start": 337.74,
+        "end": 338.08,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 340.36,
+    "end": 343.68,
+    "text": "I think I'll throw it out there because I'm not running again there.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 340.36,
+        "end": 340.8,
+        "prob": 0.928
+      },
+      {
+        "word": " think",
+        "start": 340.8,
+        "end": 341.18,
+        "prob": 0.995
+      },
+      {
+        "word": " I'll",
+        "start": 341.18,
+        "end": 341.76,
+        "prob": 0.996
+      },
+      {
+        "word": " throw",
+        "start": 341.76,
+        "end": 341.9,
+        "prob": 1.0
+      },
+      {
+        "word": " it",
+        "start": 341.9,
+        "end": 342.02,
+        "prob": 1.0
+      },
+      {
+        "word": " out",
+        "start": 342.02,
+        "end": 342.1,
+        "prob": 1.0
+      },
+      {
+        "word": " there",
+        "start": 342.1,
+        "end": 342.26,
+        "prob": 1.0
+      },
+      {
+        "word": " because",
+        "start": 342.26,
+        "end": 342.42,
+        "prob": 0.919
+      },
+      {
+        "word": " I'm",
+        "start": 342.42,
+        "end": 342.62,
+        "prob": 1.0
+      },
+      {
+        "word": " not",
+        "start": 342.62,
+        "end": 342.94,
+        "prob": 0.997
+      },
+      {
+        "word": " running",
+        "start": 342.94,
+        "end": 343.18,
+        "prob": 1.0
+      },
+      {
+        "word": " again",
+        "start": 343.18,
+        "end": 343.46,
+        "prob": 0.999
+      },
+      {
+        "word": " there.",
+        "start": 343.46,
+        "end": 343.68,
+        "prob": 0.994
+      }
+    ]
+  },
+  {
+    "start": 343.78,
+    "end": 349.66,
+    "text": "But I think council, the next council coming in should seriously think – well, it's not.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " But",
+        "start": 343.78,
+        "end": 343.82,
+        "prob": 0.984
+      },
+      {
+        "word": " I",
+        "start": 343.82,
+        "end": 343.92,
+        "prob": 0.999
+      },
+      {
+        "word": " think",
+        "start": 343.92,
+        "end": 344.16,
+        "prob": 1.0
+      },
+      {
+        "word": " council,",
+        "start": 344.16,
+        "end": 345.3,
+        "prob": 0.497
+      },
+      {
+        "word": " the",
+        "start": 345.5,
+        "end": 345.58,
+        "prob": 0.852
+      },
+      {
+        "word": " next",
+        "start": 345.58,
+        "end": 345.68,
+        "prob": 1.0
+      },
+      {
+        "word": " council",
+        "start": 345.68,
+        "end": 345.98,
+        "prob": 1.0
+      },
+      {
+        "word": " coming",
+        "start": 345.98,
+        "end": 346.32,
+        "prob": 0.998
+      },
+      {
+        "word": " in",
+        "start": 346.32,
+        "end": 346.54,
+        "prob": 0.997
+      },
+      {
+        "word": " should",
+        "start": 346.54,
+        "end": 346.88,
+        "prob": 0.79
+      },
+      {
+        "word": " seriously",
+        "start": 346.88,
+        "end": 347.94,
+        "prob": 0.983
+      },
+      {
+        "word": " think",
+        "start": 347.94,
+        "end": 348.26,
+        "prob": 1.0
+      },
+      {
+        "word": " –",
+        "start": 348.26,
+        "end": 348.88,
+        "prob": 0.127
+      },
+      {
+        "word": " well,",
+        "start": 348.88,
+        "end": 349.38,
+        "prob": 0.946
+      },
+      {
+        "word": " it's",
+        "start": 349.46,
+        "end": 349.52,
+        "prob": 0.996
+      },
+      {
+        "word": " not.",
+        "start": 349.52,
+        "end": 349.66,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 349.84,
+    "end": 352.38,
+    "text": "The option is there to have citizens on there.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " The",
+        "start": 349.84,
+        "end": 350.1,
+        "prob": 0.924
+      },
+      {
+        "word": " option",
+        "start": 350.1,
+        "end": 350.4,
+        "prob": 1.0
+      },
+      {
+        "word": " is",
+        "start": 350.4,
+        "end": 350.6,
+        "prob": 1.0
+      },
+      {
+        "word": " there",
+        "start": 350.6,
+        "end": 350.74,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 350.74,
+        "end": 350.88,
+        "prob": 1.0
+      },
+      {
+        "word": " have",
+        "start": 350.88,
+        "end": 351.14,
+        "prob": 1.0
+      },
+      {
+        "word": " citizens",
+        "start": 351.14,
+        "end": 351.7,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 351.7,
+        "end": 352.16,
+        "prob": 1.0
+      },
+      {
+        "word": " there.",
+        "start": 352.16,
+        "end": 352.38,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 352.94,
+    "end": 355.28,
+    "text": "So I think that could be explored.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 352.94,
+        "end": 353.38,
+        "prob": 0.999
+      },
+      {
+        "word": " I",
+        "start": 353.38,
+        "end": 353.7,
+        "prob": 0.837
+      },
+      {
+        "word": " think",
+        "start": 353.7,
+        "end": 353.94,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 353.94,
+        "end": 354.38,
+        "prob": 1.0
+      },
+      {
+        "word": " could",
+        "start": 354.38,
+        "end": 354.78,
+        "prob": 0.989
+      },
+      {
+        "word": " be",
+        "start": 354.78,
+        "end": 354.94,
+        "prob": 1.0
+      },
+      {
+        "word": " explored.",
+        "start": 354.94,
+        "end": 355.28,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 355.28,
+    "end": 357.04,
+    "text": "But that will be up to the next council.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " But",
+        "start": 355.28,
+        "end": 355.48,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 355.48,
+        "end": 355.6,
+        "prob": 1.0
+      },
+      {
+        "word": " will",
+        "start": 355.6,
+        "end": 355.68,
+        "prob": 0.872
+      },
+      {
+        "word": " be",
+        "start": 355.68,
+        "end": 355.78,
+        "prob": 1.0
+      },
+      {
+        "word": " up",
+        "start": 355.78,
+        "end": 355.9,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 355.9,
+        "end": 356.1,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 356.1,
+        "end": 356.56,
+        "prob": 0.774
+      },
+      {
+        "word": " next",
+        "start": 356.56,
+        "end": 356.7,
+        "prob": 1.0
+      },
+      {
+        "word": " council.",
+        "start": 356.7,
+        "end": 357.04,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 357.18,
+    "end": 359.48,
+    "text": "That's just my thought on that.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 357.18,
+        "end": 357.34,
+        "prob": 0.999
+      },
+      {
+        "word": " just",
+        "start": 357.34,
+        "end": 357.46,
+        "prob": 1.0
+      },
+      {
+        "word": " my",
+        "start": 357.46,
+        "end": 357.9,
+        "prob": 1.0
+      },
+      {
+        "word": " thought",
+        "start": 357.9,
+        "end": 359.1,
+        "prob": 1.0
+      },
+      {
+        "word": " on",
+        "start": 359.1,
+        "end": 359.28,
+        "prob": 1.0
+      },
+      {
+        "word": " that.",
+        "start": 359.28,
+        "end": 359.48,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 359.74,
+    "end": 362.38,
+    "text": "If we go to 10.2, that's ward appropriations, please.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 359.74,
+        "end": 360.02,
+        "prob": 0.999
+      },
+      {
+        "word": " we",
+        "start": 360.02,
+        "end": 360.08,
+        "prob": 1.0
+      },
+      {
+        "word": " go",
+        "start": 360.08,
+        "end": 360.2,
+        "prob": 0.999
+      },
+      {
+        "word": " to",
+        "start": 360.2,
+        "end": 360.3,
+        "prob": 1.0
+      },
+      {
+        "word": " 10",
+        "start": 360.3,
+        "end": 360.46,
+        "prob": 0.998
+      },
+      {
+        "word": ".2,",
+        "start": 360.46,
+        "end": 360.86,
+        "prob": 1.0
+      },
+      {
+        "word": " that's",
+        "start": 360.94,
+        "end": 361.14,
+        "prob": 1.0
+      },
+      {
+        "word": " ward",
+        "start": 361.14,
+        "end": 361.32,
+        "prob": 0.926
+      },
+      {
+        "word": " appropriations,",
+        "start": 361.32,
+        "end": 362.02,
+        "prob": 0.999
+      },
+      {
+        "word": " please.",
+        "start": 362.04,
+        "end": 362.38,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 362.62,
+    "end": 364.12,
+    "text": "Can I get a mover or a seconder for that?",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Can",
+        "start": 362.62,
+        "end": 362.84,
+        "prob": 0.999
+      },
+      {
+        "word": " I",
+        "start": 362.84,
+        "end": 362.9,
+        "prob": 1.0
+      },
+      {
+        "word": " get",
+        "start": 362.9,
+        "end": 363.02,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 363.02,
+        "end": 363.1,
+        "prob": 1.0
+      },
+      {
+        "word": " mover",
+        "start": 363.1,
+        "end": 363.3,
+        "prob": 0.991
+      },
+      {
+        "word": " or",
+        "start": 363.3,
+        "end": 363.58,
+        "prob": 0.823
+      },
+      {
+        "word": " a",
+        "start": 363.58,
+        "end": 363.58,
+        "prob": 0.895
+      },
+      {
+        "word": " seconder",
+        "start": 363.58,
+        "end": 363.8,
+        "prob": 0.966
+      },
+      {
+        "word": " for",
+        "start": 363.8,
+        "end": 363.9,
+        "prob": 1.0
+      },
+      {
+        "word": " that?",
+        "start": 363.9,
+        "end": 364.12,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 364.96,
+    "end": 366.02,
+    "text": "Miller and Warren.",
+    "avg_logprob": -0.19178426866569825,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Miller",
+        "start": 364.96,
+        "end": 365.4,
+        "prob": 0.995
+      },
+      {
+        "word": " and",
+        "start": 365.4,
+        "end": 365.72,
+        "prob": 1.0
+      },
+      {
+        "word": " Warren.",
+        "start": 365.72,
+        "end": 366.02,
+        "prob": 0.995
+      }
+    ]
+  },
+  {
+    "start": 366.02,
+    "end": 382.43,
+    "text": "Okay, so we have received a request for support from Tristan Vantage for soccer championships out in Newfoundland.",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay,",
+        "start": 366.02,
+        "end": 367.04,
+        "prob": 0.936
+      },
+      {
+        "word": " so",
+        "start": 373.89,
+        "end": 373.97,
+        "prob": 0.999
+      },
+      {
+        "word": " we",
+        "start": 373.97,
+        "end": 374.17,
+        "prob": 0.999
+      },
+      {
+        "word": " have",
+        "start": 374.17,
+        "end": 374.41,
+        "prob": 1.0
+      },
+      {
+        "word": " received",
+        "start": 374.41,
+        "end": 375.03,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 375.03,
+        "end": 376.09,
+        "prob": 0.999
+      },
+      {
+        "word": " request",
+        "start": 376.09,
+        "end": 376.59,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 376.59,
+        "end": 376.97,
+        "prob": 1.0
+      },
+      {
+        "word": " support",
+        "start": 376.97,
+        "end": 377.53,
+        "prob": 1.0
+      },
+      {
+        "word": " from",
+        "start": 377.53,
+        "end": 377.81,
+        "prob": 1.0
+      },
+      {
+        "word": " Tristan",
+        "start": 377.81,
+        "end": 378.41,
+        "prob": 0.999
+      },
+      {
+        "word": " Vantage",
+        "start": 378.41,
+        "end": 378.95,
+        "prob": 0.943
+      },
+      {
+        "word": " for",
+        "start": 378.95,
+        "end": 379.53,
+        "prob": 0.994
+      },
+      {
+        "word": " soccer",
+        "start": 379.53,
+        "end": 380.09,
+        "prob": 0.983
+      },
+      {
+        "word": " championships",
+        "start": 380.09,
+        "end": 380.83,
+        "prob": 1.0
+      },
+      {
+        "word": " out",
+        "start": 380.83,
+        "end": 381.49,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 381.49,
+        "end": 381.83,
+        "prob": 1.0
+      },
+      {
+        "word": " Newfoundland.",
+        "start": 381.83,
+        "end": 382.43,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 384.43,
+    "end": 387.61,
+    "text": "Everybody read that about Tristan there.",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Everybody",
+        "start": 384.43,
+        "end": 385.17,
+        "prob": 0.998
+      },
+      {
+        "word": " read",
+        "start": 385.17,
+        "end": 385.85,
+        "prob": 0.999
+      },
+      {
+        "word": " that",
+        "start": 385.85,
+        "end": 386.13,
+        "prob": 1.0
+      },
+      {
+        "word": " about",
+        "start": 386.13,
+        "end": 386.41,
+        "prob": 0.993
+      },
+      {
+        "word": " Tristan",
+        "start": 386.41,
+        "end": 387.13,
+        "prob": 1.0
+      },
+      {
+        "word": " there.",
+        "start": 387.13,
+        "end": 387.61,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 389.97,
+    "end": 392.91,
+    "text": "What's the council's thoughts on that?",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " What's",
+        "start": 389.97,
+        "end": 390.71,
+        "prob": 0.971
+      },
+      {
+        "word": " the",
+        "start": 390.71,
+        "end": 391.45,
+        "prob": 0.899
+      },
+      {
+        "word": " council's",
+        "start": 391.45,
+        "end": 391.95,
+        "prob": 0.82
+      },
+      {
+        "word": " thoughts",
+        "start": 391.95,
+        "end": 392.31,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 392.31,
+        "end": 392.67,
+        "prob": 1.0
+      },
+      {
+        "word": " that?",
+        "start": 392.67,
+        "end": 392.91,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 393.13,
+    "end": 393.87,
+    "text": "Councillor Miller.",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Councillor",
+        "start": 393.13,
+        "end": 393.67,
+        "prob": 0.783
+      },
+      {
+        "word": " Miller.",
+        "start": 393.67,
+        "end": 393.87,
+        "prob": 0.983
+      }
+    ]
+  },
+  {
+    "start": 394.41,
+    "end": 395.37,
+    "text": "Thank you, Mr. Mayor.",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 394.41,
+        "end": 394.81,
+        "prob": 0.998
+      },
+      {
+        "word": " you,",
+        "start": 394.81,
+        "end": 394.97,
+        "prob": 1.0
+      },
+      {
+        "word": " Mr.",
+        "start": 395.09,
+        "end": 395.17,
+        "prob": 0.999
+      },
+      {
+        "word": " Mayor.",
+        "start": 395.27,
+        "end": 395.37,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 395.51,
+    "end": 399.31,
+    "text": "I'd dedicate the rest of my appropriation to that.",
+    "avg_logprob": -0.1993709384620964,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I'd",
+        "start": 395.51,
+        "end": 395.77,
+        "prob": 0.805
+      },
+      {
+        "word": " dedicate",
+        "start": 395.77,
+        "end": 396.21,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 396.21,
+        "end": 396.47,
+        "prob": 1.0
+      },
+      {
+        "word": " rest",
+        "start": 396.47,
+        "end": 396.65,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 396.65,
+        "end": 396.79,
+        "prob": 1.0
+      },
+      {
+        "word": " my",
+        "start": 396.79,
+        "end": 397.11,
+        "prob": 1.0
+      },
+      {
+        "word": " appropriation",
+        "start": 397.11,
+        "end": 398.99,
+        "prob": 0.999
+      },
+      {
+        "word": " to",
+        "start": 398.99,
+        "end": 399.17,
+        "prob": 1.0
+      },
+      {
+        "word": " that.",
+        "start": 399.17,
+        "end": 399.31,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 399.31,
+    "end": 401.59,
+    "text": "I think it's $110 that I have, yeah.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 399.31,
+        "end": 399.47,
+        "prob": 0.581
+      },
+      {
+        "word": " think",
+        "start": 399.47,
+        "end": 399.57,
+        "prob": 0.998
+      },
+      {
+        "word": " it's",
+        "start": 399.57,
+        "end": 399.71,
+        "prob": 0.986
+      },
+      {
+        "word": " $110",
+        "start": 399.71,
+        "end": 400.53,
+        "prob": 0.869
+      },
+      {
+        "word": " that",
+        "start": 400.53,
+        "end": 401.09,
+        "prob": 0.931
+      },
+      {
+        "word": " I",
+        "start": 401.09,
+        "end": 401.23,
+        "prob": 0.991
+      },
+      {
+        "word": " have,",
+        "start": 401.23,
+        "end": 401.41,
+        "prob": 0.997
+      },
+      {
+        "word": " yeah.",
+        "start": 401.49,
+        "end": 401.59,
+        "prob": 0.892
+      }
+    ]
+  },
+  {
+    "start": 402.21,
+    "end": 403.69,
+    "text": "So I'm happy to do that.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " So",
+        "start": 402.21,
+        "end": 402.33,
+        "prob": 0.936
+      },
+      {
+        "word": " I'm",
+        "start": 402.33,
+        "end": 402.87,
+        "prob": 0.908
+      },
+      {
+        "word": " happy",
+        "start": 402.87,
+        "end": 403.19,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 403.19,
+        "end": 403.33,
+        "prob": 1.0
+      },
+      {
+        "word": " do",
+        "start": 403.33,
+        "end": 403.45,
+        "prob": 1.0
+      },
+      {
+        "word": " that.",
+        "start": 403.45,
+        "end": 403.69,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 405.15,
+    "end": 405.53,
+    "text": "Okay.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 405.15,
+        "end": 405.53,
+        "prob": 0.865
+      }
+    ]
+  },
+  {
+    "start": 406.55,
+    "end": 407.91,
+    "text": "Other councillors at all?",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Other",
+        "start": 406.55,
+        "end": 407.11,
+        "prob": 0.996
+      },
+      {
+        "word": " councillors",
+        "start": 407.11,
+        "end": 407.65,
+        "prob": 0.903
+      },
+      {
+        "word": " at",
+        "start": 407.65,
+        "end": 407.85,
+        "prob": 0.971
+      },
+      {
+        "word": " all?",
+        "start": 407.85,
+        "end": 407.91,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 408.19,
+    "end": 409.19,
+    "text": "Everybody's at $110.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Everybody's",
+        "start": 408.19,
+        "end": 408.75,
+        "prob": 0.994
+      },
+      {
+        "word": " at",
+        "start": 408.75,
+        "end": 408.85,
+        "prob": 0.998
+      },
+      {
+        "word": " $110.",
+        "start": 408.85,
+        "end": 409.19,
+        "prob": 0.814
+      }
+    ]
+  },
+  {
+    "start": 409.19,
+    "end": 410.89,
+    "text": "I think I'm the richest guy in the table.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 409.19,
+        "end": 409.43,
+        "prob": 0.998
+      },
+      {
+        "word": " think",
+        "start": 409.43,
+        "end": 409.55,
+        "prob": 1.0
+      },
+      {
+        "word": " I'm",
+        "start": 409.55,
+        "end": 409.71,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 409.71,
+        "end": 409.83,
+        "prob": 1.0
+      },
+      {
+        "word": " richest",
+        "start": 409.83,
+        "end": 410.13,
+        "prob": 1.0
+      },
+      {
+        "word": " guy",
+        "start": 410.13,
+        "end": 410.39,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 410.39,
+        "end": 410.53,
+        "prob": 0.944
+      },
+      {
+        "word": " the",
+        "start": 410.53,
+        "end": 410.61,
+        "prob": 0.997
+      },
+      {
+        "word": " table.",
+        "start": 410.61,
+        "end": 410.89,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 411.17,
+    "end": 412.87,
+    "text": "I think I've got $6.94 left.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I",
+        "start": 411.17,
+        "end": 411.49,
+        "prob": 0.999
+      },
+      {
+        "word": " think",
+        "start": 411.49,
+        "end": 411.59,
+        "prob": 0.998
+      },
+      {
+        "word": " I've",
+        "start": 411.59,
+        "end": 411.79,
+        "prob": 0.715
+      },
+      {
+        "word": " got",
+        "start": 411.79,
+        "end": 411.83,
+        "prob": 1.0
+      },
+      {
+        "word": " $6",
+        "start": 411.83,
+        "end": 412.11,
+        "prob": 0.958
+      },
+      {
+        "word": ".94",
+        "start": 412.11,
+        "end": 412.45,
+        "prob": 0.673
+      },
+      {
+        "word": " left.",
+        "start": 412.45,
+        "end": 412.87,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 416.46,
+    "end": 417.02,
+    "text": "$150?",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " $150?",
+        "start": 416.46,
+        "end": 417.02,
+        "prob": 0.714
+      }
+    ]
+  },
+  {
+    "start": 417.9,
+    "end": 418.06,
+    "text": "Okay.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 417.9,
+        "end": 418.06,
+        "prob": 0.971
+      }
+    ]
+  },
+  {
+    "start": 418.96,
+    "end": 420.02,
+    "text": "I'll do $110.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I'll",
+        "start": 418.96,
+        "end": 419.32,
+        "prob": 0.872
+      },
+      {
+        "word": " do",
+        "start": 419.32,
+        "end": 419.46,
+        "prob": 1.0
+      },
+      {
+        "word": " $110.",
+        "start": 419.46,
+        "end": 420.02,
+        "prob": 0.997
+      }
+    ]
+  },
+  {
+    "start": 421.52,
+    "end": 422.58,
+    "text": "Councillor Kaczynski?",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Councillor",
+        "start": 421.52,
+        "end": 422.08,
+        "prob": 0.83
+      },
+      {
+        "word": " Kaczynski?",
+        "start": 422.08,
+        "end": 422.58,
+        "prob": 0.857
+      }
+    ]
+  },
+  {
+    "start": 426.26,
+    "end": 427.88,
+    "text": "I'll do $110 as well.",
+    "avg_logprob": -0.31481481591860455,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " I'll",
+        "start": 426.26,
+        "end": 426.82,
+        "prob": 0.996
+      },
+      {
+        "word": " do",
+        "start": 426.82,
+        "end": 426.94,
+        "prob": 1.0
+      },
+      {
+        "word": " $110",
+        "start": 426.94,
+        "end": 427.5,
+        "prob": 0.999
+      },
+      {
+        "word": " as",
+        "start": 427.5,
+        "end": 427.74,
+        "prob": 0.992
+      },
+      {
+        "word": " well.",
+        "start": 427.74,
+        "end": 427.88,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 458.82,
+    "end": 463.3,
+    "text": "Actually, maybe we should put a condition on there that Tristan provides us with a soccer ball signed by the team.",
+    "avg_logprob": -0.14753169857937357,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Actually,",
+        "start": 458.82,
+        "end": 459.18,
+        "prob": 0.847
+      },
+      {
+        "word": " maybe",
+        "start": 459.26,
+        "end": 459.38,
+        "prob": 1.0
+      },
+      {
+        "word": " we",
+        "start": 459.38,
+        "end": 459.5,
+        "prob": 1.0
+      },
+      {
+        "word": " should",
+        "start": 459.5,
+        "end": 459.6,
+        "prob": 1.0
+      },
+      {
+        "word": " put",
+        "start": 459.6,
+        "end": 459.72,
+        "prob": 1.0
+      },
+      {
+        "word": " a",
+        "start": 459.72,
+        "end": 459.82,
+        "prob": 1.0
+      },
+      {
+        "word": " condition",
+        "start": 459.82,
+        "end": 460.08,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 460.08,
+        "end": 460.24,
+        "prob": 0.996
+      },
+      {
+        "word": " there",
+        "start": 460.24,
+        "end": 460.34,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 460.34,
+        "end": 460.54,
+        "prob": 0.995
+      },
+      {
+        "word": " Tristan",
+        "start": 460.54,
+        "end": 460.84,
+        "prob": 0.998
+      },
+      {
+        "word": " provides",
+        "start": 460.84,
+        "end": 461.52,
+        "prob": 1.0
+      },
+      {
+        "word": " us",
+        "start": 461.52,
+        "end": 461.7,
+        "prob": 0.983
+      },
+      {
+        "word": " with",
+        "start": 461.7,
+        "end": 461.86,
+        "prob": 0.977
+      },
+      {
+        "word": " a",
+        "start": 461.86,
+        "end": 461.96,
+        "prob": 1.0
+      },
+      {
+        "word": " soccer",
+        "start": 461.96,
+        "end": 462.24,
+        "prob": 0.997
+      },
+      {
+        "word": " ball",
+        "start": 462.24,
+        "end": 462.48,
+        "prob": 0.996
+      },
+      {
+        "word": " signed",
+        "start": 462.48,
+        "end": 462.82,
+        "prob": 0.924
+      },
+      {
+        "word": " by",
+        "start": 462.82,
+        "end": 462.96,
+        "prob": 0.837
+      },
+      {
+        "word": " the",
+        "start": 462.96,
+        "end": 463.06,
+        "prob": 1.0
+      },
+      {
+        "word": " team.",
+        "start": 463.06,
+        "end": 463.3,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 466.1,
+    "end": 472.14,
+    "text": "That won't be part of the condition, but if Tristan's listening, if he's able to do something like that, we wouldn't object to that at all.",
+    "avg_logprob": -0.14753169857937357,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That",
+        "start": 466.1,
+        "end": 466.46,
+        "prob": 0.964
+      },
+      {
+        "word": " won't",
+        "start": 466.46,
+        "end": 466.62,
+        "prob": 1.0
+      },
+      {
+        "word": " be",
+        "start": 466.62,
+        "end": 466.72,
+        "prob": 1.0
+      },
+      {
+        "word": " part",
+        "start": 466.72,
+        "end": 466.88,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 466.88,
+        "end": 466.96,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 466.96,
+        "end": 467.04,
+        "prob": 1.0
+      },
+      {
+        "word": " condition,",
+        "start": 467.04,
+        "end": 467.34,
+        "prob": 1.0
+      },
+      {
+        "word": " but",
+        "start": 467.46,
+        "end": 467.54,
+        "prob": 1.0
+      },
+      {
+        "word": " if",
+        "start": 467.54,
+        "end": 467.74,
+        "prob": 1.0
+      },
+      {
+        "word": " Tristan's",
+        "start": 467.74,
+        "end": 468.38,
+        "prob": 0.985
+      },
+      {
+        "word": " listening,",
+        "start": 468.38,
+        "end": 468.9,
+        "prob": 0.993
+      },
+      {
+        "word": " if",
+        "start": 469.3,
+        "end": 469.42,
+        "prob": 0.337
+      },
+      {
+        "word": " he's",
+        "start": 469.42,
+        "end": 469.62,
+        "prob": 1.0
+      },
+      {
+        "word": " able",
+        "start": 469.62,
+        "end": 469.8,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 469.8,
+        "end": 469.92,
+        "prob": 1.0
+      },
+      {
+        "word": " do",
+        "start": 469.92,
+        "end": 470.04,
+        "prob": 1.0
+      },
+      {
+        "word": " something",
+        "start": 470.04,
+        "end": 470.28,
+        "prob": 1.0
+      },
+      {
+        "word": " like",
+        "start": 470.28,
+        "end": 470.42,
+        "prob": 1.0
+      },
+      {
+        "word": " that,",
+        "start": 470.42,
+        "end": 470.62,
+        "prob": 1.0
+      },
+      {
+        "word": " we",
+        "start": 470.7,
+        "end": 471.04,
+        "prob": 0.993
+      },
+      {
+        "word": " wouldn't",
+        "start": 471.04,
+        "end": 471.26,
+        "prob": 1.0
+      },
+      {
+        "word": " object",
+        "start": 471.26,
+        "end": 471.48,
+        "prob": 0.994
+      },
+      {
+        "word": " to",
+        "start": 471.48,
+        "end": 471.66,
+        "prob": 1.0
+      },
+      {
+        "word": " that",
+        "start": 471.66,
+        "end": 471.82,
+        "prob": 1.0
+      },
+      {
+        "word": " at",
+        "start": 471.82,
+        "end": 471.98,
+        "prob": 1.0
+      },
+      {
+        "word": " all.",
+        "start": 471.98,
+        "end": 472.14,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 473.98,
+    "end": 474.34,
+    "text": "Okay.",
+    "avg_logprob": -0.14753169857937357,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Okay.",
+        "start": 473.98,
+        "end": 474.34,
+        "prob": 0.967
+      }
+    ]
+  },
+  {
+    "start": 474.34,
+    "end": 480.0,
+    "text": "Be it resolved that the following 2026 ward appropriations be approved.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Be",
+        "start": 474.34,
+        "end": 475.34,
+        "prob": 0.613
+      },
+      {
+        "word": " it",
+        "start": 475.34,
+        "end": 475.48,
+        "prob": 0.418
+      },
+      {
+        "word": " resolved",
+        "start": 475.48,
+        "end": 475.8,
+        "prob": 0.997
+      },
+      {
+        "word": " that",
+        "start": 475.8,
+        "end": 476.0,
+        "prob": 0.987
+      },
+      {
+        "word": " the",
+        "start": 476.0,
+        "end": 476.1,
+        "prob": 1.0
+      },
+      {
+        "word": " following",
+        "start": 476.1,
+        "end": 476.58,
+        "prob": 1.0
+      },
+      {
+        "word": " 2026",
+        "start": 476.58,
+        "end": 478.08,
+        "prob": 0.98
+      },
+      {
+        "word": " ward",
+        "start": 478.08,
+        "end": 478.38,
+        "prob": 0.652
+      },
+      {
+        "word": " appropriations",
+        "start": 478.38,
+        "end": 479.26,
+        "prob": 0.999
+      },
+      {
+        "word": " be",
+        "start": 479.26,
+        "end": 479.5,
+        "prob": 0.999
+      },
+      {
+        "word": " approved.",
+        "start": 479.5,
+        "end": 480.0,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 480.56,
+    "end": 486.36,
+    "text": "Tristan Fandage, wards 2, 3, 4, and mayor, $110 each.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Tristan",
+        "start": 480.56,
+        "end": 480.86,
+        "prob": 0.995
+      },
+      {
+        "word": " Fandage,",
+        "start": 480.86,
+        "end": 481.58,
+        "prob": 0.789
+      },
+      {
+        "word": " wards",
+        "start": 482.5,
+        "end": 482.9,
+        "prob": 0.893
+      },
+      {
+        "word": " 2,",
+        "start": 482.9,
+        "end": 483.3,
+        "prob": 0.708
+      },
+      {
+        "word": " 3,",
+        "start": 483.52,
+        "end": 483.72,
+        "prob": 1.0
+      },
+      {
+        "word": " 4,",
+        "start": 483.92,
+        "end": 484.28,
+        "prob": 1.0
+      },
+      {
+        "word": " and",
+        "start": 484.54,
+        "end": 484.64,
+        "prob": 0.999
+      },
+      {
+        "word": " mayor,",
+        "start": 484.64,
+        "end": 484.94,
+        "prob": 0.599
+      },
+      {
+        "word": " $110",
+        "start": 485.08,
+        "end": 485.62,
+        "prob": 0.947
+      },
+      {
+        "word": " each.",
+        "start": 485.62,
+        "end": 486.36,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 486.96,
+    "end": 488.84,
+    "text": "Ward 1, $150.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Ward",
+        "start": 486.96,
+        "end": 487.48,
+        "prob": 0.998
+      },
+      {
+        "word": " 1,",
+        "start": 487.48,
+        "end": 487.82,
+        "prob": 0.983
+      },
+      {
+        "word": " $150.",
+        "start": 488.02,
+        "end": 488.84,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 490.16,
+    "end": 490.86,
+    "text": "All right.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " All",
+        "start": 490.16,
+        "end": 490.78,
+        "prob": 0.972
+      },
+      {
+        "word": " right.",
+        "start": 490.78,
+        "end": 490.86,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 490.94,
+    "end": 494.46,
+    "text": "With that being explained, I'll pose a question for those in support.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " With",
+        "start": 490.94,
+        "end": 491.1,
+        "prob": 0.979
+      },
+      {
+        "word": " that",
+        "start": 491.1,
+        "end": 491.28,
+        "prob": 1.0
+      },
+      {
+        "word": " being",
+        "start": 491.28,
+        "end": 491.9,
+        "prob": 1.0
+      },
+      {
+        "word": " explained,",
+        "start": 491.9,
+        "end": 492.32,
+        "prob": 1.0
+      },
+      {
+        "word": " I'll",
+        "start": 492.36,
+        "end": 492.82,
+        "prob": 0.999
+      },
+      {
+        "word": " pose",
+        "start": 492.82,
+        "end": 493.08,
+        "prob": 0.998
+      },
+      {
+        "word": " a",
+        "start": 493.08,
+        "end": 493.2,
+        "prob": 0.933
+      },
+      {
+        "word": " question",
+        "start": 493.2,
+        "end": 493.44,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 493.44,
+        "end": 493.64,
+        "prob": 1.0
+      },
+      {
+        "word": " those",
+        "start": 493.64,
+        "end": 493.9,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 493.9,
+        "end": 494.08,
+        "prob": 1.0
+      },
+      {
+        "word": " support.",
+        "start": 494.08,
+        "end": 494.46,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 494.9,
+    "end": 496.74,
+    "text": "That is unanimous and so carried.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That",
+        "start": 494.9,
+        "end": 495.52,
+        "prob": 1.0
+      },
+      {
+        "word": " is",
+        "start": 495.52,
+        "end": 495.62,
+        "prob": 1.0
+      },
+      {
+        "word": " unanimous",
+        "start": 495.62,
+        "end": 496.08,
+        "prob": 1.0
+      },
+      {
+        "word": " and",
+        "start": 496.08,
+        "end": 496.2,
+        "prob": 0.998
+      },
+      {
+        "word": " so",
+        "start": 496.2,
+        "end": 496.4,
+        "prob": 0.999
+      },
+      {
+        "word": " carried.",
+        "start": 496.4,
+        "end": 496.74,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 499.08,
+    "end": 505.44,
+    "text": "Then if we go to the Manitoba Association of Regional Recyclers form, 10.3 of people following on there.",
+    "avg_logprob": -0.21072247050224094,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 499.08,
+        "end": 499.66,
+        "prob": 0.999
+      },
+      {
+        "word": " if",
+        "start": 499.66,
+        "end": 499.8,
+        "prob": 0.912
+      },
+      {
+        "word": " we",
+        "start": 499.8,
+        "end": 499.8,
+        "prob": 0.999
+      },
+      {
+        "word": " go",
+        "start": 499.8,
+        "end": 499.94,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 499.94,
+        "end": 500.04,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 500.04,
+        "end": 500.1,
+        "prob": 1.0
+      },
+      {
+        "word": " Manitoba",
+        "start": 500.1,
+        "end": 500.6,
+        "prob": 0.998
+      },
+      {
+        "word": " Association",
+        "start": 500.6,
+        "end": 501.2,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 501.2,
+        "end": 501.52,
+        "prob": 0.996
+      },
+      {
+        "word": " Regional",
+        "start": 501.52,
+        "end": 501.88,
+        "prob": 0.999
+      },
+      {
+        "word": " Recyclers",
+        "start": 501.88,
+        "end": 502.64,
+        "prob": 0.983
+      },
+      {
+        "word": " form,",
+        "start": 502.64,
+        "end": 503.24,
+        "prob": 0.824
+      },
+      {
+        "word": " 10",
+        "start": 503.5,
+        "end": 503.82,
+        "prob": 0.999
+      },
+      {
+        "word": ".3",
+        "start": 503.82,
+        "end": 504.26,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 504.26,
+        "end": 504.42,
+        "prob": 0.778
+      },
+      {
+        "word": " people",
+        "start": 504.42,
+        "end": 504.64,
+        "prob": 1.0
+      },
+      {
+        "word": " following",
+        "start": 504.64,
+        "end": 505.06,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 505.06,
+        "end": 505.24,
+        "prob": 1.0
+      },
+      {
+        "word": " there.",
+        "start": 505.24,
+        "end": 505.44,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 505.44,
+    "end": 506.9,
+    "text": "Mover, seconder, please.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Mover,",
+        "start": 505.44,
+        "end": 506.18,
+        "prob": 0.915
+      },
+      {
+        "word": " seconder,",
+        "start": 506.38,
+        "end": 506.62,
+        "prob": 0.961
+      },
+      {
+        "word": " please.",
+        "start": 506.72,
+        "end": 506.9,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 507.7,
+    "end": 508.6,
+    "text": "Tearing and fuel.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Tearing",
+        "start": 507.7,
+        "end": 508.22,
+        "prob": 0.726
+      },
+      {
+        "word": " and",
+        "start": 508.22,
+        "end": 508.38,
+        "prob": 0.919
+      },
+      {
+        "word": " fuel.",
+        "start": 508.38,
+        "end": 508.6,
+        "prob": 0.99
+      }
+    ]
+  },
+  {
+    "start": 517.52,
+    "end": 527.56,
+    "text": "Be it resolved that all of Council be delegated to attend the Manitoba Association of Regional Recyclers forum on October 14th and 15th in Winnipeg at their discretion.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Be",
+        "start": 517.52,
+        "end": 517.68,
+        "prob": 0.869
+      },
+      {
+        "word": " it",
+        "start": 517.68,
+        "end": 517.84,
+        "prob": 0.857
+      },
+      {
+        "word": " resolved",
+        "start": 517.84,
+        "end": 518.18,
+        "prob": 0.997
+      },
+      {
+        "word": " that",
+        "start": 518.18,
+        "end": 518.38,
+        "prob": 1.0
+      },
+      {
+        "word": " all",
+        "start": 518.38,
+        "end": 518.58,
+        "prob": 0.998
+      },
+      {
+        "word": " of",
+        "start": 518.58,
+        "end": 518.7,
+        "prob": 0.999
+      },
+      {
+        "word": " Council",
+        "start": 518.7,
+        "end": 519.02,
+        "prob": 0.765
+      },
+      {
+        "word": " be",
+        "start": 519.02,
+        "end": 519.24,
+        "prob": 0.993
+      },
+      {
+        "word": " delegated",
+        "start": 519.24,
+        "end": 519.7,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 519.7,
+        "end": 519.9,
+        "prob": 1.0
+      },
+      {
+        "word": " attend",
+        "start": 519.9,
+        "end": 520.26,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 520.26,
+        "end": 520.44,
+        "prob": 1.0
+      },
+      {
+        "word": " Manitoba",
+        "start": 520.44,
+        "end": 520.96,
+        "prob": 0.999
+      },
+      {
+        "word": " Association",
+        "start": 520.96,
+        "end": 521.5,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 521.5,
+        "end": 521.96,
+        "prob": 0.999
+      },
+      {
+        "word": " Regional",
+        "start": 521.96,
+        "end": 522.32,
+        "prob": 0.999
+      },
+      {
+        "word": " Recyclers",
+        "start": 522.32,
+        "end": 523.04,
+        "prob": 0.991
+      },
+      {
+        "word": " forum",
+        "start": 523.04,
+        "end": 523.36,
+        "prob": 0.077
+      },
+      {
+        "word": " on",
+        "start": 523.36,
+        "end": 524.04,
+        "prob": 0.997
+      },
+      {
+        "word": " October",
+        "start": 524.04,
+        "end": 524.4,
+        "prob": 0.999
+      },
+      {
+        "word": " 14th",
+        "start": 524.4,
+        "end": 525.14,
+        "prob": 0.707
+      },
+      {
+        "word": " and",
+        "start": 525.14,
+        "end": 525.22,
+        "prob": 1.0
+      },
+      {
+        "word": " 15th",
+        "start": 525.22,
+        "end": 525.88,
+        "prob": 1.0
+      },
+      {
+        "word": " in",
+        "start": 525.88,
+        "end": 526.24,
+        "prob": 0.988
+      },
+      {
+        "word": " Winnipeg",
+        "start": 526.24,
+        "end": 526.72,
+        "prob": 1.0
+      },
+      {
+        "word": " at",
+        "start": 526.72,
+        "end": 526.88,
+        "prob": 0.942
+      },
+      {
+        "word": " their",
+        "start": 526.88,
+        "end": 527.06,
+        "prob": 1.0
+      },
+      {
+        "word": " discretion.",
+        "start": 527.06,
+        "end": 527.56,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 528.1,
+    "end": 528.78,
+    "text": "Thank you.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 528.1,
+        "end": 528.58,
+        "prob": 0.999
+      },
+      {
+        "word": " you.",
+        "start": 528.58,
+        "end": 528.78,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 529.04,
+    "end": 531.26,
+    "text": "With that being read, I'll pose the question.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " With",
+        "start": 529.04,
+        "end": 529.18,
+        "prob": 0.94
+      },
+      {
+        "word": " that",
+        "start": 529.18,
+        "end": 529.38,
+        "prob": 1.0
+      },
+      {
+        "word": " being",
+        "start": 529.38,
+        "end": 529.86,
+        "prob": 1.0
+      },
+      {
+        "word": " read,",
+        "start": 529.86,
+        "end": 530.16,
+        "prob": 0.998
+      },
+      {
+        "word": " I'll",
+        "start": 530.34,
+        "end": 530.6,
+        "prob": 0.879
+      },
+      {
+        "word": " pose",
+        "start": 530.6,
+        "end": 530.86,
+        "prob": 0.984
+      },
+      {
+        "word": " the",
+        "start": 530.86,
+        "end": 531.0,
+        "prob": 0.977
+      },
+      {
+        "word": " question.",
+        "start": 531.0,
+        "end": 531.26,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 531.38,
+    "end": 532.1,
+    "text": "Bill is in support.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Bill",
+        "start": 531.38,
+        "end": 531.5,
+        "prob": 0.872
+      },
+      {
+        "word": " is",
+        "start": 531.5,
+        "end": 531.64,
+        "prob": 0.994
+      },
+      {
+        "word": " in",
+        "start": 531.64,
+        "end": 531.76,
+        "prob": 1.0
+      },
+      {
+        "word": " support.",
+        "start": 531.76,
+        "end": 532.1,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 533.06,
+    "end": 534.08,
+    "text": "Unanimous and so carried.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Unanimous",
+        "start": 533.06,
+        "end": 533.58,
+        "prob": 0.966
+      },
+      {
+        "word": " and",
+        "start": 533.58,
+        "end": 533.7,
+        "prob": 0.007
+      },
+      {
+        "word": " so",
+        "start": 533.7,
+        "end": 533.84,
+        "prob": 0.975
+      },
+      {
+        "word": " carried.",
+        "start": 533.84,
+        "end": 534.08,
+        "prob": 0.984
+      }
+    ]
+  },
+  {
+    "start": 535.72,
+    "end": 538.2,
+    "text": "Then we'll go to 10.4.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 535.72,
+        "end": 536.24,
+        "prob": 0.674
+      },
+      {
+        "word": " we'll",
+        "start": 536.24,
+        "end": 536.38,
+        "prob": 0.999
+      },
+      {
+        "word": " go",
+        "start": 536.38,
+        "end": 536.52,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 536.52,
+        "end": 536.88,
+        "prob": 1.0
+      },
+      {
+        "word": " 10",
+        "start": 536.88,
+        "end": 537.74,
+        "prob": 0.997
+      },
+      {
+        "word": ".4.",
+        "start": 537.74,
+        "end": 538.2,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 538.36,
+    "end": 541.52,
+    "text": "That's the AMM Fall Convention in Brandon there.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " That's",
+        "start": 538.36,
+        "end": 538.52,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 538.52,
+        "end": 538.62,
+        "prob": 1.0
+      },
+      {
+        "word": " AMM",
+        "start": 538.62,
+        "end": 539.06,
+        "prob": 0.968
+      },
+      {
+        "word": " Fall",
+        "start": 539.06,
+        "end": 539.56,
+        "prob": 0.882
+      },
+      {
+        "word": " Convention",
+        "start": 539.56,
+        "end": 540.18,
+        "prob": 0.985
+      },
+      {
+        "word": " in",
+        "start": 540.18,
+        "end": 540.76,
+        "prob": 0.814
+      },
+      {
+        "word": " Brandon",
+        "start": 540.76,
+        "end": 541.08,
+        "prob": 0.992
+      },
+      {
+        "word": " there.",
+        "start": 541.08,
+        "end": 541.52,
+        "prob": 0.899
+      }
+    ]
+  },
+  {
+    "start": 541.66,
+    "end": 542.34,
+    "text": "Mover, seconder.",
+    "avg_logprob": -0.21688987515748492,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Mover,",
+        "start": 541.66,
+        "end": 541.88,
+        "prob": 0.999
+      },
+      {
+        "word": " seconder.",
+        "start": 542.08,
+        "end": 542.34,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 542.34,
+    "end": 545.46,
+    "text": "Tarian and Kaczynski.",
+    "avg_logprob": -0.4433593824505806,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Tarian",
+        "start": 542.34,
+        "end": 544.28,
+        "prob": 0.482
+      },
+      {
+        "word": " and",
+        "start": 544.28,
+        "end": 544.68,
+        "prob": 0.989
+      },
+      {
+        "word": " Kaczynski.",
+        "start": 544.68,
+        "end": 545.46,
+        "prob": 0.985
+      }
+    ]
+  },
+  {
+    "start": 545.46,
+    "end": 558.56,
+    "text": "Be it resolved that all of Council be delegated to attend the AMM Fall Convention and Pre-Convention Seminar in Brandon, November 23rd to 26th at their discretion.",
+    "avg_logprob": -0.14653201510266559,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Be",
+        "start": 545.46,
+        "end": 546.64,
+        "prob": 0.523
+      },
+      {
+        "word": " it",
+        "start": 548.92,
+        "end": 549.06,
+        "prob": 0.998
+      },
+      {
+        "word": " resolved",
+        "start": 549.06,
+        "end": 549.4,
+        "prob": 0.993
+      },
+      {
+        "word": " that",
+        "start": 549.4,
+        "end": 549.6,
+        "prob": 0.994
+      },
+      {
+        "word": " all",
+        "start": 549.6,
+        "end": 549.78,
+        "prob": 0.998
+      },
+      {
+        "word": " of",
+        "start": 549.78,
+        "end": 549.9,
+        "prob": 0.991
+      },
+      {
+        "word": " Council",
+        "start": 549.9,
+        "end": 550.22,
+        "prob": 0.774
+      },
+      {
+        "word": " be",
+        "start": 550.22,
+        "end": 550.46,
+        "prob": 0.945
+      },
+      {
+        "word": " delegated",
+        "start": 550.46,
+        "end": 550.94,
+        "prob": 1.0
+      },
+      {
+        "word": " to",
+        "start": 550.94,
+        "end": 551.16,
+        "prob": 0.999
+      },
+      {
+        "word": " attend",
+        "start": 551.16,
+        "end": 551.52,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 551.52,
+        "end": 551.7,
+        "prob": 1.0
+      },
+      {
+        "word": " AMM",
+        "start": 551.7,
+        "end": 552.24,
+        "prob": 0.987
+      },
+      {
+        "word": " Fall",
+        "start": 552.24,
+        "end": 552.56,
+        "prob": 0.81
+      },
+      {
+        "word": " Convention",
+        "start": 552.56,
+        "end": 553.06,
+        "prob": 0.985
+      },
+      {
+        "word": " and",
+        "start": 553.06,
+        "end": 553.36,
+        "prob": 0.998
+      },
+      {
+        "word": " Pre",
+        "start": 553.36,
+        "end": 553.62,
+        "prob": 0.899
+      },
+      {
+        "word": "-Convention",
+        "start": 553.62,
+        "end": 554.16,
+        "prob": 0.972
+      },
+      {
+        "word": " Seminar",
+        "start": 554.16,
+        "end": 554.7,
+        "prob": 0.966
+      },
+      {
+        "word": " in",
+        "start": 554.7,
+        "end": 554.88,
+        "prob": 0.998
+      },
+      {
+        "word": " Brandon,",
+        "start": 554.88,
+        "end": 555.26,
+        "prob": 0.944
+      },
+      {
+        "word": " November",
+        "start": 555.7,
+        "end": 556.02,
+        "prob": 0.996
+      },
+      {
+        "word": " 23rd",
+        "start": 556.02,
+        "end": 556.92,
+        "prob": 0.876
+      },
+      {
+        "word": " to",
+        "start": 556.92,
+        "end": 557.06,
+        "prob": 0.948
+      },
+      {
+        "word": " 26th",
+        "start": 557.06,
+        "end": 557.78,
+        "prob": 0.971
+      },
+      {
+        "word": " at",
+        "start": 557.78,
+        "end": 557.94,
+        "prob": 0.716
+      },
+      {
+        "word": " their",
+        "start": 557.94,
+        "end": 558.1,
+        "prob": 1.0
+      },
+      {
+        "word": " discretion.",
+        "start": 558.1,
+        "end": 558.56,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 558.56,
+    "end": 559.84,
+    "text": "Thank you.",
+    "avg_logprob": -0.20667613229968332,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 558.56,
+        "end": 559.58,
+        "prob": 0.396
+      },
+      {
+        "word": " you.",
+        "start": 559.58,
+        "end": 559.84,
+        "prob": 0.997
+      }
+    ]
+  },
+  {
+    "start": 560.04,
+    "end": 564.6,
+    "text": "With that being read, if I can get a show of hands first, those in support.",
+    "avg_logprob": -0.20667613229968332,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " With",
+        "start": 560.04,
+        "end": 560.2,
+        "prob": 0.951
+      },
+      {
+        "word": " that",
+        "start": 560.2,
+        "end": 560.4,
+        "prob": 0.998
+      },
+      {
+        "word": " being",
+        "start": 560.4,
+        "end": 560.94,
+        "prob": 0.98
+      },
+      {
+        "word": " read,",
+        "start": 560.94,
+        "end": 561.54,
+        "prob": 0.988
+      },
+      {
+        "word": " if",
+        "start": 561.8,
+        "end": 561.86,
+        "prob": 0.936
+      },
+      {
+        "word": " I",
+        "start": 561.86,
+        "end": 561.98,
+        "prob": 0.991
+      },
+      {
+        "word": " can",
+        "start": 561.98,
+        "end": 562.08,
+        "prob": 0.991
+      },
+      {
+        "word": " get",
+        "start": 562.08,
+        "end": 562.24,
+        "prob": 0.988
+      },
+      {
+        "word": " a",
+        "start": 562.24,
+        "end": 562.54,
+        "prob": 0.991
+      },
+      {
+        "word": " show",
+        "start": 562.54,
+        "end": 563.32,
+        "prob": 0.989
+      },
+      {
+        "word": " of",
+        "start": 563.32,
+        "end": 563.44,
+        "prob": 0.991
+      },
+      {
+        "word": " hands",
+        "start": 563.44,
+        "end": 563.58,
+        "prob": 0.997
+      },
+      {
+        "word": " first,",
+        "start": 563.58,
+        "end": 563.84,
+        "prob": 0.954
+      },
+      {
+        "word": " those",
+        "start": 563.96,
+        "end": 564.1,
+        "prob": 0.975
+      },
+      {
+        "word": " in",
+        "start": 564.1,
+        "end": 564.26,
+        "prob": 0.974
+      },
+      {
+        "word": " support.",
+        "start": 564.26,
+        "end": 564.6,
+        "prob": 0.998
+      }
+    ]
+  },
+  {
+    "start": 565.56,
+    "end": 566.6,
+    "text": "It's unanimous.",
+    "avg_logprob": -0.20667613229968332,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It's",
+        "start": 565.56,
+        "end": 566.08,
+        "prob": 0.982
+      },
+      {
+        "word": " unanimous.",
+        "start": 566.08,
+        "end": 566.6,
+        "prob": 0.996
+      }
+    ]
+  },
+  {
+    "start": 570.75,
+    "end": 572.65,
+    "text": "Then it's a very quick meeting.",
+    "avg_logprob": -0.20667613229968332,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Then",
+        "start": 570.75,
+        "end": 571.27,
+        "prob": 0.927
+      },
+      {
+        "word": " it's",
+        "start": 571.27,
+        "end": 571.79,
+        "prob": 0.88
+      },
+      {
+        "word": " a",
+        "start": 571.79,
+        "end": 571.87,
+        "prob": 0.988
+      },
+      {
+        "word": " very",
+        "start": 571.87,
+        "end": 572.03,
+        "prob": 1.0
+      },
+      {
+        "word": " quick",
+        "start": 572.03,
+        "end": 572.35,
+        "prob": 0.999
+      },
+      {
+        "word": " meeting.",
+        "start": 572.35,
+        "end": 572.65,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 573.01,
+    "end": 576.99,
+    "text": "We'll go to prepare to do a closed meeting and adjournment at the same time.",
+    "avg_logprob": -0.20667613229968332,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " We'll",
+        "start": 573.01,
+        "end": 573.39,
+        "prob": 0.99
+      },
+      {
+        "word": " go",
+        "start": 573.39,
+        "end": 573.55,
+        "prob": 0.94
+      },
+      {
+        "word": " to",
+        "start": 573.55,
+        "end": 573.89,
+        "prob": 0.992
+      },
+      {
+        "word": " prepare",
+        "start": 573.89,
+        "end": 574.87,
+        "prob": 0.891
+      },
+      {
+        "word": " to",
+        "start": 574.87,
+        "end": 575.01,
+        "prob": 0.995
+      },
+      {
+        "word": " do",
+        "start": 575.01,
+        "end": 575.13,
+        "prob": 0.999
+      },
+      {
+        "word": " a",
+        "start": 575.13,
+        "end": 575.25,
+        "prob": 0.992
+      },
+      {
+        "word": " closed",
+        "start": 575.25,
+        "end": 575.39,
+        "prob": 0.83
+      },
+      {
+        "word": " meeting",
+        "start": 575.39,
+        "end": 575.67,
+        "prob": 1.0
+      },
+      {
+        "word": " and",
+        "start": 575.67,
+        "end": 575.83,
+        "prob": 0.963
+      },
+      {
+        "word": " adjournment",
+        "start": 575.83,
+        "end": 576.25,
+        "prob": 0.997
+      },
+      {
+        "word": " at",
+        "start": 576.25,
+        "end": 576.35,
+        "prob": 0.999
+      },
+      {
+        "word": " the",
+        "start": 576.35,
+        "end": 576.45,
+        "prob": 1.0
+      },
+      {
+        "word": " same",
+        "start": 576.45,
+        "end": 576.65,
+        "prob": 1.0
+      },
+      {
+        "word": " time.",
+        "start": 576.65,
+        "end": 576.99,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 576.99,
+    "end": 581.15,
+    "text": "If I get a mover and a seconder for that together.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 576.99,
+        "end": 578.07,
+        "prob": 0.494
+      },
+      {
+        "word": " I",
+        "start": 578.07,
+        "end": 578.15,
+        "prob": 0.989
+      },
+      {
+        "word": " get",
+        "start": 578.15,
+        "end": 578.29,
+        "prob": 0.853
+      },
+      {
+        "word": " a",
+        "start": 578.29,
+        "end": 578.39,
+        "prob": 0.956
+      },
+      {
+        "word": " mover",
+        "start": 578.39,
+        "end": 578.55,
+        "prob": 0.928
+      },
+      {
+        "word": " and",
+        "start": 578.55,
+        "end": 578.77,
+        "prob": 0.929
+      },
+      {
+        "word": " a",
+        "start": 578.77,
+        "end": 578.85,
+        "prob": 0.994
+      },
+      {
+        "word": " seconder",
+        "start": 578.85,
+        "end": 579.37,
+        "prob": 0.902
+      },
+      {
+        "word": " for",
+        "start": 579.37,
+        "end": 580.01,
+        "prob": 0.976
+      },
+      {
+        "word": " that",
+        "start": 580.01,
+        "end": 580.39,
+        "prob": 0.999
+      },
+      {
+        "word": " together.",
+        "start": 580.39,
+        "end": 581.15,
+        "prob": 0.875
+      }
+    ]
+  },
+  {
+    "start": 581.55,
+    "end": 583.83,
+    "text": "It's Miller and Fuel.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It's",
+        "start": 581.55,
+        "end": 581.71,
+        "prob": 0.797
+      },
+      {
+        "word": " Miller",
+        "start": 581.71,
+        "end": 582.03,
+        "prob": 0.705
+      },
+      {
+        "word": " and",
+        "start": 582.03,
+        "end": 582.53,
+        "prob": 0.99
+      },
+      {
+        "word": " Fuel.",
+        "start": 582.53,
+        "end": 583.83,
+        "prob": 0.793
+      }
+    ]
+  },
+  {
+    "start": 584.41,
+    "end": 587.41,
+    "text": "Show of hands are those in support of adjourning the meeting.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Show",
+        "start": 584.41,
+        "end": 585.01,
+        "prob": 0.719
+      },
+      {
+        "word": " of",
+        "start": 585.01,
+        "end": 585.17,
+        "prob": 0.987
+      },
+      {
+        "word": " hands",
+        "start": 585.17,
+        "end": 585.39,
+        "prob": 0.997
+      },
+      {
+        "word": " are",
+        "start": 585.39,
+        "end": 585.53,
+        "prob": 0.779
+      },
+      {
+        "word": " those",
+        "start": 585.53,
+        "end": 585.73,
+        "prob": 0.999
+      },
+      {
+        "word": " in",
+        "start": 585.73,
+        "end": 585.91,
+        "prob": 0.998
+      },
+      {
+        "word": " support",
+        "start": 585.91,
+        "end": 586.25,
+        "prob": 1.0
+      },
+      {
+        "word": " of",
+        "start": 586.25,
+        "end": 586.65,
+        "prob": 0.989
+      },
+      {
+        "word": " adjourning",
+        "start": 586.65,
+        "end": 587.05,
+        "prob": 0.927
+      },
+      {
+        "word": " the",
+        "start": 587.05,
+        "end": 587.19,
+        "prob": 0.988
+      },
+      {
+        "word": " meeting.",
+        "start": 587.19,
+        "end": 587.41,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 588.73,
+    "end": 589.89,
+    "text": "It's unanimous.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " It's",
+        "start": 588.73,
+        "end": 589.33,
+        "prob": 0.834
+      },
+      {
+        "word": " unanimous.",
+        "start": 589.33,
+        "end": 589.89,
+        "prob": 0.999
+      }
+    ]
+  },
+  {
+    "start": 590.45,
+    "end": 592.35,
+    "text": "At 610, we're going to adjourn the meeting.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " At",
+        "start": 590.45,
+        "end": 590.67,
+        "prob": 0.245
+      },
+      {
+        "word": " 610,",
+        "start": 590.67,
+        "end": 591.03,
+        "prob": 0.674
+      },
+      {
+        "word": " we're",
+        "start": 591.15,
+        "end": 591.29,
+        "prob": 0.992
+      },
+      {
+        "word": " going",
+        "start": 591.29,
+        "end": 591.37,
+        "prob": 0.817
+      },
+      {
+        "word": " to",
+        "start": 591.37,
+        "end": 591.45,
+        "prob": 0.999
+      },
+      {
+        "word": " adjourn",
+        "start": 591.45,
+        "end": 591.81,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 591.81,
+        "end": 591.97,
+        "prob": 1.0
+      },
+      {
+        "word": " meeting.",
+        "start": 591.97,
+        "end": 592.35,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 592.55,
+    "end": 597.41,
+    "text": "If Council can remain behind for our item 14 on the agenda.",
+    "avg_logprob": -0.22849025586982827,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " If",
+        "start": 592.55,
+        "end": 592.67,
+        "prob": 0.951
+      },
+      {
+        "word": " Council",
+        "start": 592.67,
+        "end": 592.97,
+        "prob": 0.408
+      },
+      {
+        "word": " can",
+        "start": 592.97,
+        "end": 593.19,
+        "prob": 0.998
+      },
+      {
+        "word": " remain",
+        "start": 593.19,
+        "end": 593.43,
+        "prob": 0.999
+      },
+      {
+        "word": " behind",
+        "start": 593.43,
+        "end": 593.77,
+        "prob": 1.0
+      },
+      {
+        "word": " for",
+        "start": 593.77,
+        "end": 594.07,
+        "prob": 0.997
+      },
+      {
+        "word": " our",
+        "start": 594.07,
+        "end": 594.41,
+        "prob": 0.946
+      },
+      {
+        "word": " item",
+        "start": 594.41,
+        "end": 595.37,
+        "prob": 0.815
+      },
+      {
+        "word": " 14",
+        "start": 595.37,
+        "end": 595.73,
+        "prob": 0.999
+      },
+      {
+        "word": " on",
+        "start": 595.73,
+        "end": 596.03,
+        "prob": 0.998
+      },
+      {
+        "word": " the",
+        "start": 596.03,
+        "end": 596.27,
+        "prob": 1.0
+      },
+      {
+        "word": " agenda.",
+        "start": 596.27,
+        "end": 597.41,
+        "prob": 0.981
+      }
+    ]
+  },
+  {
+    "start": 597.41,
+    "end": 602.47,
+    "text": "Although it's over with now, but we're just going to talk about the assessment after the fact.",
+    "avg_logprob": -0.1171875,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Although",
+        "start": 597.41,
+        "end": 597.99,
+        "prob": 0.274
+      },
+      {
+        "word": " it's",
+        "start": 597.99,
+        "end": 599.27,
+        "prob": 0.793
+      },
+      {
+        "word": " over",
+        "start": 599.27,
+        "end": 599.45,
+        "prob": 0.997
+      },
+      {
+        "word": " with",
+        "start": 599.45,
+        "end": 599.61,
+        "prob": 0.975
+      },
+      {
+        "word": " now,",
+        "start": 599.61,
+        "end": 599.79,
+        "prob": 0.998
+      },
+      {
+        "word": " but",
+        "start": 599.89,
+        "end": 600.03,
+        "prob": 0.985
+      },
+      {
+        "word": " we're",
+        "start": 600.03,
+        "end": 600.25,
+        "prob": 0.996
+      },
+      {
+        "word": " just",
+        "start": 600.25,
+        "end": 600.37,
+        "prob": 0.998
+      },
+      {
+        "word": " going",
+        "start": 600.37,
+        "end": 600.53,
+        "prob": 0.781
+      },
+      {
+        "word": " to",
+        "start": 600.53,
+        "end": 600.65,
+        "prob": 0.999
+      },
+      {
+        "word": " talk",
+        "start": 600.65,
+        "end": 600.93,
+        "prob": 0.999
+      },
+      {
+        "word": " about",
+        "start": 600.93,
+        "end": 601.21,
+        "prob": 1.0
+      },
+      {
+        "word": " the",
+        "start": 601.21,
+        "end": 601.43,
+        "prob": 0.999
+      },
+      {
+        "word": " assessment",
+        "start": 601.43,
+        "end": 601.83,
+        "prob": 0.998
+      },
+      {
+        "word": " after",
+        "start": 601.83,
+        "end": 602.15,
+        "prob": 0.95
+      },
+      {
+        "word": " the",
+        "start": 602.15,
+        "end": 602.27,
+        "prob": 0.99
+      },
+      {
+        "word": " fact.",
+        "start": 602.27,
+        "end": 602.47,
+        "prob": 1.0
+      }
+    ]
+  },
+  {
+    "start": 602.59,
+    "end": 603.09,
+    "text": "Thank you very much.",
+    "avg_logprob": -0.1171875,
+    "no_speech_prob": 0.0,
+    "words": [
+      {
+        "word": " Thank",
+        "start": 602.59,
+        "end": 602.65,
+        "prob": 0.998
+      },
+      {
+        "word": " you",
+        "start": 602.65,
+        "end": 602.77,
+        "prob": 1.0
+      },
+      {
+        "word": " very",
+        "start": 602.77,
+        "end": 602.89,
+        "prob": 0.998
+      },
+      {
+        "word": " much.",
+        "start": 602.89,
+        "end": 603.09,
+        "prob": 1.0
+      }
+    ]
+  }
+]

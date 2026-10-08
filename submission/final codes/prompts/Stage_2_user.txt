@@ -1,0 +1,27 @@
+Refine TEXT TO REFINE using the optional CONTEXT ONLY and GLOSSARY TERMS below.
+
+Rules:
+- Fix flagged [[word|prob]] words first, using context and glossary terms.
+- Unflagged words may be fixed only if they are clearly an ASR error; Whisper can be confidently wrong.
+- Never change names, numbers, negation (not/no/n't), or commitments unless clearly an ASR error.
+- If unsure, keep the original word.
+- Do not summarize, rephrase, add, or remove content.
+- CONTEXT ONLY is for understanding. Do not include it in refined_text.
+- Strip all [[ and ]] marks in refined_text.
+- Return strict JSON only, with this exact shape:
+  {"refined_text": "...", "changes": [{"original": "", "corrected": "", "reason": "", "confidence": 0.0}]}
+
+CONTEXT ONLY:
+{context}
+
+GLOSSARY TERMS:
+{glossary}
+
+TEXT TO REFINE:
+{text}
+
+{retry_instruction}
+
+This chunk passed an error-detection gate. Correct only a likely ASR error;
+do not make stylistic improvements. If no safe correction can be established,
+return the original chunk with only its confidence markers removed.

@@ -1,0 +1,972 @@
+<!DOCTYPE html><html lang="en" style=""><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><meta content="web_standard" name="shell-type"><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@600;700;800&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@600;700;800&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.googleapis.com" class=""><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@600;700;800&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&amp;family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "tertiary-fixed-dim": "#cfc5b8", "on-surface-variant": "#46464b", "primary-fixed": "#e3e1e9", "secondary-fixed-dim": "#b4c5ff", "on-primary-fixed": "#1a1b21", "error": "#ba1a1a", "secondary-fixed": "#dbe1ff", "tertiary-fixed": "#ece1d3", "inverse-primary": "#c7c6cd", "secondary": "#0051d5", "on-tertiary-fixed-variant": "#4c463c", "secondary-container": "#316bf3", "on-background": "#191c1e", "error-container": "#ffdad6", "on-secondary": "#ffffff", "surface-container-low": "#f2f4f6", "primary": "#000000", "on-secondary-container": "#fefcff", "surface-dim": "#d8dadc", "on-error": "#ffffff", "on-primary": "#ffffff", "on-secondary-fixed-variant": "#003ea8", "on-primary-fixed-variant": "#46464c", "surface": "#f7f9fb", "on-error-container": "#93000a", "on-tertiary-fixed": "#201b12", "surface-variant": "#e0e3e5", "surface-container-high": "#e6e8ea", "primary-container": "#1a1b21", "surface-tint": "#5e5e64", "surface-container-highest": "#e0e3e5", "on-secondary-fixed": "#00174b", "on-primary-container": "#83838a", "surface-container": "#eceef0", "inverse-on-surface": "#eff1f3", "outline-variant": "#c7c6cb", "tertiary-container": "#201b12", "background": "#f7f9fb", "outline": "#77767b", "on-surface": "#191c1e", "surface-bright": "#f7f9fb", "surface-container-lowest": "#ffffff", "inverse-surface": "#2d3133", "on-tertiary-container": "#8b8377", "primary-fixed-dim": "#c7c6cd", "tertiary": "#000000", "on-tertiary": "#ffffff" }, "borderRadius": { "DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem" }, "spacing": { "space-xl": "2.5rem", "space-xs": "0.25rem", "gutter": "1.5rem", "gutter-sm": "1rem", "space-lg": "1.5rem", "gutter-lg": "2rem", "margin": "2rem", "margin-sm": "1rem", "space-md": "1rem", "margin-lg": "3rem", "space-sm": "0.5rem" }, "fontFamily": { "body-lg": [ "Geist" ], "display-mobile": [ "Geist" ], "mono-timestamp": [ "JetBrains Mono" ], "headline-md": [ "Geist" ], "headline-sm": [ "Geist" ], "headline-lg-mobile": [ "Geist" ], "display": [ "Geist" ], "body-md": [ "Geist" ], "body-sm": [ "Geist" ], "headline-lg": [ "Geist" ], "mono-caption": [ "JetBrains Mono" ], "mono-label": [ "JetBrains Mono" ] }, "fontSize": { "body-lg": [ "16px", { "lineHeight": "26px", "letterSpacing": "-0.01em", "fontWeight": "400" } ], "display-mobile": [ "32px", { "lineHeight": "36px", "letterSpacing": "-0.025em", "fontWeight": "600" } ], "mono-timestamp": [ "10px", { "lineHeight": "12px", "letterSpacing": "0.02em", "fontWeight": "400" } ], "headline-md": [ "22px", { "lineHeight": "28px", "letterSpacing": "-0.02em", "fontWeight": "500" } ], "headline-sm": [ "16px", { "lineHeight": "22px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "headline-lg-mobile": [ "24px", { "lineHeight": "30px", "letterSpacing": "-0.02em", "fontWeight": "500" } ], "display": [ "48px", { "lineHeight": "52px", "letterSpacing": "-0.03em", "fontWeight": "600" } ], "body-md": [ "14px", { "lineHeight": "22px", "letterSpacing": "-0.005em", "fontWeight": "400" } ], "body-sm": [ "13px", { "lineHeight": "18px", "letterSpacing": "0em", "fontWeight": "400" } ], "headline-lg": [ "32px", { "lineHeight": "38px", "letterSpacing": "-0.025em", "fontWeight": "500" } ], "mono-caption": [ "12px", { "lineHeight": "16px", "letterSpacing": "-0.01em", "fontWeight": "400" } ], "mono-label": [ "11px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "500" } ] } } } };</script></head><body class="bg-surface font-body-md text-body-md text-on-surface antialiased selection:bg-primary selection:text-on-primary min-h-screen flex flex-col justify-between"><header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest/90 backdrop-blur-md border-b border-outline-variant"></header><main class="w-full flex-1 pt-16 bg-surface"><style>body, .font-body-md, .font-body-lg, .font-body-sm { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important; } h1, h2, h3, .font-display, .font-headline-lg, .font-headline-md { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important; letter-spacing: -0.03em !important; } .font-mono-label, .font-mono-caption, .font-mono-timestamp, kbd, code { font-family: 'JetBrains Mono', monospace !important; }</style><div class="max-w-7xl mx-auto px-margin py-space-xl"><div class="flex flex-col w-full">
+<!-- Minimalist Executive Context Bar -->
+
+<!-- Hero Section -->
+<section class="max-w-4xl mb-space-xl">
+<div class="inline-flex items-center gap-space-xs px-2.5 py-1 rounded-full bg-surface-container text-on-surface-variant mb-space-md">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
+<span class="font-mono-label text-mono-label uppercase tracking-wider">Acoustic Intelligence Architecture</span>
+</div>
+<h1 class="font-display text-[44px] md:text-[56px] leading-[1.08] tracking-tight text-primary mb-space-md font-bold">
+      Intelligent meeting analysis for<br class="hidden sm:inline">
+<span class="text-secondary font-semibold" id="typewriter-text">Executive</span><span class="inline-block w-[3px] h-[0.9em] bg-primary ml-1 align-baseline animate-pulse" id="typewriter-cursor"></span>
+</h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl leading-relaxed mb-space-lg">
+      Upload high-fidelity meeting audio to extract verified transcripts and structured synthesis. Uncompromised precision, domain-tuned.
+    </p>
+<!-- Technical Specs Row -->
+<div class="flex flex-wrap items-center gap-space-md pt-space-xs">
+
+
+
+
+</div>
+</section>
+<!-- Core Interactive Workflow Workspace Container -->
+<main class="w-full bg-surface-container-lowest border border-outline-variant rounded-xl shadow-sm transition-all duration-300 relative overflow-hidden">
+<!-- State Bar Top Header -->
+<div class="flex items-center justify-between px-space-lg py-space-sm border-b border-outline-variant bg-surface-container-low/60">
+<div class="flex items-center gap-space-md">
+<span class="font-mono-label text-mono-label uppercase text-on-surface-variant tracking-wider">Pipeline Node</span>
+<span class="font-mono-caption text-mono-caption text-primary font-medium" id="stage-breadcrumb">STAGE 01 • INGESTION</span>
+</div>
+<div class="flex items-center gap-2">
+<div class="flex items-center gap-1.5 px-2 py-0.5 rounded bg-surface-container text-on-surface-variant font-mono-timestamp text-mono-timestamp uppercase font-semibold" id="status-pill">
+<span class="w-1.5 h-1.5 rounded-full bg-outline"></span>
+<span id="status-pill-text" class="">Awaiting Ingest</span>
+</div>
+</div>
+</div>
+<!-- ============================================== -->
+<!-- STATE 1: UPLOAD & STAGED AUDIO (Default View) -->
+<!-- ============================================== -->
+<div class="p-space-lg md:p-space-xl flex flex-col items-center justify-center text-center" id="view-upload">
+<!-- Hidden Native File Input -->
+<input accept=".mp3,audio/mpeg" class="hidden" id="audio-file-input" type="file">
+<!-- Substate 1A: Empty Drop Target -->
+<div class="w-full max-w-xl mx-auto py-space-xl flex flex-col items-center" id="substate-empty">
+<!-- Interactive Drop Zone -->
+<div class="w-full p-space-xl rounded-xl border-2 border-dashed border-outline-variant hover:border-primary/60 transition-colors cursor-pointer bg-surface/50 hover:bg-surface flex flex-col items-center group" id="drop-zone">
+<div class="w-16 h-16 rounded-full bg-surface-container-low flex items-center justify-center text-primary group-hover:scale-105 transition-transform mb-space-md">
+<span class="material-symbols-outlined text-[32px]">graphic_eq</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-1">Select or drop session recording</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mb-space-lg">Raw acoustic capture for verified textual conversion</p>
+<button class="px-space-lg py-2.5 bg-primary text-on-primary font-headline-sm text-[13px] rounded hover:bg-neutral-800 active:scale-[0.98] transition-all flex items-center gap-2 shadow-sm" id="btn-trigger-upload" type="button">
+<span class="material-symbols-outlined text-[18px]">upload_file</span>
+<span class="">Upload Audio File</span>
+</button>
+</div>
+<div class="mt-space-md flex items-center justify-between w-full text-left px-2">
+
+<button class="font-mono-caption text-mono-caption text-secondary hover:underline underline-offset-2 flex items-center gap-1" id="btn-load-sample" type="button">
+<span class="">Load sample recording</span>
+<span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- Substate 1B: Staged File Card (Revealed after selection) -->
+<div class="w-full max-w-xl mx-auto py-space-lg flex flex-col items-center hidden" id="substate-staged">
+<div class="w-full p-space-lg rounded-xl border border-outline-variant bg-surface-container-lowest text-left shadow-sm mb-space-lg">
+<div class="flex items-start justify-between">
+<div class="flex items-center gap-space-md">
+<div class="w-12 h-12 rounded bg-surface-container flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-[24px]">audio_file</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary font-medium tracking-tight" id="staged-file-name">Q3_Product_Strategy_Sync.mp3</h4>
+<div class="flex items-center gap-space-sm mt-0.5">
+<span class="font-mono-caption text-mono-caption text-on-surface-variant" id="staged-file-size">14.2 MB</span>
+<span class="text-outline-variant">•</span>
+<span class="font-mono-caption text-mono-caption text-on-surface-variant" id="staged-file-duration">42m 15s acoustic length</span>
+<span class="text-outline-variant">•</span>
+<span class="font-mono-caption text-mono-caption text-secondary font-medium">Verified MPEG-Layer 3</span>
+</div>
+</div>
+</div>
+<button class="text-on-surface-variant hover:text-error transition-colors p-1" id="btn-remove-file" title="Remove file" type="button">
+<span class="material-symbols-outlined text-[20px]">close</span>
+</button>
+</div>
+<!-- Mini Simulated Waveform Preview -->
+<div class="mt-space-md pt-space-md border-t border-outline-variant flex items-center justify-between gap-1 h-9 px-1">
+<div class="flex items-end gap-1 w-full h-7 overflow-hidden opacity-75">
+<span class="w-1 bg-primary h-2 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-6 rounded-xs"></span>
+<span class="w-1 bg-primary h-3 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-7 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-2 rounded-xs"></span>
+<span class="w-1 bg-primary h-6 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-3 rounded-xs"></span>
+<span class="w-1 bg-primary h-7 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-6 rounded-xs"></span>
+<span class="w-1 bg-primary h-2 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-7 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-2 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-3 rounded-xs"></span>
+<span class="w-1 bg-primary h-6 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-7 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-3 rounded-xs"></span>
+<span class="w-1 bg-primary h-6 rounded-xs"></span>
+<span class="w-1 bg-primary h-2 rounded-xs"></span>
+<span class="w-1 bg-primary h-4 rounded-xs"></span>
+<span class="w-1 bg-primary h-7 rounded-xs"></span>
+<span class="w-1 bg-primary h-5 rounded-xs"></span>
+<span class="w-1 bg-primary h-3 rounded-xs"></span>
+</div>
+<span class="font-mono-timestamp text-mono-timestamp text-outline whitespace-nowrap pl-2">Ready</span>
+</div>
+</div>
+<!-- Action Row -->
+<div class="flex flex-col sm:flex-row items-center gap-space-md w-full justify-between">
+<button class="font-body-sm text-body-sm text-on-surface-variant hover:text-primary transition-colors flex items-center gap-1" id="btn-reselect" type="button">
+<span class="material-symbols-outlined text-[16px]">sync</span>
+<span class="">Choose different file</span>
+</button>
+<button class="w-full sm:w-auto px-space-xl py-3 bg-primary text-on-primary font-headline-sm text-[14px] rounded hover:bg-neutral-800 active:scale-[0.98] transition-all flex items-center justify-center gap-space-sm shadow-md" id="btn-start-analysis" type="button">
+<span class="material-symbols-outlined text-[18px]">psychology</span>
+<span class="">Analyze Meeting</span>
+<kbd class="font-mono-label text-[10px] px-1.5 py-0.5 rounded bg-neutral-800 text-neutral-300 ml-1 border border-neutral-700">⌘ Enter</kbd>
+</button>
+</div>
+</div>
+</div>
+<!-- ============================================== -->
+<!-- STATE 2: ANALYZE (Deterministic Processing)   -->
+<!-- No fake ETA, strictly backend sequential stages -->
+<!-- ============================================== -->
+<div class="p-space-lg md:p-space-xl hidden" id="view-processing">
+<div class="max-w-2xl mx-auto py-space-lg">
+<!-- Processing Header -->
+<div class="flex items-center justify-between mb-space-xl pb-space-md border-b border-outline-variant">
+<div>
+<h2 class="font-headline-md text-headline-md text-primary font-semibold">Engine Processing Stream</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Live pipeline stages, reported as the engine runs them.</p>
+</div>
+<!-- Minimalist Live Waveform -->
+<div class="flex items-center gap-1 h-6">
+<span class="w-1 bg-secondary animate-[pulse_0.8s_ease-in-out_infinite] h-5 rounded-full"></span>
+<span class="w-1 bg-secondary animate-[pulse_1.1s_ease-in-out_infinite] h-3 rounded-full"></span>
+<span class="w-1 bg-secondary animate-[pulse_0.6s_ease-in-out_infinite] h-6 rounded-full"></span>
+<span class="w-1 bg-secondary animate-[pulse_0.9s_ease-in-out_infinite] h-4 rounded-full"></span>
+<span class="w-1 bg-secondary animate-[pulse_1.2s_ease-in-out_infinite] h-2 rounded-full"></span>
+</div>
+</div>
+<!-- Adapter-Owned Sequential Stages -->
+<div class="space-y-space-md">
+<!-- Stage 1 -->
+<div class="p-space-md rounded-lg border border-outline-variant bg-surface-container-low transition-all duration-300 flex items-start justify-between" id="stage-card-1">
+<div class="flex items-start gap-space-md">
+<div class="w-7 h-7 rounded-full bg-secondary text-on-secondary flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold" id="stage-icon-1">
+                01
+              </div>
+<div>
+<div class="flex items-center gap-2">
+<h4 class="font-headline-sm text-headline-sm text-primary">Audio Validation &amp; Chunking</h4>
+<span class="font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-secondary/10 text-secondary border border-secondary/20 uppercase font-semibold" id="badge-1">Adapter: In-Flight</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Verifying the audio file and measuring its duration.</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[20px]" id="check-1">schedule</span>
+</div>
+<!-- Stage 2 -->
+<div class="p-space-md rounded-lg border border-outline-variant bg-surface-container-lowest transition-all duration-300 flex items-start justify-between opacity-60" id="stage-card-2">
+<div class="flex items-start gap-space-md">
+<div class="w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold" id="stage-icon-2">
+                02
+              </div>
+<div>
+<div class="flex items-center gap-2">
+<h4 class="font-headline-sm text-headline-sm text-primary">Speech-to-Text Transcription</h4>
+<span class="font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold" id="badge-2">Pending Queue</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Transcribing speech into timestamped segments with per-word confidence.</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[20px]" id="check-2">radio_button_unchecked</span>
+</div>
+<!-- Stage 3 -->
+<div class="p-space-md rounded-lg border border-outline-variant bg-surface-container-lowest transition-all duration-300 flex items-start justify-between opacity-60" id="stage-card-3">
+<div class="flex items-start gap-space-md">
+<div class="w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold" id="stage-icon-3">
+                03
+              </div>
+<div>
+<div class="flex items-center gap-2">
+<h4 class="font-headline-sm text-headline-sm text-primary">Domain Syntax &amp; Context Refinement</h4>
+<span class="font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold" id="badge-3">Pending Queue</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Correcting low-confidence words and standardizing domain terminology.</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[20px]" id="check-3">radio_button_unchecked</span>
+</div>
+<!-- Stage 4 -->
+<div class="p-space-md rounded-lg border border-outline-variant bg-surface-container-lowest transition-all duration-300 flex items-start justify-between opacity-60" id="stage-card-4">
+<div class="flex items-start gap-space-md">
+<div class="w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold" id="stage-icon-4">
+                04
+              </div>
+<div>
+<div class="flex items-center gap-2">
+<h4 class="font-headline-sm text-headline-sm text-primary">Executive Synthesis &amp; Extraction</h4>
+<span class="font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold" id="badge-4">Pending Queue</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Distilling decisions, explicit action directives, and core takeaways.</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-[20px]" id="check-4">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Terminal Diagnostic Stream -->
+<div class="mt-space-lg p-space-md bg-primary text-on-primary rounded font-mono-timestamp text-[11px] leading-relaxed overflow-x-auto">
+<div class="flex items-center justify-between text-neutral-400 mb-2 pb-1 border-b border-neutral-800">
+<span class="">DIAGNOSTIC TELEMETRY</span>
+<span id="terminal-clock" class="">00:00:04</span>
+</div>
+<div class="space-y-0.5 font-mono-caption text-[11px] text-neutral-300" id="terminal-lines">
+</div>
+</div>
+</div>
+</div>
+<!-- ============================================== -->
+<!-- STATE 3: RESULTS (Verified Output)            -->
+<!-- ============================================== -->
+<div class="p-space-lg md:p-space-xl hidden" id="view-results">
+<!-- Top Success Header -->
+<div class="flex flex-col md:flex-row md:items-center justify-between pb-space-lg mb-space-lg border-b border-outline-variant gap-space-md">
+<div>
+<div class="flex items-center gap-2 mb-1">
+<span class="w-2 h-2 rounded-full bg-green-500"></span>
+<span class="font-mono-label text-mono-label text-green-700 uppercase tracking-wider font-semibold">Analysis Verified</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-primary font-semibold tracking-tight">Structured Session Repository</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant flex items-center gap-space-sm mt-1">
+<span class="font-medium text-primary" id="result-filename">Q3_Product_Strategy_Sync.mp3</span>
+<span class="text-outline-variant">•</span>
+<span class="" id="result-duration">Recorded 42m 15s</span>
+<span class="text-outline-variant">•</span>
+<span class="font-mono-caption text-mono-caption text-outline">Checksum: <span id="result-checksum">7e2f-c90a</span>-verified</span>
+</p>
+</div>
+<!-- Reset Button -->
+<button class="px-space-md py-2 border border-outline-variant bg-surface-container-lowest hover:border-primary text-primary font-headline-sm text-[13px] rounded transition-all flex items-center gap-2 self-start md:self-auto" id="btn-analyze-another" type="button">
+<span class="material-symbols-outlined text-[16px]">restart_alt</span>
+<span class="">Analyze Another File</span>
+</button>
+</div>
+<!-- Bulk Selection Toolbar -->
+<div class="flex items-center justify-between p-space-sm px-space-md bg-surface-container-low rounded-lg border border-outline-variant mb-space-md">
+<label class="flex items-center gap-2 cursor-pointer select-none">
+<input checked="" class="w-4 h-4 accent-primary rounded cursor-pointer" id="check-select-all" type="checkbox">
+<span class="font-headline-sm text-[13px] text-primary">Select All Documents (5)</span>
+</label>
+<span class="font-mono-caption text-mono-caption text-on-surface-variant">Format: PDF</span>
+</div>
+<!-- 3 Documents Grid / List -->
+<div class="space-y-space-md mb-space-xl" id="document-previews">
+<!-- DOC 1: Raw Transcript -->
+<div class="border border-outline-variant rounded-lg overflow-hidden bg-surface-container-lowest transition-all hover:border-outline">
+<div class="p-space-md flex flex-col md:flex-row md:items-center justify-between gap-space-sm bg-surface-container-lowest">
+<div class="flex items-start gap-space-md">
+<input checked="" class="doc-checkbox w-4 h-4 mt-1 accent-primary rounded cursor-pointer" data-doc="raw" type="checkbox">
+<div>
+<div class="flex items-center gap-space-sm">
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold">Raw Transcript</h3>
+<span class="font-mono-timestamp text-mono-timestamp px-1.5 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-medium">Verbatim Stream</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Full unfiltered speaker dialogue with granular utterance timestamps (<span id="raw-range">00:00 – 42:15</span>).</p>
+</div>
+</div>
+<div class="flex items-center gap-space-sm pl-7 md:pl-0">
+<button class="btn-toggle-preview font-mono-caption text-mono-caption px-space-sm py-1 border border-outline-variant rounded text-on-surface-variant hover:text-primary hover:border-primary transition-colors flex items-center gap-1" data-target="preview-raw" type="button">
+<span class="">View Excerpt</span>
+<span class="material-symbols-outlined text-[14px]">expand_more</span>
+</button>
+<button class="btn-download-single font-mono-caption text-mono-caption px-space-sm py-1 bg-surface-container-low border border-outline-variant rounded text-primary hover:bg-surface-container transition-colors flex items-center gap-1" data-name="Raw_Transcript.pdf" data-key="raw" type="button">
+<span class="material-symbols-outlined text-[14px]">download</span>
+<span class="" id="pdf-size-raw">PDF (2.4 MB)</span>
+</button>
+</div>
+</div>
+<!-- Collapsible Snippet Drawer -->
+<div class="hidden p-space-md border-t border-outline-variant bg-surface text-left font-mono-caption text-mono-caption space-y-space-sm" id="preview-raw">
+<div class="space-y-1">
+<div class="flex items-baseline gap-2">
+<span class="font-semibold text-primary">Speaker 01 (Marcus):</span>
+<span class="text-outline font-mono-timestamp">[00:01:14]</span>
+</div>
+<p class="text-on-surface-variant font-body-sm">"Alright, let's confirm the Q3 latency target. If we don't prune the model weights by next Tuesday, downstream inference will fail SLA."</p>
+</div>
+<div class="space-y-1 pt-2 border-t border-outline-variant/60">
+<div class="flex items-baseline gap-2">
+<span class="font-semibold text-primary">Speaker 02 (Elena):</span>
+<span class="text-outline font-mono-timestamp">[00:01:38]</span>
+</div>
+<p class="text-on-surface-variant font-body-sm">"Agreed. We've locked the tensor quantization tests. I'll stage the baseline benchmark tomorrow at 09:00 UTC."</p>
+</div>
+</div>
+</div>
+<!-- DOC 2: Refined Transcript -->
+<div class="border border-outline-variant rounded-lg overflow-hidden bg-surface-container-lowest transition-all hover:border-outline">
+<div class="p-space-md flex flex-col md:flex-row md:items-center justify-between gap-space-sm bg-surface-container-lowest">
+<div class="flex items-start gap-space-md">
+<input checked="" class="doc-checkbox w-4 h-4 mt-1 accent-primary rounded cursor-pointer" data-doc="refined" type="checkbox">
+<div>
+<div class="flex items-center gap-space-sm">
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold">Refined Transcript</h3>
+<span class="font-mono-timestamp text-mono-timestamp px-1.5 py-0.5 rounded bg-secondary-fixed text-on-secondary-fixed font-semibold uppercase">Domain Calibrated</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">Disfluency-filtered, domain-corrected technical nomenclature &amp; clear speaker tags.</p>
+</div>
+</div>
+<div class="flex items-center gap-space-sm pl-7 md:pl-0">
+<button class="btn-toggle-preview font-mono-caption text-mono-caption px-space-sm py-1 border border-outline-variant rounded text-on-surface-variant hover:text-primary hover:border-primary transition-colors flex items-center gap-1" data-target="preview-refined" type="button">
+<span class="">View Excerpt</span>
+<span class="material-symbols-outlined text-[14px]">expand_more</span>
+</button>
+<button class="btn-download-single font-mono-caption text-mono-caption px-space-sm py-1 bg-surface-container-low border border-outline-variant rounded text-primary hover:bg-surface-container transition-colors flex items-center gap-1" data-name="Refined_Transcript.pdf" data-key="refined" type="button">
+<span class="material-symbols-outlined text-[14px]">download</span>
+<span class="" id="pdf-size-refined">PDF (1.8 MB)</span>
+</button>
+</div>
+</div>
+<!-- Collapsible Snippet Drawer -->
+<div class="hidden p-space-md border-t border-outline-variant bg-surface text-left space-y-space-sm" id="preview-refined">
+<div class="space-y-1">
+<div class="flex items-baseline gap-2">
+<span class="font-semibold text-primary font-headline-sm text-[13px]">Marcus Vance (VP Engineering):</span>
+<span class="text-outline font-mono-timestamp text-mono-timestamp">[00:01:14]</span>
+</div>
+<p class="text-on-surface-variant font-body-sm">"Confirmed Q3 latency target: model weight pruning must execute prior to Tuesday to preserve the 80ms inference SLA."</p>
+</div>
+<div class="space-y-1 pt-2 border-t border-outline-variant/60">
+<div class="flex items-baseline gap-2">
+<span class="font-semibold text-primary font-headline-sm text-[13px]">Elena Rostova (Principal Architect):</span>
+<span class="text-outline font-mono-timestamp text-mono-timestamp">[00:01:38]</span>
+</div>
+<p class="text-on-surface-variant font-body-sm">"Confirmed. Tensor quantization verified. Staging baseline benchmarks tomorrow 09:00 UTC."</p>
+</div>
+</div>
+</div>
+<!-- DOC 3: Executive Summary & Action Matrix -->
+<div class="border border-outline-variant rounded-lg overflow-hidden bg-surface-container-lowest transition-all hover:border-outline">
+<div class="p-space-md flex flex-col md:flex-row md:items-center justify-between gap-space-sm bg-surface-container-lowest">
+<div class="flex items-start gap-space-md">
+<input checked="" class="doc-checkbox w-4 h-4 mt-1 accent-primary rounded cursor-pointer" data-doc="summary" type="checkbox">
+<div>
+<div class="flex items-center gap-space-sm">
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold">Executive Synthesis</h3>
+<span class="font-mono-timestamp text-mono-timestamp px-1.5 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold">Deterministic Brief</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">High-impact summary, locked operational decisions, and assigned next steps.</p>
+</div>
+</div>
+<div class="flex items-center gap-space-sm pl-7 md:pl-0">
+<button class="btn-toggle-preview font-mono-caption text-mono-caption px-space-sm py-1 border border-outline-variant rounded text-on-surface-variant hover:text-primary hover:border-primary transition-colors flex items-center gap-1" data-target="preview-summary" type="button">
+<span class="">View Excerpt</span>
+<span class="material-symbols-outlined text-[14px]">expand_more</span>
+</button>
+<button class="btn-download-single font-mono-caption text-mono-caption px-space-sm py-1 bg-surface-container-low border border-outline-variant rounded text-primary hover:bg-surface-container transition-colors flex items-center gap-1" data-name="Executive_Synthesis.pdf" data-key="summary" type="button">
+<span class="material-symbols-outlined text-[14px]">download</span>
+<span class="" id="pdf-size-summary">PDF (890 KB)</span>
+</button>
+</div>
+</div>
+<!-- Collapsible Snippet Drawer -->
+<div class="hidden p-space-md border-t border-outline-variant bg-surface text-left space-y-space-md" id="preview-summary">
+<div>
+<span class="font-mono-label text-mono-label uppercase text-on-surface-variant tracking-wider font-semibold">Core Architectural Takeaway</span>
+<p class="font-body-sm text-body-sm text-primary mt-1">Infrastructure consensus reached to enforce FP8 quantization over INT4 for production speech pipelines, maintaining 99.4% verbatim integrity without GPU memory degradation.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md pt-2 border-t border-outline-variant/60">
+<div>
+<span class="font-mono-label text-mono-label uppercase text-on-surface-variant tracking-wider font-semibold">Ratified Decisions</span>
+<ul class="mt-1 space-y-1 font-body-sm text-body-sm text-on-surface-variant list-disc list-inside">
+<li class="">Quantization protocol frozen until Q4 audit.</li>
+<li class="">Inference budget capped at 85ms per batch.</li>
+</ul>
+</div>
+<div>
+<span class="font-mono-label text-mono-label uppercase text-on-surface-variant tracking-wider font-semibold">Assigned Directives</span>
+<ul class="mt-1 space-y-1 font-body-sm text-body-sm text-on-surface-variant list-disc list-inside">
+<li class=""><strong>Elena:</strong> Stage quantization baseline by 09:00 UTC.</li>
+<li class=""><strong>Marcus:</strong> Sign off on memory envelope report.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Unified Primary Action Bar -->
+<div class="flex flex-col sm:flex-row items-center justify-between gap-space-md pt-space-md border-t border-outline-variant">
+<div class="text-on-surface-variant font-mono-caption text-mono-caption">
+<span id="selected-summary-count" class="">5 of 5 documents staged for batch export.</span>
+</div>
+<div class="flex flex-wrap justify-center gap-2" id="download-list"></div>
+<button class="w-full sm:w-auto px-space-xl py-3 bg-primary text-on-primary font-headline-sm text-[14px] rounded hover:bg-neutral-800 active:scale-[0.98] transition-all flex items-center justify-center gap-space-sm shadow-md" id="btn-download-selected" type="button">
+<span class="material-symbols-outlined text-[18px]">file_download</span>
+<span id="btn-download-label" class="">Download 5 Documents (PDF)</span>
+</button>
+</div>
+</div>
+</main>
+<!-- Global Toast / Feedback Component -->
+<div class="fixed bottom-6 right-6 z-50 bg-primary text-on-primary px-space-md py-space-sm rounded shadow-lg font-mono-caption text-mono-caption flex items-center gap-2 transform translate-y-20 opacity-0 transition-all duration-200 pointer-events-none" id="toast-notify">
+<span class="material-symbols-outlined text-green-400 text-[18px]">check_circle</span>
+<span id="toast-text" class="">Files downloaded successfully.</span>
+</div>
+</div>
+<script>
+  // 1. Typewriter Cycling Effect
+  (function initTypewriter() {
+    const words = ["IT", "Technology", "Finance", "Design", "Executive"];
+    let wordIndex = 0;
+    let charIndex = words[0].length;
+    let isDeleting = true;
+    const textElement = document.getElementById("typewriter-text");
+    if (!textElement) return;
+
+    function tick() {
+      const currentWord = words[wordIndex];
+      if (isDeleting) {
+        charIndex--;
+        textElement.textContent = currentWord.substring(0, charIndex);
+        if (charIndex === 0) {
+          isDeleting = false;
+          wordIndex = (wordIndex + 1) % words.length;
+          setTimeout(tick, 300);
+          return;
+        }
+      } else {
+        charIndex++;
+        textElement.textContent = currentWord.substring(0, charIndex);
+        if (charIndex === currentWord.length) {
+          isDeleting = true;
+          setTimeout(tick, 1800);
+          return;
+        }
+      }
+      const speed = isDeleting ? 45 : 95;
+      setTimeout(tick, speed);
+    }
+    setTimeout(tick, 2000);
+  })();
+
+  // 2. Interactive State Management & File Workflow
+  (function initWorkflow() {
+    // DOM References
+    const dropZone = document.getElementById("drop-zone");
+    const fileInput = document.getElementById("audio-file-input");
+    const triggerUploadBtn = document.getElementById("btn-trigger-upload");
+    const loadSampleBtn = document.getElementById("btn-load-sample");
+    const emptySubstate = document.getElementById("substate-empty");
+    const stagedSubstate = document.getElementById("substate-staged");
+    const reselectBtn = document.getElementById("btn-reselect");
+    const removeFileBtn = document.getElementById("btn-remove-file");
+
+    const stagedFileName = document.getElementById("staged-file-name");
+    const stagedFileSize = document.getElementById("staged-file-size");
+    const stagedFileDuration = document.getElementById("staged-file-duration");
+    const resultFileName = document.getElementById("result-filename");
+
+    const viewUpload = document.getElementById("view-upload");
+    const viewProcessing = document.getElementById("view-processing");
+    const viewResults = document.getElementById("view-results");
+
+    const startAnalysisBtn = document.getElementById("btn-start-analysis");
+    const analyzeAnotherBtn = document.getElementById("btn-analyze-another");
+
+    const stageBreadcrumb = document.getElementById("stage-breadcrumb");
+    const statusPill = document.getElementById("status-pill");
+    const statusPillText = document.getElementById("status-pill-text");
+    const apiBase = window.location.protocol === "file:" ? "http://127.0.0.1:8000" : "";
+
+    let currentFile = null;
+
+    // Trigger file chooser
+    triggerUploadBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      fileInput.click();
+    });
+
+    dropZone.addEventListener("click", () => {
+      fileInput.click();
+    });
+
+    // Drag and Drop
+    dropZone.addEventListener("dragover", (e) => {
+      e.preventDefault();
+      dropZone.classList.add("border-primary", "bg-surface");
+    });
+
+    dropZone.addEventListener("dragleave", (e) => {
+      e.preventDefault();
+      dropZone.classList.remove("border-primary", "bg-surface");
+    });
+
+    dropZone.addEventListener("drop", (e) => {
+      e.preventDefault();
+      dropZone.classList.remove("border-primary", "bg-surface");
+      if (e.dataTransfer.files && e.dataTransfer.files[0]) {
+        handleFileSelection(e.dataTransfer.files[0]);
+      }
+    });
+
+    fileInput.addEventListener("change", (e) => {
+      if (e.target.files && e.target.files[0]) {
+        handleFileSelection(e.target.files[0]);
+      }
+    });
+
+    // Sample file loader
+    loadSampleBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      handleFileSelection({
+        name: "09-15-2026-Council-Meeting.mp3",
+        size: 9400000,
+        sample: true
+      });
+    });
+
+    function handleFileSelection(file) {
+      if (!file.name.toLowerCase().endsWith(".mp3") && file.type !== "audio/mpeg") {
+        showToast("Constraint violation: Only .mp3 files accepted", true);
+        return;
+      }
+
+      currentFile = file;
+      const sizeMb = (file.size / (1024 * 1024)).toFixed(1);
+      
+      stagedFileName.textContent = file.name;
+      stagedFileSize.textContent = sizeMb + " MB";
+      stagedFileDuration.textContent = file.sample ? "10m 03s acoustic length" : "Audio buffer staged";
+      if (!file.sample) {
+        const probe = new Audio(URL.createObjectURL(file));
+        probe.addEventListener("loadedmetadata", () => {
+          const t = Math.round(probe.duration);
+          stagedFileDuration.textContent = `${Math.floor(t / 60)}m ${String(t % 60).padStart(2, "0")}s acoustic length`;
+        });
+      }
+      resultFileName.textContent = file.name;
+
+      emptySubstate.classList.add("hidden");
+      stagedSubstate.classList.remove("hidden");
+
+      statusPillText.textContent = "Payload Staged";
+      statusPill.className = "flex items-center gap-1.5 px-2 py-0.5 rounded bg-surface-container text-on-surface font-mono-timestamp text-mono-timestamp uppercase font-semibold";
+      statusPill.querySelector("span").className = "w-1.5 h-1.5 rounded-full bg-secondary";
+    }
+
+    function resetToUpload() {
+      currentFile = null;
+      fileInput.value = "";
+      stagedSubstate.classList.add("hidden");
+      emptySubstate.classList.remove("hidden");
+
+      viewUpload.classList.remove("hidden");
+      viewProcessing.classList.add("hidden");
+      viewResults.classList.add("hidden");
+
+      stageBreadcrumb.textContent = "STAGE 01 • INGESTION";
+      statusPillText.textContent = "Awaiting Ingest";
+      statusPill.className = "flex items-center gap-1.5 px-2 py-0.5 rounded bg-surface-container text-on-surface-variant font-mono-timestamp text-mono-timestamp uppercase font-semibold";
+      statusPill.querySelector("span").className = "w-1.5 h-1.5 rounded-full bg-outline";
+    }
+
+    reselectBtn.addEventListener("click", () => fileInput.click());
+    removeFileBtn.addEventListener("click", resetToUpload);
+    analyzeAnotherBtn.addEventListener("click", resetToUpload);
+
+    // Keyboard shortcut CMD+Enter or Ctrl+Enter
+    window.addEventListener("keydown", (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === "Enter") {
+        if (!stagedSubstate.classList.contains("hidden") && !viewUpload.classList.contains("hidden")) {
+          e.preventDefault();
+          executeAnalysis();
+        }
+      }
+    });
+
+    startAnalysisBtn.addEventListener("click", executeAnalysis);
+
+    // Stage 2: Processing Simulator through Exact Backend Stages
+    function executeAnalysis() {
+      if (window.location.protocol === "file:") {
+        showToast("Start the app with `uv run uvicorn interiit.server:app`, then open http://127.0.0.1:8000.", true);
+        return;
+      }
+      viewUpload.classList.add("hidden");
+      viewProcessing.classList.remove("hidden");
+      viewResults.classList.add("hidden");
+
+      stageBreadcrumb.textContent = "STAGE 02 • RUNTIME PROCESSING";
+      statusPillText.textContent = "Adapter Active";
+      statusPill.className = "flex items-center gap-1.5 px-2 py-0.5 rounded bg-secondary-fixed text-on-secondary-fixed font-mono-timestamp text-mono-timestamp uppercase font-semibold";
+      statusPill.querySelector("span").className = "w-1.5 h-1.5 rounded-full bg-secondary animate-pulse";
+
+      // Reset stage visual elements
+      for (let i = 1; i <= 4; i++) {
+        const card = document.getElementById("stage-card-" + i);
+        const icon = document.getElementById("stage-icon-" + i);
+        const badge = document.getElementById("badge-" + i);
+        const check = document.getElementById("check-" + i);
+        
+        card.classList.add("opacity-60");
+        card.classList.remove("bg-surface-container-low");
+        icon.className = "w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold";
+        badge.className = "font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold";
+        badge.textContent = "Pending Queue";
+        check.className = "material-symbols-outlined text-outline-variant text-[20px]";
+        check.textContent = "radio_button_unchecked";
+      }
+
+      const terminalLines = document.getElementById("terminal-lines");
+      const terminalClock = document.getElementById("terminal-clock");
+      terminalLines.innerHTML = `<p class="text-neutral-500">[0.00s] Ingestion handoff accepted. MIME: audio/mpeg</p>
+                                 <p class="text-secondary-fixed">[0.42s] Allocating worker thread pool #8 (AVX-512 enabled)</p>`;
+
+      const started = Date.now();
+      const clockTimer = setInterval(() => {
+        const t = Math.floor((Date.now() - started) / 1000);
+        terminalClock.textContent = [t / 3600, t / 60 % 60, t % 60].map(n => String(Math.floor(n)).padStart(2, "0")).join(":");
+      }, 1000);
+      terminalClock.textContent = "00:00:00";
+      const labels = {
+        1: ["Adapter: Validating", "schedule"],
+        2: ["Adapter: Transcribing", "settings_voice"],
+        3: ["Adapter: Normalizing Terminology", "spellcheck"],
+        4: ["Adapter: Synthesizing Deliverables", "auto_awesome"]
+      };
+
+      function fail(msg) {
+        clearInterval(clockTimer);
+        viewProcessing.classList.add("hidden");
+        viewUpload.classList.remove("hidden");
+        stageBreadcrumb.textContent = "STAGE 01 • INGESTION";
+        statusPillText.textContent = "Payload Staged";
+        statusPill.className = "flex items-center gap-1.5 px-2 py-0.5 rounded bg-surface-container text-on-surface font-mono-timestamp text-mono-timestamp uppercase font-semibold";
+        statusPill.querySelector("span").className = "w-1.5 h-1.5 rounded-full bg-secondary";
+        showToast("Analysis failed: " + msg, true);
+      }
+
+      const form = new FormData();
+      if (!currentFile.sample) form.append("audio", currentFile);
+      fetch(apiBase + "/api/jobs" + (currentFile.sample ? "?sample=true" : ""), { method: "POST", body: form })
+        .then(async (r) => {
+          const body = await r.text();
+          let payload;
+          try {
+            payload = body ? JSON.parse(body) : {};
+          } catch {
+            throw new Error(`Server returned HTTP ${r.status}: ${body.slice(0, 160)}`);
+          }
+          if (!r.ok) throw new Error(payload.detail || r.statusText);
+          return payload;
+        })
+        .then(({ job_id }) => {
+          window.currentJobId = job_id;
+          const es = new EventSource(`${apiBase}/api/jobs/${job_id}/events`);
+          es.onmessage = (m) => {
+            const ev = JSON.parse(m.data);
+            if (ev.type === "stage") {
+              appendTelemetry(`[${((Date.now() - started) / 1000).toFixed(2)}s] ${ev.msg}`);
+              if (ev.state === "start") activateStage(ev.stage, ...labels[ev.stage]);
+              else completeStage(ev.stage);
+            } else if (ev.type === "done") {
+              es.close();
+              clearInterval(clockTimer);
+              setTimeout(transitionToResults, 700);
+            } else if (ev.type === "error") {
+              es.close();
+              fail(ev.msg);
+            }
+          };
+          es.onerror = () => { es.close(); fail("connection to server lost"); };
+        })
+        .catch((e) => fail(e.message));
+
+      function activateStage(idx, badgeLabel, iconName) {
+        const card = document.getElementById("stage-card-" + idx);
+        const icon = document.getElementById("stage-icon-" + idx);
+        const badge = document.getElementById("badge-" + idx);
+        const check = document.getElementById("check-" + idx);
+
+        card.classList.remove("opacity-60");
+        card.classList.add("bg-surface-container-low");
+        icon.className = "w-7 h-7 rounded-full bg-secondary text-on-secondary flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold";
+        badge.className = "font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-secondary/10 text-secondary border border-secondary/20 uppercase font-semibold";
+        badge.textContent = badgeLabel;
+        check.className = "material-symbols-outlined text-secondary animate-spin text-[20px]";
+        check.textContent = "sync";
+      }
+
+      function completeStage(idx) {
+        const card = document.getElementById("stage-card-" + idx);
+        const icon = document.getElementById("stage-icon-" + idx);
+        const badge = document.getElementById("badge-" + idx);
+        const check = document.getElementById("check-" + idx);
+
+        badge.className = "font-mono-timestamp text-mono-timestamp px-2 py-0.5 rounded bg-green-100 text-green-800 uppercase font-semibold";
+        badge.textContent = "Completed";
+        icon.className = "w-7 h-7 rounded-full bg-primary text-on-primary flex items-center justify-center font-mono-timestamp text-mono-timestamp font-bold";
+        check.className = "material-symbols-outlined text-green-700 text-[20px]";
+        check.textContent = "check_circle";
+      }
+
+      function appendTelemetry(text) {
+        const p = document.createElement("p");
+        p.className = "text-neutral-300";
+        p.textContent = text;
+        terminalLines.appendChild(p);
+        terminalLines.scrollTop = terminalLines.scrollHeight;
+      }
+
+    }
+
+    function transitionToResults() {
+      viewProcessing.classList.add("hidden");
+      viewResults.classList.remove("hidden");
+
+      stageBreadcrumb.textContent = "STAGE 03 • SYNTHESIS COMPLETE";
+      statusPillText.textContent = "Ready for Export";
+      statusPill.className = "flex items-center gap-1.5 px-2 py-0.5 rounded bg-green-100 text-green-900 font-mono-timestamp text-mono-timestamp uppercase font-semibold";
+      statusPill.querySelector("span").className = "w-1.5 h-1.5 rounded-full bg-green-600";
+      showToast("5 documents generated and verified.");
+      loadResults();
+    }
+
+    const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    const li = (items) => items.length ? items.map((i) => `<li>${i}</li>`).join("") : "<li>None recorded</li>";
+    const spk = (n, ts) => `<div class="flex items-baseline gap-2"><span class="font-semibold text-primary">${n}</span><span class="text-outline font-mono-timestamp">${ts}</span></div>`;
+    const documentTypes = [
+      ["raw", "Raw transcript", "Verbatim Stream", "Full unfiltered speaker dialogue with granular utterance timestamps."],
+      ["refined", "Refined Transcript", "Domain Calibrated", "Disfluency-filtered, domain-corrected transcript with clear speaker tags."],
+      ["decisions", "Decisions", "Meeting Outcomes", "Decisions recorded and agreed during the meeting."],
+      ["actions", "Actionable items", "Follow-up Register", "Tasks, owners, and deadlines identified from the meeting."],
+      ["minutes", "Minutes of the meet", "Formal Record", "Structured minutes covering the meeting discussion and outcomes."],
+    ];
+
+    function markdownToHtml(markdownText) {
+      const inline = (value) => esc(value)
+        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/__(.+?)__/g, "<strong>$1</strong>")
+        .replace(/`([^`]+)`/g, "<code class=\"px-1 rounded bg-surface-container\">$1</code>");
+      const lines = String(markdownText || "").split(/\r?\n/);
+      const html = [];
+      let paragraph = [];
+      let list = null;
+
+      const flushParagraph = () => {
+        if (paragraph.length) {
+          html.push(`<p class="mb-3 last:mb-0">${inline(paragraph.join(" "))}</p>`);
+          paragraph = [];
+        }
+      };
+      const closeList = () => {
+        if (list) {
+          html.push(`</${list}>`);
+          list = null;
+        }
+      };
+      const tableRow = (line) => line.trim().replace(/^\||\|$/g, "").split("|").map((cell) => cell.trim());
+
+      for (let index = 0; index < lines.length; index += 1) {
+        const line = lines[index].trim();
+        if (!line) {
+          flushParagraph();
+          closeList();
+          continue;
+        }
+        if (/^\|?.+\|.+\|?$/.test(line) && index + 1 < lines.length && /^\|?[\s|:-]+\|?$/.test(lines[index + 1].trim())) {
+          flushParagraph();
+          closeList();
+          const headers = tableRow(line);
+          const rows = [];
+          index += 2;
+          while (index < lines.length && lines[index].trim().includes("|")) {
+            rows.push(tableRow(lines[index]));
+            index += 1;
+          }
+          index -= 1;
+          html.push(`<div class="overflow-x-auto mb-3"><table class="w-full text-left border-collapse"><thead><tr>${headers.map((cell) => `<th class="border-b border-outline-variant px-2 py-2 font-semibold">${inline(cell)}</th>`).join("")}</tr></thead><tbody>${rows.map((row) => `<tr>${row.map((cell) => `<td class="border-b border-outline-variant/60 px-2 py-2 align-top">${inline(cell)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`);
+          continue;
+        }
+        const heading = line.match(/^(#{1,6})\s+(.+)$/);
+        if (heading) {
+          flushParagraph();
+          closeList();
+          const level = Math.min(heading[1].length + 1, 6);
+          html.push(`<h${level} class="font-headline-sm text-primary font-semibold mt-4 mb-2 first:mt-0">${inline(heading[2])}</h${level}>`);
+          continue;
+        }
+        const ordered = line.match(/^\d+[.)]\s+(.+)$/);
+        const unordered = line.match(/^[-*]\s+(.+)$/);
+        if (ordered || unordered) {
+          flushParagraph();
+          const nextList = ordered ? "ol" : "ul";
+          if (list !== nextList) {
+            closeList();
+            list = nextList;
+            html.push(`<${list} class="list-${list === "ol" ? "decimal" : "disc"} list-inside space-y-2 mb-3">`);
+          }
+          html.push(`<li>${inline((ordered || unordered)[1])}</li>`);
+          continue;
+        }
+        closeList();
+        paragraph.push(line);
+      }
+      flushParagraph();
+      closeList();
+      return html.join("");
+    }
+
+    function renderDocumentPreviews(d) {
+      const previews = document.getElementById("document-previews");
+      previews.innerHTML = documentTypes.map(([key, title, badge, description]) =>
+        `<div class="border border-outline-variant rounded-lg overflow-hidden bg-surface-container-lowest transition-all hover:border-outline">` +
+        `<div class="p-space-md flex items-center justify-between gap-space-sm bg-surface-container-lowest">` +
+        `<div class="flex items-start gap-space-md"><input checked class="doc-checkbox w-4 h-4 mt-1 accent-primary rounded cursor-pointer" data-doc="${key}" type="checkbox">` +
+        `<div><div class="flex items-center gap-space-sm"><h3 class="font-headline-sm text-headline-sm text-primary font-semibold">${title}</h3>` +
+        `<span class="font-mono-timestamp text-mono-timestamp px-1.5 py-0.5 rounded bg-surface-container text-on-surface-variant uppercase font-semibold">${badge}</span></div>` +
+        `<p class="font-body-sm text-body-sm text-on-surface-variant mt-0.5">${description}</p></div></div>` +
+        `<button class="btn-toggle-preview font-mono-caption text-mono-caption px-space-sm py-1 border border-outline-variant rounded text-on-surface-variant hover:text-primary hover:border-primary transition-colors flex items-center gap-1" data-target="preview-${key}" type="button">` +
+        `<span>View Preview</span><span class="material-symbols-outlined text-[14px]">expand_more</span></button></div>` +
+        `<div class="hidden p-space-md border-t border-outline-variant bg-surface text-left font-body-sm text-on-surface-variant max-h-[32rem] overflow-y-auto" id="preview-${key}">${markdownToHtml(d.preview_content[key])}</div></div>`
+      ).join("");
+      document.getElementById("download-list").innerHTML = documentTypes.map(([key, title]) =>
+        `<button class="btn-download-single font-mono-caption text-mono-caption px-space-sm py-1 bg-surface-container-low border border-outline-variant rounded text-primary hover:bg-surface-container transition-colors flex items-center gap-1" data-name="${title}.pdf" data-key="${key}" type="button"><span class="material-symbols-outlined text-[14px]">download</span><span>${title}</span></button>`
+      ).join("");
+      initPreviewButtons();
+      initDownloadButtons();
+      if (window.refreshDocumentSelection) window.refreshDocumentSelection();
+    }
+
+    function initPreviewButtons() {
+      document.querySelectorAll(".btn-toggle-preview").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const drawer = document.getElementById(btn.dataset.target);
+          const icon = btn.querySelector(".material-symbols-outlined");
+          const isHidden = drawer.classList.toggle("hidden");
+          btn.classList.toggle("bg-surface-container", !isHidden);
+          btn.querySelector("span").textContent = isHidden ? "View Preview" : "Hide Preview";
+          icon.textContent = isHidden ? "expand_more" : "expand_less";
+        });
+      });
+    }
+
+    function initDownloadButtons() {
+      document.querySelectorAll(".btn-download-single").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          showToast(`Preparing download: ${btn.dataset.key}.pdf`);
+          location.href = `${window.location.protocol === "file:" ? "http://127.0.0.1:8000" : ""}/api/jobs/${window.currentJobId}/download/${btn.dataset.key}.pdf`;
+        });
+      });
+    }
+
+    function loadResults() {
+      fetch(`${apiBase}/api/jobs/${window.currentJobId}/result`).then(async (r) => {
+        const body = await r.text();
+        let payload;
+        try {
+          payload = body ? JSON.parse(body) : {};
+        } catch {
+          throw new Error(`Server returned HTTP ${r.status}: ${body.slice(0, 160)}`);
+        }
+        if (!r.ok) throw new Error(payload.detail || r.statusText);
+        return payload;
+      }).then((d) => {
+        document.getElementById("result-filename").textContent = d.filename;
+        document.getElementById("result-duration").textContent = "Recorded " + d.duration;
+        document.getElementById("result-checksum").textContent = d.checksum;
+        document.getElementById("raw-range").textContent = d.raw_range;
+        renderDocumentPreviews(d);
+      }).catch((e) => showToast("Could not load results: " + e.message, true));
+    }
+  })();
+
+  // 3. Results Interaction: Selection, Preview Accordions, & Downloads
+  (function initResultsInteractions() {
+    const selectAllCheckbox = document.getElementById("check-select-all");
+    const btnDownloadSelected = document.getElementById("btn-download-selected");
+    const btnDownloadLabel = document.getElementById("btn-download-label");
+    const selectedSummaryCount = document.getElementById("selected-summary-count");
+
+    // Checkbox synchronization
+    function updateDownloadButton() {
+      const docCheckboxes = document.querySelectorAll(".doc-checkbox");
+      const selectedCount = document.querySelectorAll(".doc-checkbox:checked").length;
+      selectAllCheckbox.checked = (selectedCount === docCheckboxes.length);
+      selectAllCheckbox.indeterminate = (selectedCount > 0 && selectedCount < docCheckboxes.length);
+
+      selectedSummaryCount.textContent = `${selectedCount} of ${docCheckboxes.length} documents staged for batch export.`;
+      
+      if (selectedCount === 0) {
+        btnDownloadLabel.textContent = "No Documents Selected";
+        btnDownloadSelected.disabled = true;
+        btnDownloadSelected.classList.add("opacity-50", "pointer-events-none");
+      } else {
+        btnDownloadLabel.textContent = `Download ${selectedCount} ${selectedCount === 1 ? 'Document' : 'Documents'} (PDF)`;
+        btnDownloadSelected.disabled = false;
+        btnDownloadSelected.classList.remove("opacity-50", "pointer-events-none");
+      }
+    }
+    window.refreshDocumentSelection = updateDownloadButton;
+
+    selectAllCheckbox.addEventListener("change", (e) => {
+      document.querySelectorAll(".doc-checkbox").forEach((cb) => {
+        cb.checked = e.target.checked;
+      });
+      updateDownloadButton();
+    });
+
+    document.getElementById("document-previews").addEventListener("change", updateDownloadButton);
+
+    // Bulk download trigger
+    btnDownloadSelected.addEventListener("click", () => {
+      const count = document.querySelectorAll(".doc-checkbox:checked").length;
+      const docs = [...document.querySelectorAll(".doc-checkbox:checked")].map((c) => c.dataset.doc).join(",");
+      showToast(`Initiated bundle package: ${count} verified PDF documents.`);
+      location.href = `/api/jobs/${window.currentJobId}/download.zip?docs=${docs}`;
+    });
+    updateDownloadButton();
+  })();
+
+  // Toast Helper
+  function showToast(message, isError = false) {
+    const toast = document.getElementById("toast-notify");
+    const toastText = document.getElementById("toast-text");
+    const icon = toast.querySelector(".material-symbols-outlined");
+
+    toastText.textContent = message;
+    if (isError) {
+      icon.textContent = "error";
+      icon.className = "material-symbols-outlined text-error text-[18px]";
+    } else {
+      icon.textContent = "check_circle";
+      icon.className = "material-symbols-outlined text-green-400 text-[18px]";
+    }
+
+    toast.classList.remove("translate-y-20", "opacity-0");
+    toast.classList.add("translate-y-0", "opacity-100");
+
+    setTimeout(() => {
+      toast.classList.remove("translate-y-0", "opacity-100");
+      toast.classList.add("translate-y-20", "opacity-0");
+    }, 2800);
+  }
+</script></div></main><footer class="w-full bg-surface-container-lowest border-t border-outline-variant"></footer>
+
+</body></html>

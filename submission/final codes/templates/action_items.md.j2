@@ -1,0 +1,18 @@
+## Action Items
+
+{% if action_items %}
+| # | Task | Owner | Deadline |
+|---|------|-------|----------|
+{% for item in action_items %}
+| {{ loop.index }} | {{ item.task | replace("|", "\\|") }} | {{ item.owner }} | {{ item.deadline }} |
+{% endfor %}
+{% else %}
+**No action items were assigned during this meeting.**
+{% endif %}
+
+{% if action_items %}
+### Evidence
+{% for item in action_items %}
+- **{{ loop.index }}.** "{{ item.evidence }}"
+{% endfor %}
+{% endif %}

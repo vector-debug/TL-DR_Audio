@@ -1,0 +1,27 @@
+{
+  "audio_file": "..\\Recordings\\09-15-2026-Council-Meeting.mp3",
+  "outputs": {
+    "raw_transcript": "outputs\\raw_transcript.txt",
+    "refined_transcript": "outputs\\refined_transcript.txt",
+    "minutes": "outputs\\minutes.md",
+    "key_decisions": "outputs\\key_decisions.md",
+    "action_items": "outputs\\action_items.md",
+    "meeting_record": "outputs\\meeting_record.json",
+    "raw_transcript_segments": "outputs\\raw_transcript.json",
+    "refinement_log": "outputs\\change_log.json"
+  },
+  "stage1": {
+    "segments": 144,
+    "language": "en",
+    "language_probability": 1
+  },
+  "stage2": {
+    "chunks": 4,
+    "changes": 1,
+    "fallbacks": 0
+  },
+  "stage3": {
+    "decisions": 8,
+    "action_items": 0
+  }
+}

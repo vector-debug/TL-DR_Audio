@@ -1,0 +1,9 @@
+Read this meeting transcript excerpt. Return JSON only:
+{
+    "domain":"short phrase",
+    "summary":"1-2 sentences on what the meeting is about",
+    "key terms":['up to 7 domain terms, acronyms, names that appear to be spelled correctly]
+    }
+
+excerpt:
+{text}

@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "total_changes": 1,
+    "fallbacks": 0,
+    "percent_words_changed": 0.16,
+    "chunks": 4,
+    "domain": "RM Springfield council meeting",
+    "domain_source": "auto-detected",
+    "context": "The meeting covered agenda approval, minutes adoption, consent agenda items, board of revision scheduling, ward appropriations, and delegation to regional events, with unanimous decisions and discussion of community initiatives.",
+    "key_terms": []
+  },
+  "changes": [
+    {
+      "original": "p",
+      "corrected": "pm",
+      "reason": "Corrected time format to 'pm'",
+      "confidence": 0.95,
+      "chunk_id": 1
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "fallback": false,
+      "percent_words_changed": 0.25,
+      "failure_reason": ""
+    },
+    {
+      "chunk_id": 2,
+      "fallback": false,
+      "percent_words_changed": 0.0,
+      "failure_reason": ""
+    },
+    {
+      "chunk_id": 3,
+      "fallback": false,
+      "percent_words_changed": 0.26,
+      "failure_reason": ""
+    },
+    {
+      "chunk_id": 4,
+      "fallback": false,
+      "percent_words_changed": 0.0,
+      "failure_reason": ""
+    }
+  ]
+}
