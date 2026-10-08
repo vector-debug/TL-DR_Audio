@@ -213,7 +213,7 @@ Detailed design notes are in `docs/`:
 
 ## Team
 
-InterIIT Meeting Assistant team — hackathon submission.
+TL;DR_Audio
 
 ## License
 
